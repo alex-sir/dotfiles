@@ -1,0 +1,1 @@
+set show-all-if-ambiguous on # single tab partially completes the current word or if no partial completions are possible, shows all possible completions
