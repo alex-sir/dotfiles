@@ -1,0 +1,8 @@
+[manager]
+linemode = "size"
+
+[opener]
+open = [{ run = 'xdg-open "$@"', orphan = true, desc = "Open", for = "linux" }]
+play = [
+    { run = 'mpv --player-operation-mode=pseudo-gui "$@"', orphan = true, for = "unix" },
+]
