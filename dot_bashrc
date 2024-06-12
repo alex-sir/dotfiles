@@ -30,3 +30,5 @@ function yy() {
 
 # Allow zoxide usage (KEEP AT THE END OF THIS CONFIG FILE)
 eval "$(zoxide init bash)"
+# Allow starship usage (KEEP AT THE END OF THIS CONFIG FILE)
+eval "$(starship init bash)"
