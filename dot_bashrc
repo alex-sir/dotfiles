@@ -8,8 +8,9 @@
 # Aliases
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
-alias ll='ls -lh'
+alias l='ls -lh'
 alias la='ls -lah'
+alias ff='fastfetch'
 
 PS1='[\u@\h \W]\$ '
 
