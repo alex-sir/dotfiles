@@ -11,6 +11,9 @@ alias grep='grep --color=auto'
 alias l='ls -lh'
 alias la='ls -lah'
 alias ff='fastfetch'
+alias ytd='yt-dlp --cookies-from-browser firefox'
+alias ytd-dt='yt-dlp --cookies-from-browser firefox --write-description --write-thumbnail'
+alias gld='gallery-dl -D . --cookies-from-browser firefox' # Download to the current directory
 
 PS1='[\u@\h \W]\$ '
 
@@ -33,3 +36,5 @@ function yy() {
 eval "$(zoxide init bash)"
 # Allow starship usage (KEEP AT THE END OF THIS CONFIG FILE)
 eval "$(starship init bash)"
+# For nvm (Node Version Manager)
+source /usr/share/nvm/init-nvm.sh
