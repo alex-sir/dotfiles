@@ -1,0 +1,13 @@
+[manager]
+# Count
+count_copied = { fg = "#282c34", bg = "#98c379" }
+count_cut = { fg = "#282c34", bg = "#e06c75" }
+count_selected = { fg = "#282c34", bg = "#60aeef" }
+
+[status]
+separator_style = { fg = "#494d64", bg = "#494d64" }
+
+# Mode
+mode_normal = { fg = "#282c34", bg = "#60aeef", bold = true }
+mode_select = { fg = "#282c34", bg = "#98c379", bold = true }
+mode_unset = { fg = "#282c34", bg = "#e06c75", bold = true }
