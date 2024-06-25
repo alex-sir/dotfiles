@@ -14,7 +14,8 @@ alias len='less -N'
 alias ff='fastfetch'
 alias ytd='yt-dlp --cookies-from-browser firefox'
 alias ytd-dt='yt-dlp --cookies-from-browser firefox --write-description --write-thumbnail'
-alias gld='gallery-dl -D . --cookies-from-browser firefox' # Download to the current directory
+alias gld='gallery-dl -D . --cookies-from-browser firefox'                       # Download to the current directory
+alias kup='curl -L https://sw.kovidgoyal.net/kitty/installer.sh | sh /dev/stdin' # Update kitty to the latest version
 
 PS1='[\u@\h \W]\$ '
 
