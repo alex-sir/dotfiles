@@ -15,9 +15,11 @@ alias len='less -N' # 'less' with number lines
 # Git
 alias glg='git lg' # 'lg' is a heavily customized 'log' alias in a '.gitconfig' file
 alias gst='git status'
-alias ga='git add .'     # Add all changes to the commit
-alias gm='git commit -m' # Add a commit with a message
-alias gp='git push'      # Push to remote
+alias ga='git add .'                     # Add all changes to the commit
+alias grs='git restore --staged .'       # Unstage all staged files
+alias gm='git commit -m'                 # Add a commit with a message
+alias gma='git commit --amend --no-edit' # Update the most recent commit without changing the commit message
+alias gp='git push'                      # Push to remote
 # Downloading and Archiving
 alias ytd='yt-dlp --cookies-from-browser firefox'
 alias ytd-dt='yt-dlp --cookies-from-browser firefox --write-description --write-thumbnail'
@@ -44,12 +46,33 @@ function yy() {
 	rm -f -- "$tmp"
 }
 
-# Git: Add all changes to a commit, add a commit with a message, and push to remote
+# Git
+# Add all changes to a commit and add a commit with a message
+# Usage: gam "commit message"
+# NOTE: REQUIRES the following Git aliases that are defined above - 'ga' and 'gm'
+gam() {
+	ga && gm "$1"
+}
+# Add all changes to a commit, add a commit with a message, and push to remote
 # Usage: gamp "commit message"
+# NOTE: REQUIRES the following Git aliases that are defined above - 'ga', 'gm', and 'gp'
 gamp() {
-	ga && gm "$1" && gp
+	gam "$@" && gp
+}
+# Add all changes to a commit and update the most recent commit without changing its message
+# Usage: gama
+# NOTE: REQUIRES the following Git aliases that are defined above - 'ga' and 'gma'
+gama() {
+	ga && gma
+}
+# Add all changes to a commit, update the most recent commit without changing its message, and push to remote
+# Usage: gamap
+# NOTE: REQUIRES the following Git aliases that are defined above - 'ga', 'gma', and 'gp'
+gamap() {
+	gama && gp
 }
 
+# base64
 # Decode base64 data and output the result to the terminal
 # Usage: b64 base64string
 b64() {
