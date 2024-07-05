@@ -16,6 +16,7 @@ alias len='less -N' # 'less' with number lines
 alias glg='git lg' # 'lg' is a heavily customized 'log' alias in a '.gitconfig' file
 alias gst='git status'
 alias ga='git add .'                     # Add all changes to the commit
+alias gr='git restore .'                 # Discard all changes to files
 alias grs='git restore --staged .'       # Unstage all staged files
 alias gm='git commit -m'                 # Add a commit with a message
 alias gma='git commit --amend --no-edit' # Update the most recent commit without changing the commit message
