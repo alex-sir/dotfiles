@@ -91,5 +91,3 @@ b32() {
 eval "$(zoxide init bash)"
 # Allow starship usage (KEEP AT THE END OF THIS CONFIG FILE)
 eval "$(starship init bash)"
-# For nvm (Node Version Manager)
-source /usr/share/nvm/init-nvm.sh
