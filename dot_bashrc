@@ -6,12 +6,17 @@
 [[ $- != *i* ]] && return
 
 # Aliases
-# Linux Commands
+# Default Linux Commands
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
 alias l='ls -lh'    # Human-readable long listing format
 alias la='ls -lah'  # Same as 'l' above but display hidden files
 alias len='less -N' # 'less' with number lines
+# eza: All of the aliases display icons automatically and display entries as hyperlinks. Long views show the Git status for files and directories and a custom time style (mm-dd-yy hh:mm) (24-hour clock).
+alias e='eza --icons=auto --hyperlink -lgH --git --git-repos --time-style='\''+%m-%d-%y %H:%M'\'''     # display extended details, group owner, and number of hard links
+alias ea='eza --icons=auto --hyperlink -a -lgH --git --git-repos --time-style='\''+%m-%d-%y %H:%M'\''' # display extended details, group owner, number of hard links, and hidden (dot) files
+alias eg='eza --icons=auto --hyperlink'                                                                # display entries as a grid
+alias ega='eza --icons=auto --hyperlink -a'                                                            # display entries as a grid and hidden (dot) files
 # Git
 alias glg='git lg' # 'lg' is a heavily customized 'log' alias in a '.gitconfig' file
 alias gst='git status'
