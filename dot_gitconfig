@@ -4,4 +4,4 @@
 	email = alexcarbajal710@gmail.com
 	name = axc
 [alias]
-   lg = log --color --graph --date=format:'%a %Y-%m-%d %H:%M:%S' --pretty=format:'%Cred%h%Creset - %Cblue(%ad) %C(magenta)<%an>%Creset%C(yellow)%d%Creset %n ↳ %s%n' 
+   lg = log --color --graph --date=format:'%a %m-%d-%y %H:%M' --pretty=format:'%Cred%h%Creset - %Cblue(%ad) %C(magenta)<%an>%Creset%C(yellow)%d%Creset %n ↳ %s%n'
