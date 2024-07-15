@@ -12,17 +12,25 @@ alias grep='grep --color=auto'
 alias l='ls -lh'    # Human-readable long listing format
 alias la='ls -lah'  # Same as 'l' above but display hidden files
 alias len='less -N' # 'less' with number lines
-# eza: All of the aliases display icons automatically and display entries as hyperlinks. Long views show the Git status for files and directories and a custom time style (mm-dd-yy hh:mm) (24-hour clock).
-alias e='eza --icons=auto --hyperlink -lgH --git --git-repos --time-style='\''+%m-%d-%y %H:%M'\'''     # display extended details, group owner, and number of hard links
-alias ea='eza --icons=auto --hyperlink -a -lgH --git --git-repos --time-style='\''+%m-%d-%y %H:%M'\''' # display extended details, group owner, number of hard links, and hidden (dot) files
-alias eg='eza --icons=auto --hyperlink'                                                                # display entries as a grid
-alias ega='eza --icons=auto --hyperlink -a'                                                            # display entries as a grid and hidden (dot) files
+# eza: All of the aliases display icons automatically and display entries as hyperlinks, making them clickable.
+# Long views show the Git status for files and directories and a custom time style (mm-dd-yy hh:mm) (24-hour clock).
+# Display extended details, group owner, and number of hard links
+alias e='eza --icons=auto --hyperlink -lgH --git --git-repos --time-style='\''+%m-%d-%y %H:%M'\'''
+# Display extended details, group owner, number of hard links, and hidden (dot) files
+alias ea='eza --icons=auto --hyperlink -a -lgH --git --git-repos --time-style='\''+%m-%d-%y %H:%M'\'''
+# Display entries as a grid
+alias eg='eza --icons=auto --hyperlink'
+# Display entries as a grid and hidden (dot) files
+alias ega='eza --icons=auto --hyperlink -a'
+# bat
+alias b='bat'
 # Git
 alias glg='git lg' # 'lg' is a heavily customized 'log' alias in a '.gitconfig' file
 alias gst='git status'
 alias ga='git add .'                     # Add all changes to the commit
-alias gr='git restore .'                 # Discard all changes to files
-alias grs='git restore --staged .'       # Unstage all staged files
+alias gr='git remote'                    # List remote repositories
+alias gb='git branch'                    # List branches
+alias grts='git restore --staged .'      # Unstage all staged files
 alias gm='git commit -m'                 # Add a commit with a message
 alias gma='git commit --amend --no-edit' # Update the most recent commit without changing the commit message
 alias gp='git push'                      # Push to remote
@@ -30,8 +38,8 @@ alias gp='git push'                      # Push to remote
 alias ytd='yt-dlp --cookies-from-browser firefox'
 alias ytd-dt='yt-dlp --cookies-from-browser firefox --write-description --write-thumbnail'
 alias gld='gallery-dl -D . --cookies-from-browser firefox' # Download to the current directory
-# Kitty
-alias kup='curl -L https://sw.kovidgoyal.net/kitty/installer.sh | sh /dev/stdin' # Install kitty (if not installed), otherwise update kitty to the latest version
+# kitty: Install kitty (if not installed), otherwise update kitty to the latest version.
+alias kup='curl -L https://sw.kovidgoyal.net/kitty/installer.sh | sh /dev/stdin'
 # Other
 alias ff='fastfetch'
 
