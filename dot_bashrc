@@ -34,6 +34,10 @@ alias grts='git restore --staged .'      # Unstage all staged files
 alias gm='git commit -m'                 # Add a commit with a message
 alias gma='git commit --amend --no-edit' # Update the most recent commit without changing the commit message
 alias gp='git push'                      # Push to remote
+# pacman (Arch Linux)
+alias pmu="sudo pacman -Syu" # Fully update an Arch Linux system
+alias pms="sudo pacman -S"   # Install an Arch Linux package
+alias pmr="sudo pacman -Rs"  # Remove an Arch Linux package and its unneeded dependencies
 # Downloading and Archiving
 alias ytd='yt-dlp --cookies-from-browser firefox'
 alias ytd-dt='yt-dlp --cookies-from-browser firefox --write-description --write-thumbnail'
@@ -47,6 +51,7 @@ PS1='[\u@\h \W]\$ '
 
 # Environment variables
 export EDITOR="nvim"
+export PAGER="bat"
 export PATH="${PATH}:~/scripts"
 export PATH="${PATH}:~/.local/bin"
 
@@ -84,6 +89,25 @@ gama() {
 # NOTE: REQUIRES the following Git aliases that are defined above - 'ga', 'gma', and 'gp'
 gamap() {
     gama && gp
+}
+
+# pacman (Arch Linux): Both functions below use ripgrep (rg)
+# View an installed package
+# Usage: pmq package
+pmq() {
+    pacman -Q | rg "$1"
+}
+# View an explicitly installed package
+# Usage: pmqe package
+pmqe() {
+    pacman -Qe | rg "$1"
+}
+
+# arch-wiki-lite & arch-wiki-docs: Search the entire Arch Wiki offline
+# Usage: aw entry
+aw() {
+    wiki-search-html "$1"
+    # NOTE: 'wiki-search entry' displays the selected entry in the terminal, but it doesn't work well
 }
 
 # base64
