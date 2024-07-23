@@ -35,13 +35,19 @@ alias gm='git commit -m'                 # Add a commit with a message
 alias gma='git commit --amend --no-edit' # Update the most recent commit without changing the commit message
 alias gp='git push'                      # Push to remote
 # pacman (Arch Linux)
-alias pmu="sudo pacman -Syu" # Fully update an Arch Linux system
-alias pms="sudo pacman -S"   # Install an Arch Linux package
-alias pmr="sudo pacman -Rs"  # Remove an Arch Linux package and its unneeded dependencies
+alias pmu="sudo pacman -Syu"                       # Fully update an Arch Linux system
+alias pms="sudo pacman -S"                         # Install an Arch Linux package
+alias pmr="sudo pacman -Rs"                        # Remove an Arch Linux package and its unneeded dependencies
+alias pmc="sudo pacman -Qdtq | sudo pacman -Rns -" # Remove unused packages (orphans)
+# makepkg (Arch Linux)
+# Build the package, install needed dependencies, install the package file, and clean up leftover files/directories
+alias mpkg="makepkg -sic"
 # Downloading and Archiving
 alias ytd='yt-dlp --cookies-from-browser firefox'
 alias ytd-dt='yt-dlp --cookies-from-browser firefox --write-description --write-thumbnail'
 alias gld='gallery-dl -D . --cookies-from-browser firefox' # Download to the current directory
+# musikcube
+alias mc='musikcube'
 # kitty: Install kitty (if not installed), otherwise update kitty to the latest version.
 alias kup='curl -L https://sw.kovidgoyal.net/kitty/installer.sh | sh /dev/stdin'
 # Other
