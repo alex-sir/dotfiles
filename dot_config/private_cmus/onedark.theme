@@ -9,25 +9,25 @@ set color_error=lightred
 set color_info=lightyellow
 
 # Color of the separator line between windows in view (1)
-set color_separator=blue
+set color_separator=green
 
 # Status line colors
-set color_statusline_bg=lightyellow
-set color_statusline_fg=black
+set color_statusline_bg=default
+set color_statusline_fg=lightyellow
 
 # Colors of the line displaying currently playing track
-set color_titleline_bg=blue
-set color_titleline_fg=black
+set color_titleline_bg=default
+set color_titleline_fg=lightblue
 
 # Window background color
 set color_win_bg=default
 
 # Color of currently playing track
-set color_win_cur=lightyellow
+set color_win_cur=lightmagenta
 
 # Colors of the selected row which is also the currently playing track in active window
 set color_win_cur_sel_bg=blue
-set color_win_cur_sel_fg=black
+set color_win_cur_sel_fg=darkgray
 
 # Color of directories in browser
 set color_win_dir=lightblue
@@ -36,17 +36,21 @@ set color_win_dir=lightblue
 set color_win_fg=default
 
 # Colors of the selected row which is also the currently playing track in inactive window
-set color_win_inactive_cur_sel_bg=gray
-set color_win_inactive_cur_sel_fg=black
+set color_win_inactive_cur_sel_bg=default
+set color_win_inactive_cur_sel_fg=lightmagenta
 
 # Colors of selected row in inactive window
-set color_win_inactive_sel_bg=gray
-set color_win_inactive_sel_fg=black
+set color_win_inactive_sel_bg=default
+set color_win_inactive_sel_fg=lightblue
 
 # Colors of selected row in active window
 set color_win_sel_bg=blue
-set color_win_sel_fg=black
+set color_win_sel_fg=darkgray
 
 # Colors of window titles (topmost line of the screen)
-set color_win_title_bg=blue
-set color_win_title_fg=black
+set color_win_title_bg=default
+set color_win_title_fg=lightyellow
+
+# Colors of the album row show in the track window
+set color_trackwin_album_bg=default
+set color_trackwin_album_fg=red
