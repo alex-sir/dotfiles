@@ -64,8 +64,11 @@ alias gldm='gallery-dl -D . --write-metadata --cookies-from-browser firefox'
 # *** musikcube ***
 alias mc='musikcube'
 
-# *** kitty: Install kitty (if not installed), otherwise update kitty to the latest version. ***
+# *** kitty ***
+# Install kitty (if not installed), otherwise update kitty to the latest version
 alias kup='curl -L https://sw.kovidgoyal.net/kitty/installer.sh | sh /dev/stdin'
+alias icat="kitten icat"  # Display images in the terminal
+alias kdiff="kitten diff" # Fast side-by-side diff tool w/ syntax highlighting & images
 
 # *** fastfetch ***
 alias ff='fastfetch'
