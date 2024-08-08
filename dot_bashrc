@@ -9,9 +9,11 @@
 # *** Default Linux Commands ***
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
-alias l='ls -lh'    # Human-readable long listing format
-alias la='ls -lah'  # Same as 'l' but display hidden files
-alias len='less -N' # 'less' with number lines
+alias l='ls -lh'      # Human-readable long listing format
+alias la='ls -lah'    # Same as 'l' but display hidden files
+alias len='less -N'   # 'less' with number lines
+alias tarc='tar czvf' # Create an archive (tarc <archive name> <filelist>)
+alias tarx='tar xzvf' # Extract an archive (tarx <archive name>)
 
 # *** eza: All of the aliases display icons automatically and display entries as hyperlinks, making them clickable.
 # Long views show the Git status for files and directories and a custom time style (mm-dd-yy hh:mm) (24-hour clock). ***
@@ -72,6 +74,11 @@ alias kdiff="kitten diff" # Fast side-by-side diff tool w/ syntax highlighting &
 
 # *** fastfetch ***
 alias ff='fastfetch'
+
+# *** ouch ***
+alias ouchc='ouch compress'   # Compress files (ouchc <input files> <output file>)
+alias ouchd='ouch decompress' # Decompress files (ouchd <compressed file>)
+alias ouchl='ouch list -t'    # List contents of an archive (ouchl <compressed file>)
 
 PS1='[\u@\h \W]\$ '
 
