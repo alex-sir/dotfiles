@@ -48,7 +48,11 @@ alias pmc="sudo pacman -Qdtq | sudo pacman -Rns -" # Remove unused packages (orp
 
 # *** makepkg (Arch Linux) ***
 # Build the package, install needed dependencies, install the package file, and clean up leftover files/directories
-alias mpkg="makepkg -sic"
+alias mpkg='makepkg -sic'
+
+# *** Reflector (Arch Linux) ***
+# Sort the five most recetly synchronized https Pacman mirrors by download speed and overwrite the local mirrorlist
+alias reflec='reflector --latest 5 --sort rate --protocol https --save /etc/pacman.d/mirrorlist'
 
 # *** yt-dlp ***
 alias ytd='yt-dlp --cookies-from-browser firefox'
