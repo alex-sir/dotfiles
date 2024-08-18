@@ -39,6 +39,7 @@ alias grts='git restore --staged .'      # Unstage all staged files
 alias gm='git commit -m'                 # Add a commit with a message
 alias gma='git commit --amend --no-edit' # Update the most recent commit without changing the commit message
 alias gp='git push'                      # Push to remote
+alias gpf='git push -f'                  # Force push to remote
 
 # *** pacman (Arch Linux) ***
 alias pmu="sudo pacman -Syu"                       # Fully update an Arch Linux system
@@ -125,11 +126,11 @@ gamp() {
 gama() {
     ga && gma
 }
-# Add all changes to a commit, update the most recent commit without changing its message, and push to remote
+# Add all changes to a commit, update the most recent commit without changing its message, and force push to remote
 # Usage: gamap
-# NOTE: REQUIRES the following Git aliases that are defined above - 'ga', 'gma', and 'gp'
+# NOTE: REQUIRES the following Git aliases that are defined above - 'ga', 'gma', and 'gpf'
 gamap() {
-    gama && gp
+    gama && gpf
 }
 
 # *** pacman (Arch Linux) ***
