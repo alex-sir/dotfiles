@@ -89,6 +89,13 @@ alias chr='chezmoi re-add'           # Re-add modified files
 alias chd='chezmoi diff'             # Print diff between the target and destination state
 alias chu='chezmoi update'           # Pull and apply any changes
 
+# *** trash-cli ***
+alias trp='trash-put'     # Trash files and directories
+alias tre='trash-empty'   # Empty the trashcan(s)
+alias trl='trash-list'    # List trashed files
+alias trr='trash-restore' # Restore a trashed file
+alias trrm='trash-rm'     # Remove individual files from the trashcan
+
 PS1='[\u@\h \W]\$ '
 
 # Environment variables
