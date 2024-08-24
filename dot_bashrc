@@ -15,6 +15,10 @@ alias len='less -N'   # 'less' with number lines
 alias tarc='tar czvf' # Create an archive (tarc <archive name> <filelist>)
 alias tarx='tar xzvf' # Extract an archive (tarx <archive name>)
 
+# *** SSH Logins ***
+alias elec='ssh alexander.carbajal@elec.tricity.wsu.edu'
+alias pleiades='ssh alexander.carbajal@pleiades.tricity.wsu.edu'
+
 # *** eza: All of the aliases display icons automatically and display entries as hyperlinks, making them clickable.
 # Long views show the Git status for files and directories and a custom time style (mm-dd-yy hh:mm) (24-hour clock). ***
 # Display extended details, group owner, and number of hard links
