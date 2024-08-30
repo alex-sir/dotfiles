@@ -119,24 +119,28 @@ function yy() {
 }
 
 # *** Git ***
+
 # Add all changes to a commit and add a commit with a message
 # Usage: gam "commit message"
 # NOTE: REQUIRES the following Git aliases that are defined above - 'ga' and 'gm'
 gam() {
     ga && gm "$1"
 }
+
 # Add all changes to a commit, add a commit with a message, and push to remote
 # Usage: gamp "commit message"
 # NOTE: REQUIRES the following Git aliases that are defined above - 'ga', 'gm', and 'gp'
 gamp() {
     gam "$@" && gp
 }
+
 # Add all changes to a commit and update the most recent commit without changing its message
 # Usage: gama
 # NOTE: REQUIRES the following Git aliases that are defined above - 'ga' and 'gma'
 gama() {
     ga && gma
 }
+
 # Add all changes to a commit, update the most recent commit without changing its message, and force push to remote
 # Usage: gamap
 # NOTE: REQUIRES the following Git aliases that are defined above - 'ga', 'gma', and 'gpf'
@@ -145,12 +149,14 @@ gamap() {
 }
 
 # *** pacman (Arch Linux) ***
+
 # NOTE: 'pmq' and 'pmqe' use ripgrep (rg)
 # View an installed package
 # Usage: pmq package
 pmq() {
     pacman -Q | rg "$1"
 }
+
 # View an explicitly installed package
 # Usage: pmqe package
 pmqe() {
@@ -162,6 +168,32 @@ pmqe() {
 aw() {
     wiki-search-html "$1"
     # NOTE: 'wiki-search entry' displays the selected entry in the terminal, but it doesn't work well
+}
+
+# *** scp: OpenSSH secure file copy ***
+
+# Copy a file to Pleiades (cpts411)
+# Usage: scp-p file
+scp-p() {
+    scp "$1" alexander.carbajal@pleiades.tricity.wsu.edu:/home/alexander.carbajal/cpts411
+}
+
+# Copy files recursively to Pleiades (cpts411)
+# Usage: scp-pr directory
+scp-pr() {
+    scp -r "$1" alexander.carbajal@pleiades.tricity.wsu.edu:/home/alexander.carbajal/cpts411
+}
+
+# Copy a file in Pleiades to the current working directory in the local machine (cpts411)
+# Usage: scp-pl file
+scp-pl() {
+    scp alexander.carbajal@pleiades.tricity.wsu.edu:/home/alexander.carbajal/cpts411/"$1" .
+}
+
+# Copy files in Pleiades to the current working directory in the local machine (cpts411)
+# Usage: scp-plr directory
+scp-plr() {
+    scp -r alexander.carbajal@pleiades.tricity.wsu.edu:/home/alexander.carbajal/cpts411/"$1" .
 }
 
 # *** base64 ***
