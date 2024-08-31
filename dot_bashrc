@@ -14,6 +14,7 @@ alias la='ls -lah'    # Same as 'l' but display hidden files
 alias len='less -N'   # 'less' with number lines
 alias tarc='tar czvf' # Create an archive (tarc <archive name> <filelist>)
 alias tarx='tar xzvf' # Extract an archive (tarx <archive name>)
+alias tart='tar -tzf' # List the contens of a .tar.gz or .tgz file
 
 # *** SSH Logins ***
 alias elec='ssh alexander.carbajal@elec.tricity.wsu.edu'
