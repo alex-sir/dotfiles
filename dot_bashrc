@@ -19,6 +19,7 @@ alias tart='tar -tzf' # List the contens of a .tar.gz or .tgz file
 # *** SSH Logins ***
 alias elec='ssh alexander.carbajal@elec.tricity.wsu.edu'
 alias pleiades='ssh alexander.carbajal@pleiades.tricity.wsu.edu'
+alias vcluster='ssh alexander.carbajal@vcluster.tricities.wsu.edu'
 
 # *** eza: All of the aliases display icons automatically and display entries as hyperlinks, making them clickable.
 # Long views show the Git status for files and directories and a custom time style (mm-dd-yy hh:mm) (24-hour clock). ***
@@ -191,10 +192,34 @@ scp-pl() {
     scp alexander.carbajal@pleiades.tricity.wsu.edu:/home/alexander.carbajal/cpts411/"$1" .
 }
 
-# Copy files in Pleiades to the current working directory in the local machine (cpts411)
+# Copy files recursively in Pleiades to the current working directory in the local machine (cpts411)
 # Usage: scp-plr directory
 scp-plr() {
     scp -r alexander.carbajal@pleiades.tricity.wsu.edu:/home/alexander.carbajal/cpts411/"$1" .
+}
+
+# Copy a file to VCluster (cpts411)
+# Usage: scp-v file
+scp-v() {
+    scp "$1" alexander.carbajal@vcluster.tricities.wsu.edu:/home/alexander.carbajal/cpts411
+}
+
+# Copy files recursively to VCluster (cpts411)
+# Usage: scp-vr directory
+scp-vr() {
+    scp -r "$1" alexander.carbajal@vcluster.tricities.wsu.edu:/home/alexander.carbajal/cpts411
+}
+
+# Copy a file in VCluster to the current working directory in the local machine (cpts411)
+# Usage: scp-vl file
+scp-vl() {
+    scp alexander.carbajal@vcluster.tricities.wsu.edu:/home/alexander.carbajal/cpts411/"$1" .
+}
+
+# Copy files recursively in VCluster to the current working directory in the local machine (cpts411)
+# Usage: scp-vlr directory
+scp-vlr() {
+    scp -r alexander.carbajal@vcluster.tricities.wsu.edu:/home/alexander.carbajal/cpts411/"$1" .
 }
 
 # *** base64 ***
