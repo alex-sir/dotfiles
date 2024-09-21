@@ -102,6 +102,11 @@ alias trl='trash-list'    # List trashed files
 alias trr='trash-restore' # Restore a trashed file
 alias trrm='trash-rm'     # Remove individual files from the trashcan
 
+# *** MPI ***
+# Compile a C MPI file w/ debugging information, all warnings on, and a specified
+# executable filename
+alias mpic='mpicc -g -Wall -o'
+
 PS1='[\u@\h \W]\$ '
 
 # Environment variables
