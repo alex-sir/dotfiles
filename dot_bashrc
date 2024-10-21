@@ -112,6 +112,10 @@ alias mpic='mpicc -g -Wall -o' # mpic <executable> <source file>
 # executable filename
 alias opmp='gcc -g -Wall -fopenmp -o' # openmp <executable> <source file>
 
+# *** Make ***
+alias makec='make clean'      # Remove *.o files, but leave executable
+alias makei='make immaculate' # Remove all files that can be reconstructed through "make"
+
 PS1='[\u@\h \W]\$ '
 
 # Environment variables
