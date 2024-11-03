@@ -73,6 +73,8 @@ alias ytd-adt='yt-dlp --cookies-from-browser firefox -x --embed-metadata --embed
 alias gld='gallery-dl -D . --cookies-from-browser firefox' # Download to the current directory
 # Same as 'gld' but additionally download metadata
 alias gldm='gallery-dl -D . --write-metadata --cookies-from-browser firefox'
+# Download a Pixiv ugoira as a WebM file
+alias gldu='gallery-dl -D . --cookies-from-browser firefox --ugoira webm'
 
 # *** kitty ***
 # Install kitty (if not installed), otherwise update kitty to the latest version
