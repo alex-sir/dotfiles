@@ -1,0 +1,60 @@
+colorscheme onedark
+q
+live-filter 
+refresh
+quit
+exit
+pl-delete default
+ha
+halcyonn
+colorscheme penis
+colo
+pl-create 1
+pl-create 2
+pl-create 3
+pl-create 4
+pl-create 5
+pl-delete 󰓎 󰓎 󰓎 󰓎 󰓎 
+pl-delete 󰓎 󰓎 󰓎 󰓎 󰓎
+pl-create 󰓎 󰓎 󰓎 󰓎 󰓎 
+pl-delete *****
+pl-delete ****
+pl-delete ***
+pl-delete **
+pl-delete ** ***
+pl-delete *
+mute
+save
+pl-create *
+pl-create **
+pl-create ***
+pl-create ****
+pl-create *****
+pl-create favorites
+live-filter
+update
+rand
+filter 
+color
+colorscheme onedakr
+live-filter jj
+colorschme onedark
+live-filter q
+colorscheme default
+colorscheme dracula
+colorscheme cyan
+colorscheme amazon
+colorscheme zenburn
+colorscheme xterm-white
+colorscheme solarized-light
+colorscheme solarized-dark
+colorscheme spotify
+colorscheme night
+colorscheme jellybeans
+colorscheme gruvbox-alt
+colorscheme gruvbox-warm
+colorscheme gruvbox
+colorscheme green
+colorscheme green-mono-88
+colorscheme gray-88
+bind common <key> colorscheme
