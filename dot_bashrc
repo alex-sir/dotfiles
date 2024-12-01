@@ -54,8 +54,9 @@ alias pmr="sudo pacman -Rs"                        # Remove an Arch Linux packag
 alias pmc="sudo pacman -Qdtq | sudo pacman -Rns -" # Remove unused packages (orphans)
 
 # *** makepkg (Arch Linux) ***
-# Build the package, install needed dependencies, install the package file, and clean up leftover files/directories
-alias mpkg='makepkg -sic'
+# Build the package and install needed dependencies, install the package file,
+# clean up leftover files/directories, and remove make dependencies
+alias mpkg='makepkg -sicr'
 
 # *** Reflector (Arch Linux) ***
 # Sort the five most recetly synchronized https pacman mirrors by download speed and overwrite the local mirrorlist
