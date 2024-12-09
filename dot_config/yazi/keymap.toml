@@ -4,8 +4,8 @@ run = "plugin --sync max-preview"
 desc = "Maximize or restore preview"
 
 [[manager.prepend_keymap]]
-on   = "!"
-run  = 'shell "$SHELL" --block --confirm'
+on = "!"
+run = 'shell "$SHELL" --block --confirm'
 desc = "Open shell here"
 
 [[manager.prepend_keymap]]
@@ -19,11 +19,11 @@ run = "arrow -5"
 desc = "Move cursor up 5"
 
 [[manager.prepend_keymap]]
-on   = [ "g", "w" ]
-run  = "cd ~/Downloads/College/WSU/'2024 Fall Semester'"
+on = ["g", "w"]
+run = "cd ~/Downloads/College/WSU/'2025 Spring Semester'"
 desc = "Go to the WSU directory"
 
 [[manager.prepend_keymap]]
-on   = [ "g", "p" ]
-run  = "cd /home/hdd/6042"
+on = ["g", "p"]
+run = "cd /home/hdd/6042"
 desc = "Go to the 6042 directory"
