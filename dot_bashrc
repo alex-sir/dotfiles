@@ -47,6 +47,9 @@ alias gma='git commit --amend --no-edit' # Update the most recent commit without
 alias gp='git push'                      # Push to remote
 alias gpf='git push -f'                  # Force push to remote
 
+# *** Neovim ***
+alias n='nvim'
+
 # *** pacman (Arch Linux) ***
 alias pmu="sudo pacman -Syu"                       # Fully update an Arch Linux system
 alias pms="sudo pacman -S"                         # Install an Arch Linux package
