@@ -136,9 +136,10 @@ export EDITOR="nvim"
 # export PAGER="bat"
 export PATH="${PATH}:~/scripts"
 export PATH="${PATH}:~/.local/bin"
-# Run fzf with multi-select enabled, a height of 50%, a reversed layout (top to bottom),
-# a border with sharp corners, a custom pointer, custom keybinds for preview page up (Ctrl+u) and down (Ctrl+d),
-# a preview window executing the following script: https://github.com/junegunn/fzf/blob/master/bin/fzf-preview.sh,
+# Run fzf with multi-select enabled (Tab), a height of 50%, a reversed layout (top to bottom),
+# a border with sharp corners, a custom pointer, custom keybinds for preview page down (Ctrl+f) and up (Ctrl+b),
+# a preview window executing the following script: https://github.com/junegunn/fzf/blob/master/bin/fzf-preview.sh
+# (NOTE: Download and place the fzf-preview.sh file in a directory in your $PATH),
 # sharp corners for the preview window border, and a OneDarkPro inspired color scheme
 export FZF_DEFAULT_OPTS=" \
         -m \
@@ -146,7 +147,7 @@ export FZF_DEFAULT_OPTS=" \
         --layout reverse \
         --border sharp \
         --pointer='->' \
-        --bind='ctrl-u:preview-page-up,ctrl-d:preview-page-down' \
+        --bind='ctrl-f:preview-page-down,ctrl-b:preview-page-up' \
         --preview='fzf-preview.sh {}' \
         --preview-window='border-sharp' \
         --color='bg:#282c34,bg+:#4f5666,info:#c678dd,border:#abb2bf,spinner:#c678dd' \
