@@ -16,9 +16,9 @@ desc = "Move cursor up 5"
 [[manager.prepend_keymap]]
 on = ["g", "w"]
 run = "cd ~/Downloads/College/WSU/'2025 Spring Semester'"
-desc = "Go to the WSU directory"
+desc = "Goto WSU"
 
 [[manager.prepend_keymap]]
 on = ["g", "p"]
 run = "cd /home/hdd/6042"
-desc = "Go to the 6042 directory"
+desc = "Goto 6042"
