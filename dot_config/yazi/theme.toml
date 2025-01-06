@@ -16,7 +16,7 @@ find_position = { fg = "#c678dd", bg = "reset", bold = true, italic = true }
 # Marker
 marker_copied = { fg = "#98c379", bg = "#98c379" }
 marker_cut = { fg = "#e06c75", bg = "#e06c75" }
-marker_marked = { fg = "#61afef", bg = "#61afef" }
+marker_marked = { fg = "#c678dd", bg = "#c678dd" }
 marker_selected = { fg = "#e5c07b", bg = "#e5c07b" }
 
 # Tab
@@ -44,8 +44,8 @@ normal_main = { fg = "#282c34", bg = "#61afef", bold = true }
 normal_alt = { fg = "#61afef", bg = "#4f5666" }
 
 # Select mode
-select_main = { fg = "#282c34", bg = "#98c379", bold = true }
-select_alt = { fg = "#98c379", bg = "#4f5666" }
+select_main = { fg = "#282c34", bg = "#c678dd", bold = true }
+select_alt = { fg = "#c678dd", bg = "#4f5666" }
 
 # Unset mode
 unset_main = { fg = "#282c34", bg = "#e5c07b", bold = true }
