@@ -34,6 +34,8 @@ alias ega='eza --icons=auto --hyperlink -a'
 
 # *** bat ***
 alias b='bat'
+# Highlight "--help" messages
+alias bhelp='bat --plain --language=help'
 
 # *** Git ***
 alias glg='git lg' # 'lg' is a heavily customized 'log' alias in a '.gitconfig' file
@@ -49,6 +51,8 @@ alias gpf='git push -f'                  # Force push to remote
 
 # *** Neovim ***
 alias n='nvim'
+# Enable diff mode to show the differences between 2-8 files
+alias nd='nvim -d'
 
 # *** pacman (Arch Linux) ***
 alias pmu="sudo pacman -Syu"                       # Fully update an Arch Linux system
@@ -133,7 +137,6 @@ PS1='[\u@\h \W]\$ '
 
 # Environment variables
 export EDITOR="nvim"
-# export PAGER="bat"
 export PATH="${PATH}:~/scripts"
 export PATH="${PATH}:~/.local/bin"
 # Run fzf with multi-select enabled (Tab), a height of 50%, a reversed layout (top to bottom),
@@ -155,6 +158,8 @@ export FZF_DEFAULT_OPTS=" \
         --color='pointer:#e5c07b,marker:#61afef,prompt:#98c379,hl+:#d19a66' \
         --color='separator:#98c379,preview-border:#61afef'
 "
+# Override the default diff program to Neovim with diff mode enabled
+export DIFFPROG="nvim -d"
 
 # Yazi shell wrapper to change the cwd when exiting yazi (use yy instead of yazi to start)
 function yy() {
@@ -198,17 +203,26 @@ gamap() {
 
 # *** pacman (Arch Linux) ***
 
-# NOTE: 'pmq' and 'pmqe' use ripgrep (rg)
 # View an installed package
 # Usage: pmq package
+# NOTE: 'pmq' uses ripgrep (rg)
 pmq() {
     pacman -Q | rg "$1"
 }
 
 # View an explicitly installed package
 # Usage: pmqe package
+# NOTE: 'pmqe' uses ripgrep (rg)
 pmqe() {
     pacman -Qe | rg "$1"
+}
+
+# *** bat ***
+# Highlight "--help" messages
+# Usage: help cd
+# NOTE: REQUIRES the 'bhelp' alias defined above
+help() {
+    "$@" --help 2>&1 | bhelp
 }
 
 # *** arch-wiki-lite & arch-wiki-docs: Search the entire Arch Wiki offline ***
@@ -241,3 +255,5 @@ eval "$(starship init bash)"
 # CTRL-T: Paste the selected files and directories onto the command-line
 # ALT-C: cd into the selected directory
 eval "$(fzf --bash)"
+# Replace "man" with "batman", which reads man pages using "bat" as the manual page formatter
+eval "$(batman --export-env)"
