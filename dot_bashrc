@@ -38,8 +38,8 @@ alias b='bat'
 alias bhelp='bat --plain --language=help'
 
 # *** Git ***
-alias glg='git lg' # 'lg' is a heavily customized 'log' alias in a '.gitconfig' file
-alias gst='git status'
+alias glg='git lg'                       # 'lg' is a heavily customized 'log' alias in a '.gitconfig' file
+alias gst='git status'                   # Show the working tree status
 alias ga='git add .'                     # Add all changes to the commit
 alias gr='git remote'                    # List remote repositories
 alias gb='git branch'                    # List branches
@@ -48,6 +48,7 @@ alias gm='git commit -m'                 # Add a commit with a message
 alias gma='git commit --amend --no-edit' # Update the most recent commit without changing the commit message
 alias gp='git push'                      # Push to remote
 alias gpf='git push -f'                  # Force push to remote
+alias gcl='git clone'                    # Clone a repository
 
 # *** Neovim ***
 alias n='nvim'
