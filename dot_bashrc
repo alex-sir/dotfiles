@@ -134,6 +134,9 @@ alias f='fzf'
 # *** plocate ***
 alias loc='plocate'
 
+# *** Python ***
+alias py='python'
+
 PS1='[\u@\h \W]\$ '
 
 # Environment variables
