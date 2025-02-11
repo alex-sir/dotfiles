@@ -252,10 +252,6 @@ b32() {
     base32 -d <<<"$1" && echo
 }
 
-# Allow zoxide usage (KEEP AT THE END OF THIS CONFIG FILE)
-eval "$(zoxide init bash)"
-# Allow starship usage (KEEP AT THE END OF THIS CONFIG FILE)
-eval "$(starship init bash)"
 # Enable fzf shell integration (KEEP AT THE END OF THIS CONFIG FILE)
 # CTRL-R: Paste the selected command from history onto the command-line
 # CTRL-T: Paste the selected files and directories onto the command-line
@@ -263,3 +259,7 @@ eval "$(starship init bash)"
 eval "$(fzf --bash)"
 # Replace "man" with "batman", which reads man pages using "bat" as the manual page formatter
 eval "$(batman --export-env)"
+# Allow starship usage (KEEP AT THE END OF THIS CONFIG FILE)
+eval "$(starship init bash)"
+# Allow zoxide usage (KEEP AT THE END OF THIS CONFIG FILE)
+eval "$(zoxide init bash)"
