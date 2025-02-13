@@ -10,7 +10,7 @@ map("n", "<leader>y", "<cmd>Yazi<cr>", { desc = "Yazi" })
 map("n", "<leader>cy", "<cmd>Yazi cwd<cr>", { desc = "Yazi cwd" })
 -- NOTE: this requires a version of yazi that includes
 -- https://github.com/sxyazi/yazi/pull/1305 from 2024-07-18
-map("n", "<c-up>", "<cmd>Yazi toggle<cr>", { desc = "Resume the last yazi session" })
+-- map("n", "<c-up>", "<cmd>Yazi toggle<cr>", { desc = "Resume the last yazi session" })
 
 -- typr (https://github.com/nvzone/typr)
 map("n", "<leader>t", "", { desc = "typr" })
