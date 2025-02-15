@@ -1,0 +1,27 @@
+[display]
+compact = true
+
+[style.description]
+# Gray
+foreground = { rgb = { r = 171, g = 178, b = 191 } }
+
+[style.command_name]
+# Orange
+foreground = { rgb = { r = 209, g = 154, b = 102 } }
+
+[style.example_text]
+# Purple
+foreground = { rgb = { r = 198, g = 120, b = 221 } }
+
+[style.example_code]
+# Blue
+foreground = { rgb = { r = 97, g = 175, b = 239 } }
+
+[style.example_variable]
+# Green
+foreground = { rgb = { r = 152, g = 195, b = 121 } }
+underline = true
+
+[updates]
+auto_update = true
+auto_update_interval_hours = 24
