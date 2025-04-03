@@ -144,7 +144,7 @@ PS1='[\u@\h \W]\$ '
 export EDITOR="nvim"
 export PATH="${PATH}:~/scripts"
 export PATH="${PATH}:~/.local/bin"
-export PATH="${PATH}:~/dev/cpts322/tm_prototype"
+export PATH="${PATH}:~/dev/cpts322/turing_machine"
 # Run fzf with multi-select enabled (Tab), a height of 50%, a reversed layout (top to bottom),
 # a border with sharp corners, a custom pointer, custom keybinds for preview page down (Ctrl+f) and up (Ctrl+b),
 # a preview window executing the following script: https://github.com/junegunn/fzf/blob/master/bin/fzf-preview.sh
@@ -169,12 +169,12 @@ export DIFFPROG="nvim -d"
 
 # Yazi shell wrapper to change the cwd when exiting yazi (use yy instead of yazi to start)
 function yy() {
-    local tmp="$(mktemp -t "yazi-cwd.XXXXXX")"
-    yazi "$@" --cwd-file="$tmp"
-    if cwd="$(cat -- "$tmp")" && [ -n "$cwd" ] && [ "$cwd" != "$PWD" ]; then
-        cd -- "$cwd"
-    fi
-    rm -f -- "$tmp"
+  local tmp="$(mktemp -t "yazi-cwd.XXXXXX")"
+  yazi "$@" --cwd-file="$tmp"
+  if cwd="$(cat -- "$tmp")" && [ -n "$cwd" ] && [ "$cwd" != "$PWD" ]; then
+    cd -- "$cwd"
+  fi
+  rm -f -- "$tmp"
 }
 
 # *** Git ***
@@ -183,28 +183,28 @@ function yy() {
 # Usage: gam "commit message"
 # NOTE: REQUIRES the following Git aliases that are defined above - 'ga' and 'gm'
 gam() {
-    ga && gm "$1"
+  ga && gm "$1"
 }
 
 # Add all changes to a commit, add a commit with a message, and push to remote
 # Usage: gamp "commit message"
 # NOTE: REQUIRES the following Git aliases that are defined above - 'ga', 'gm', and 'gp'
 gamp() {
-    gam "$@" && gp
+  gam "$@" && gp
 }
 
 # Add all changes to a commit and update the most recent commit without changing its message
 # Usage: gama
 # NOTE: REQUIRES the following Git aliases that are defined above - 'ga' and 'gma'
 gama() {
-    ga && gma
+  ga && gma
 }
 
 # Add all changes to a commit, update the most recent commit without changing its message, and force push to remote
 # Usage: gamap
 # NOTE: REQUIRES the following Git aliases that are defined above - 'ga', 'gma', and 'gpf'
 gamap() {
-    gama && gpf
+  gama && gpf
 }
 
 # *** pacman (Arch Linux) ***
@@ -213,14 +213,14 @@ gamap() {
 # Usage: pmq package
 # NOTE: 'pmq' uses ripgrep (rg)
 pmq() {
-    pacman -Q | rg "$1"
+  pacman -Q | rg "$1"
 }
 
 # View an explicitly installed package
 # Usage: pmqe package
 # NOTE: 'pmqe' uses ripgrep (rg)
 pmqe() {
-    pacman -Qe | rg "$1"
+  pacman -Qe | rg "$1"
 }
 
 # *** bat ***
@@ -228,28 +228,28 @@ pmqe() {
 # Usage: help cd
 # NOTE: REQUIRES the 'bhelp' alias defined above
 help() {
-    "$@" --help 2>&1 | bhelp
+  "$@" --help 2>&1 | bhelp
 }
 
 # *** arch-wiki-lite & arch-wiki-docs: Search the entire Arch Wiki offline ***
 # Usage: aw entry
 aw() {
-    wiki-search-html "$1"
-    # NOTE: 'wiki-search entry' displays the selected entry in the terminal, but it doesn't work well
+  wiki-search-html "$1"
+  # NOTE: 'wiki-search entry' displays the selected entry in the terminal, but it doesn't work well
 }
 
 # *** base64 ***
 # Decode base64 data and output the result to the terminal
 # Usage: b64 base64string
 b64() {
-    base64 -d <<<"$1" && echo
+  base64 -d <<<"$1" && echo
 }
 
 # *** base32 ***
 # Decode base32 data and output the result to the terminal
 # Usage: b32 base32string
 b32() {
-    base32 -d <<<"$1" && echo
+  base32 -d <<<"$1" && echo
 }
 
 # Enable fzf shell integration (KEEP AT THE END OF THIS CONFIG FILE)
