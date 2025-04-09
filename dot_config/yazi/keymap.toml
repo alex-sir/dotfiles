@@ -4,6 +4,11 @@ run = 'shell "$SHELL" --block --confirm'
 desc = "Open shell here"
 
 [[manager.prepend_keymap]]
+on = "r"
+run = ["rename --cursor=start", "input:escape"]
+desc = "Rename selected file(s)"
+
+[[manager.prepend_keymap]]
 on = "J"
 run = "arrow 5"
 desc = "Move cursor down 5"
