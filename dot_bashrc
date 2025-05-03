@@ -132,9 +132,6 @@ alias makei='make immaculate' # Remove all files that can be reconstructed throu
 # *** fzf ***
 alias f='fzf'
 
-# *** plocate ***
-alias loc='plocate'
-
 # *** Python ***
 alias py='python'
 
@@ -144,7 +141,6 @@ PS1='[\u@\h \W]\$ '
 export EDITOR="nvim"
 export PATH="${PATH}:~/scripts"
 export PATH="${PATH}:~/.local/bin"
-export PATH="${PATH}:~/dev/cpts322/turing_machine"
 # Run fzf with multi-select enabled (Tab), a height of 50%, a reversed layout (top to bottom),
 # a border with sharp corners, a custom pointer, custom keybinds for preview page down (Ctrl+f) and up (Ctrl+b),
 # a preview window executing the following script: https://github.com/junegunn/fzf/blob/master/bin/fzf-preview.sh
@@ -229,13 +225,6 @@ pmqe() {
 # NOTE: REQUIRES the 'bhelp' alias defined above
 help() {
   "$@" --help 2>&1 | bhelp
-}
-
-# *** arch-wiki-lite & arch-wiki-docs: Search the entire Arch Wiki offline ***
-# Usage: aw entry
-aw() {
-  wiki-search-html "$1"
-  # NOTE: 'wiki-search entry' displays the selected entry in the terminal, but it doesn't work well
 }
 
 # *** base64 ***
