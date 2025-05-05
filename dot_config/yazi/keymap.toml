@@ -30,10 +30,10 @@ desc = "Jump to a file/directory via fzf"
 
 [[manager.prepend_keymap]]
 on = ["g", "w"]
-run = "cd ~/Downloads/College/WSU/'2025 Spring Semester'"
+run = "cd ~/College/WSU/'2025 Fall Semester'"
 desc = "Goto WSU"
 
 [[manager.prepend_keymap]]
 on = ["g", "p"]
-run = "cd /home/hdd/6042"
+run = "cd ~/dev/sda1/6042"
 desc = "Goto 6042"
