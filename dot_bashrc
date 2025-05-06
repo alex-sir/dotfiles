@@ -79,6 +79,8 @@ alias ytd-dt='yt-dlp --cookies-from-browser brave --write-description --write-th
 alias ytd-a='yt-dlp --cookies-from-browser brave -x --embed-metadata --embed-thumbnail'
 # Same as 'ytd-a' but with the description and thumbnail also downloaded as separate files
 alias ytd-adt='yt-dlp --cookies-from-browser brave -x --embed-metadata --embed-thumbnail --write-description --write-thumbnail'
+# Download in parallel using aria2
+alias ytd-a2c='yt-dlp --cookies-from-browser brave --downloader aria2c --downloader-args aria2c:'\''-c -x 16 -s 16 -k 1M'\'''
 
 # *** gallery-dl ***
 # Download to the current directory
