@@ -68,10 +68,6 @@ alias pmc="sudo pacman -Qdtq | sudo pacman -Rns -" # Remove unused packages (orp
 # clean up leftover files/directories, and remove make dependencies
 alias mpkg='makepkg -sicr'
 
-# *** Reflector (Arch Linux) ***
-# Sort the five most recetly synchronized https pacman mirrors by download speed and overwrite the local mirrorlist
-alias reflec='sudo reflector --latest 5 --sort rate --protocol https --save /etc/pacman.d/mirrorlist'
-
 # *** yt-dlp ***
 alias ytd='yt-dlp --cookies-from-browser brave'
 alias ytd-dt='yt-dlp --cookies-from-browser brave --write-description --write-thumbnail'
