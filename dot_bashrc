@@ -23,16 +23,17 @@ alias elec='ssh alexander.carbajal@elec.tricity.wsu.edu'
 alias pleiades='ssh alexander.carbajal@pleiades.tricity.wsu.edu'
 alias vcluster='ssh alexander.carbajal@vcluster.tricities.wsu.edu'
 
-# *** eza: All of the aliases display icons automatically and display entries as hyperlinks, making them clickable.
+# *** eza: All of the aliases display icons automatically, list directories before other files, and display entries
+# as hyperlinks, making them clickable.
 # Long views show the Git status for files and directories and a custom time style (mm-dd-yy hh:mm) (24-hour clock). ***
 # Display extended details, group owner, and number of hard links
-alias e='eza --icons=auto --hyperlink -lgH --git --git-repos --time-style='\''+%m-%d-%y %H:%M'\'''
+alias e='eza --icons=auto --group-directories-first --hyperlink -lgH --git --git-repos --time-style='\''+%m-%d-%y %H:%M'\'''
 # Display extended details, group owner, number of hard links, and hidden (dot) files
-alias ea='eza --icons=auto --hyperlink -a -lgH --git --git-repos --time-style='\''+%m-%d-%y %H:%M'\'''
+alias ea='eza --icons=auto --group-directories-first --hyperlink -a -lgH --git --git-repos --time-style='\''+%m-%d-%y %H:%M'\'''
 # Display entries as a grid
-alias eg='eza --icons=auto --hyperlink'
+alias eg='eza --icons=auto --group-directories-first --hyperlink'
 # Display entries as a grid and hidden (dot) files
-alias ega='eza --icons=auto --hyperlink -a'
+alias ega='eza --icons=auto --group-directories-first --hyperlink -a'
 
 # *** bat ***
 alias b='bat'
