@@ -146,19 +146,26 @@ export DIFFPROG="nvim -d"
 # a preview window executing the following script: https://github.com/junegunn/fzf/blob/master/bin/fzf-preview.sh
 # (NOTE: Download and place the fzf-preview.sh file in a directory in your $PATH),
 # sharp corners for the preview window border, and a OneDarkPro inspired color scheme
-export FZF_DEFAULT_OPTS=" \
-        -m \
-        --height 50% \
-        --layout reverse \
-        --border sharp \
-        --pointer='->' \
-        --bind='ctrl-f:preview-page-down,ctrl-b:preview-page-up' \
-        --preview='fzf-preview.sh {}' \
-        --preview-window='border-sharp' \
-        --color='bg:#282c34,bg+:#4f5666,info:#c678dd,border:#abb2bf,spinner:#c678dd' \
-        --color='hl:#d19a66,fg:#abb2bf,header:#98c379,fg+:#61afef' \
-        --color='pointer:#e5c07b,marker:#61afef,prompt:#98c379,hl+:#d19a66' \
-        --color='separator:#98c379,preview-border:#61afef'
+export FZF_DEFAULT_OPTS="
+  -m
+  --height 50%
+  --layout reverse
+  --border sharp
+  --pointer='->'
+  --bind='ctrl-f:preview-page-down,ctrl-b:preview-page-up'
+  --preview='fzf-preview.sh {}'
+  --preview-window='border-sharp'
+  --color='
+    fg:#abb2bf fg+:#61afef
+    bg:#282c34 bg+:#4f5666
+    hl:#d19a66 hl+:#d19a66
+    pointer:#e5c07b marker:#61afef
+    header:#98c379
+    spinner:#c678dd info:#c678dd separator:#98c379
+    prompt:#98c379 query:#abb2bf
+    border:#abb2bf preview-border:#61afef
+    scrollbar:#abb2bf preview-scrollbar:#abb2bf
+  '
 "
 export PATH="${PATH}:~/scripts"
 
