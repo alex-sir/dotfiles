@@ -88,8 +88,6 @@ alias gldm='gallery-dl -D . --write-metadata --user-agent browser --cookies-from
 alias gldu='gallery-dl -D . --user-agent browser --cookies-from-browser brave --ugoira webm'
 
 # *** kitty ***
-# Install kitty (if not installed), otherwise update kitty to the latest version
-alias kup='curl -L https://sw.kovidgoyal.net/kitty/installer.sh | sh /dev/stdin'
 alias icat="kitten icat"  # Display images in the terminal
 alias kdiff="kitten diff" # Fast side-by-side diff tool w/ syntax highlighting & images
 
