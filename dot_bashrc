@@ -136,6 +136,7 @@ alias py='python'
 PS1='[\u@\h \W]\$ '
 
 # Environment variables
+export PATH="${PATH}:~/scripts"
 export EDITOR="nvim"
 # Override the default diff program to Neovim with diff mode enabled
 export DIFFPROG="nvim -d"
@@ -144,14 +145,13 @@ export DIFFPROG="nvim -d"
 # a preview window executing the following script: https://github.com/junegunn/fzf/blob/master/bin/fzf-preview.sh
 # (NOTE: Download and place the fzf-preview.sh file in a directory in your $PATH),
 # rounded corners for the preview window border, and a OneDarkPro inspired color scheme
-export FZF_DEFAULT_OPTS="
+fzf_options="
   -m
   --height 50%
   --layout reverse
   --border rounded
   --pointer='->'
   --bind='ctrl-f:preview-page-down,ctrl-b:preview-page-up'
-  --preview='fzf-preview.sh {}'
   --preview-window='border-rounded'
   --preview-label=' Preview '
   --color='
@@ -167,15 +167,16 @@ export FZF_DEFAULT_OPTS="
     scrollbar:#abb2bf preview-scrollbar:#abb2bf
   '
 "
-export PATH="${PATH}:~/scripts"
+export FZF_DEFAULT_OPTS="$fzf_options --preview='fzf-preview.sh {}'"
+# zoxide uses a different, heavily simplified version of the preview script for interactive selection (zi)
+export _ZO_FZF_OPTS="$fzf_options --preview='fzf-preview-zi.sh {}'"
 
-# Yazi shell wrapper to change the cwd when exiting yazi (use yy instead of yazi to start)
-function yy() {
-  local tmp="$(mktemp -t "yazi-cwd.XXXXXX")"
+# Yazi shell wrapper to change the cwd when exiting yazi (use y instead of yazi to start)
+function y() {
+  local tmp="$(mktemp -t "yazi-cwd.XXXXXX")" cwd
   yazi "$@" --cwd-file="$tmp"
-  if cwd="$(cat -- "$tmp")" && [ -n "$cwd" ] && [ "$cwd" != "$PWD" ]; then
-    cd -- "$cwd"
-  fi
+  IFS= read -r -d '' cwd <"$tmp"
+  [ -n "$cwd" ] && [ "$cwd" != "$PWD" ] && builtin cd -- "$cwd"
   rm -f -- "$tmp"
 }
 
