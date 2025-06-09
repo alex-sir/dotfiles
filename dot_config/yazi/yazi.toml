@@ -1,2 +1,5 @@
 [mgr]
 linemode = "size"
+
+[opener]
+play = [{ run = 'celluloid "$@"', orphan = true, for = "linux" }]
