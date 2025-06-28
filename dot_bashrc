@@ -140,15 +140,15 @@ export PATH="${PATH}:~/scripts"
 export EDITOR="nvim"
 # Override the default diff program to Neovim with diff mode enabled
 export DIFFPROG="nvim -d"
-# Run fzf with multi-select enabled (Tab), a height of 50%, a reversed layout (top to bottom),
+# Run fzf with multi-select enabled (Tab), a reversed layout (top to bottom), inline finder info,
 # a border with rounded corners, a custom pointer, custom keybinds for preview page down (Ctrl+f) and up (Ctrl+b),
 # a preview window executing the following script: https://github.com/junegunn/fzf/blob/master/bin/fzf-preview.sh
 # (NOTE: Download and place the fzf-preview.sh file in a directory in your $PATH),
-# rounded corners for the preview window border, and a OneDarkPro inspired color scheme
+# rounded corners for the preview window border, a label for the preview window, and a OneDarkPro inspired color scheme
 fzf_options="
   -m
-  --height 50%
   --layout reverse
+  --info inline
   --border rounded
   --pointer='->'
   --bind='ctrl-f:preview-page-down,ctrl-b:preview-page-up'
@@ -169,7 +169,7 @@ fzf_options="
 "
 export FZF_DEFAULT_OPTS="$fzf_options --preview='fzf-preview.sh {}'"
 # zoxide uses a different, heavily simplified version of the preview script for interactive selection (zi)
-export _ZO_FZF_OPTS="$fzf_options --preview='fzf-preview-zi.sh {}'"
+export _ZO_FZF_OPTS="$fzf_options --preview-window='bottom,30%' --preview='fzf-preview-zi.sh {}'"
 
 # Yazi shell wrapper to change the cwd when exiting yazi (use y instead of yazi to start)
 function y() {

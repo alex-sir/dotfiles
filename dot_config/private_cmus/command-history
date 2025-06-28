@@ -1,4 +1,10 @@
+quit
 q
+add ~/Music
+update-cache
+u
+add 
+a ~/Music
 w
 qdfa
 q aa
@@ -6,7 +12,6 @@ qa
 colorscheme onedark
 live-filter 
 refresh
-quit
 exit
 pl-delete default
 ha

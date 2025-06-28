@@ -1,6 +1,25 @@
 /home/axc/Music/Dubstep/Perileyes_Mercenary Ships Jan 2013_FINAL.wav
 /home/axc/Music/Unknown/shoegaze-feels-thread.webm
 /home/axc/Music/VGM/Fortnite/slick_dance.mp3
+/home/axc/Music/VGM/Eijukugo Target 1000 DS (MP3).zophar/NTR-YEOJ-JPN-0000.mp3
+/home/axc/Music/VGM/Eijukugo Target 1000 DS (MP3).zophar/NTR-YEOJ-JPN-0001.mp3
+/home/axc/Music/VGM/Eijukugo Target 1000 DS (MP3).zophar/NTR-YEOJ-JPN-0002.mp3
+/home/axc/Music/VGM/Eijukugo Target 1000 DS (MP3).zophar/NTR-YEOJ-JPN-0003.mp3
+/home/axc/Music/VGM/Eijukugo Target 1000 DS (MP3).zophar/NTR-YEOJ-JPN-0004.mp3
+/home/axc/Music/VGM/Eijukugo Target 1000 DS (MP3).zophar/NTR-YEOJ-JPN-0005.mp3
+/home/axc/Music/VGM/Eijukugo Target 1000 DS (MP3).zophar/NTR-YEOJ-JPN-0006.mp3
+/home/axc/Music/VGM/Eijukugo Target 1000 DS (MP3).zophar/NTR-YEOJ-JPN-0007.mp3
+/home/axc/Music/VGM/Eijukugo Target 1000 DS (MP3).zophar/NTR-YEOJ-JPN-0008.mp3
+/home/axc/Music/VGM/Eijukugo Target 1000 DS (MP3).zophar/NTR-YEOJ-JPN-0009.mp3
+/home/axc/Music/VGM/Eijukugo Target 1000 DS (MP3).zophar/NTR-YEOJ-JPN-000a.mp3
+/home/axc/Music/VGM/Eijukugo Target 1000 DS (MP3).zophar/NTR-YEOJ-JPN-000b.mp3
+/home/axc/Music/VGM/Eijukugo Target 1000 DS (MP3).zophar/NTR-YEOJ-JPN-000c.mp3
+/home/axc/Music/VGM/Eijukugo Target 1000 DS (MP3).zophar/NTR-YEOJ-JPN-000d.mp3
+/home/axc/Music/VGM/Eijukugo Target 1000 DS (MP3).zophar/NTR-YEOJ-JPN-000e.mp3
+/home/axc/Music/VGM/Eijukugo Target 1000 DS (MP3).zophar/NTR-YEOJ-JPN-000f.mp3
+/home/axc/Music/VGM/Eijukugo Target 1000 DS (MP3).zophar/NTR-YEOJ-JPN-0010.mp3
+/home/axc/Music/VGM/Eijukugo Target 1000 DS (MP3).zophar/NTR-YEOJ-JPN-0011.mp3
+/home/axc/Music/VGM/Eijukugo Target 1000 DS (MP3).zophar/NTR-YEOJ-JPN-0012.mp3
 /home/axc/Music/Trance/A.State.Of.Trance.Label.001-799.Discogs.MP3.WEB/101-150/[ASOT127] 3rd Moon - Monsun (2009)/01-3rd_moon-monsun.mp3
 /home/axc/Music/Trance/A.State.Of.Trance.Label.001-799.Discogs.MP3.WEB/101-150/[ASOT108] 8 Wonders - Unspoken Truth  People Don't Change  Time Waits For No One (2008)/01-arnej_pres_8_wonders-people_dont_change__original_mix-euphoric.mp3
 /home/axc/Music/Trance/A.State.Of.Trance.Label.001-799.Discogs.MP3.WEB/101-150/[ASOT108] 8 Wonders - Unspoken Truth  People Don't Change  Time Waits For No One (2008)/02-arnej_pres_8_wonders-time_waits_for_no_one__original_mix-euphoric.mp3
