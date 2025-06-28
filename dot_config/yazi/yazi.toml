@@ -2,4 +2,4 @@
 linemode = "size"
 
 [opener]
-play = [{ run = 'celluloid "$@"', orphan = true, for = "linux" }]
+play = [{ run = 'mpv "$@"', orphan = true, for = "linux" }]
