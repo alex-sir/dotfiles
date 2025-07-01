@@ -2,4 +2,4 @@
 linemode = "size"
 
 [opener]
-play = [{ run = 'mpv "$@"', orphan = true, for = "linux" }]
+play = [{ run = 'mpv --force-window "$@"', orphan = true, for = "linux" }]
