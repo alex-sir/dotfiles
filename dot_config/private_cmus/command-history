@@ -1,6 +1,8 @@
-quit
 q
+live-filter 
 add ~/Music
+update
+quit
 update-cache
 u
 add 
@@ -10,7 +12,6 @@ qdfa
 q aa
 qa
 colorscheme onedark
-live-filter 
 refresh
 exit
 pl-delete default
@@ -41,7 +42,6 @@ pl-create ****
 pl-create *****
 pl-create favorites
 live-filter
-update
 rand
 filter 
 color

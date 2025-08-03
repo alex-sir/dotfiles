@@ -1670,6 +1670,534 @@
 /home/axc/Music/Trance/A.State.Of.Trance.Label.001-799.Discogs.MP3.WEB/051-100/[ASOT064] Senses feat. RTM - Contrast  Alegra (2006)/02-senses_feat_rtm-alegra.mp3
 /home/axc/Music/Trance/A.State.Of.Trance.Label.001-799.Discogs.MP3.WEB/151-200/[ASOT191] Setrise vs. Johann Stone - Icesave (2012)/01-setrise_vs._johann_stone-icesave_(original_mix).mp3
 /home/axc/Music/Trance/A.State.Of.Trance.Label.001-799.Discogs.MP3.WEB/151-200/[ASOT191] Setrise vs. Johann Stone - Icesave (2012)/02-setrise_vs._johann_stone-icesave_(radio_edit).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/bonus/mixes/01. Gabbadisco.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/bonus/tracks/01. NullPoGa.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/bonus/tracks/01. Watashi Mari-chan (Remix).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0002] 高速音楽隊シャープネル - ダブルダッチ (1998)/01. Heart Attack.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0002] 高速音楽隊シャープネル - ダブルダッチ (1998)/02. ぷにぷに天国.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0002] 高速音楽隊シャープネル - ダブルダッチ (1998)/03. りんご爆弾.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0002] 高速音楽隊シャープネル - ダブルダッチ (1998)/04. High Tension.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0002] 高速音楽隊シャープネル - ダブルダッチ (1998)/05. Psyche Terror.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0002] 高速音楽隊シャープネル - ダブルダッチ (1998)/06. T.A.Field.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0002] 高速音楽隊シャープネル - ダブルダッチ (1998)/07. Highspeed Star.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0002] 高速音楽隊シャープネル - ダブルダッチ (1998)/08. デストルドー反応.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0002] 高速音楽隊シャープネル - ダブルダッチ (1998)/09. AZ.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0002] 高速音楽隊シャープネル - ダブルダッチ (1998)/10. 1.1.2.3!.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0002] 高速音楽隊シャープネル - ダブルダッチ (1998)/11. ぷにッシャー.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0002] 高速音楽隊シャープネル - ダブルダッチ (1998)/12. トラック 12.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0002] 高速音楽隊シャープネル - ダブルダッチ (1998)/13. トラック 13.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0003] 高速音楽隊シャープネル - フロム・ザ・はあと 地獄編 [C55] (1998)/01. まきば.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0003] 高速音楽隊シャープネル - フロム・ザ・はあと 地獄編 [C55] (1998)/02. Hyper Highspeed Star.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0003] 高速音楽隊シャープネル - フロム・ザ・はあと 地獄編 [C55] (1998)/03. To (HAPPY mix).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0003] 高速音楽隊シャープネル - フロム・ザ・はあと 地獄編 [C55] (1998)/04. サウスポ (甲子園で歌うぞver。).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0003] 高速音楽隊シャープネル - フロム・ザ・はあと 地獄編 [C55] (1998)/05. アイドル (アニキがポージングでダンパver).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0003] 高速音楽隊シャープネル - フロム・ザ・はあと 地獄編 [C55] (1998)/06. 川の流れのやうに.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0003] 高速音楽隊シャープネル - フロム・ザ・はあと 地獄編 [C55] (1998)/07. 左手オ○ニー (時にはマニキュアつけて鏡に向かうver.).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0003] 高速音楽隊シャープネル - フロム・ザ・はあと 地獄編 [C55] (1998)/08. アオアオ (王とこじきmix).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0003] 高速音楽隊シャープネル - フロム・ザ・はあと 地獄編 [C55] (1998)/09. ノーズブレス98 (ひとりマイクmix).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0003] 高速音楽隊シャープネル - フロム・ザ・はあと 地獄編 [C55] (1998)/10. 放課後maniacラヴ (あいだでもももmix).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0003] 高速音楽隊シャープネル - フロム・ザ・はあと 地獄編 [C55] (1998)/11. HAUS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0003] 高速音楽隊シャープネル - フロム・ザ・はあと 地獄編 [C55] (1998)/12. QTハニ ー(kill wflash3.0 mix).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0003] 高速音楽隊シャープネル - フロム・ザ・はあと 地獄編 [C55] (1998)/13. Theme of GABBA-EATER.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0003] 高速音楽隊シャープネル - フロム・ザ・はあと 地獄編 [C55] (1998)/14. ICQ.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0003] 高速音楽隊シャープネル - フロム・ザ・はあと 地獄編 [C55] (1998)/15. アオアオ (美女と野獣mix).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0003] 高速音楽隊シャープネル - フロム・ザ・はあと 地獄編 [C55] (1998)/16. パンクラス＊＊.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0003] 高速音楽隊シャープネル - フロム・ザ・はあと 地獄編 [C55] (1998)/17. LUV U.K.O remix (UKO vs BLUE).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0003] 高速音楽隊シャープネル - フロム・ザ・はあと 地獄編 [C55] (1998)/18. パンクラス＊＊＊.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0003] 高速音楽隊シャープネル - フロム・ザ・はあと 地獄編 [C55] (1998)/19. KeyKey.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0004A-B] 高速音楽隊シャープネル - アタック ザ シャープネル [C56] (1999)/[Disc 1] T-CO/01. ワタシはメイド.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0004A-B] 高速音楽隊シャープネル - アタック ザ シャープネル [C56] (1999)/[Disc 1] T-CO/02. かもネ１００％！.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0004A-B] 高速音楽隊シャープネル - アタック ザ シャープネル [C56] (1999)/[Disc 1] T-CO/03. 高速歌謡９９ライブバージョン.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0004A-B] 高速音楽隊シャープネル - アタック ザ シャープネル [C56] (1999)/[Disc 1] T-CO/04. Ｚの鼓動 (時の涙ミシクス).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0004A-B] 高速音楽隊シャープネル - アタック ザ シャープネル [C56] (1999)/[Disc 1] T-CO/05. アニマゲドン３.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0004A-B] 高速音楽隊シャープネル - アタック ザ シャープネル [C56] (1999)/[Disc 1] T-CO/06. Oh！チンチ！.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0004A-B] 高速音楽隊シャープネル - アタック ザ シャープネル [C56] (1999)/[Disc 1] T-CO/07. U-co!C-co!M-co!T-co!.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0004A-B] 高速音楽隊シャープネル - アタック ザ シャープネル [C56] (1999)/[Disc 1] T-CO/08. W@REZ.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0004A-B] 高速音楽隊シャープネル - アタック ザ シャープネル [C56] (1999)/[Disc 1] T-CO/09. ハイパーDDR.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0004A-B] 高速音楽隊シャープネル - アタック ザ シャープネル [C56] (1999)/[Disc 1] T-CO/10. ジュリ扇１９９９.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0004A-B] 高速音楽隊シャープネル - アタック ザ シャープネル [C56] (1999)/[Disc 1] T-CO/11. びっちっち！.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0004A-B] 高速音楽隊シャープネル - アタック ザ シャープネル [C56] (1999)/[Disc 2] M-CO/01. ボクハ３２G.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0004A-B] 高速音楽隊シャープネル - アタック ザ シャープネル [C56] (1999)/[Disc 2] M-CO/02. チェリークローン.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0004A-B] 高速音楽隊シャープネル - アタック ザ シャープネル [C56] (1999)/[Disc 2] M-CO/03. 少コミ☆トクホンアイランド.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0004A-B] 高速音楽隊シャープネル - アタック ザ シャープネル [C56] (1999)/[Disc 2] M-CO/04. ウエディングピーク！.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0004A-B] 高速音楽隊シャープネル - アタック ザ シャープネル [C56] (1999)/[Disc 2] M-CO/05. プロレス・ゴールデンタイムアナウンス.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0004A-B] 高速音楽隊シャープネル - アタック ザ シャープネル [C56] (1999)/[Disc 2] M-CO/06. 大仁多厚ショーin 闘強導夢.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0004A-B] 高速音楽隊シャープネル - アタック ザ シャープネル [C56] (1999)/[Disc 2] M-CO/07. 夏色 Nancy.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0004A-B] 高速音楽隊シャープネル - アタック ザ シャープネル [C56] (1999)/[Disc 2] M-CO/08. FABELTJE.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0004A-B] 高速音楽隊シャープネル - アタック ザ シャープネル [C56] (1999)/[Disc 2] M-CO/09. ハイスピードスター (Vjol リミシクス).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0004A-B] 高速音楽隊シャープネル - アタック ザ シャープネル [C56] (1999)/[Disc 2] M-CO/10. ICQ (Dope Coara リミシクス).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0004A-B] 高速音楽隊シャープネル - アタック ザ シャープネル [C56] (1999)/[Disc 2] M-CO/11. ICQ (C-Type リミシクス).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0006] 高速音楽隊シャープネル - ENDLESS SUMMER [C58] (2000)/01. 夏も待てない!!.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0006] 高速音楽隊シャープネル - ENDLESS SUMMER [C58] (2000)/02. PARTY TIME!.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0006] 高速音楽隊シャープネル - ENDLESS SUMMER [C58] (2000)/03. DA★MANCO.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0006] 高速音楽隊シャープネル - ENDLESS SUMMER [C58] (2000)/04. バナへそ -WE OTAKU-.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0006] 高速音楽隊シャープネル - ENDLESS SUMMER [C58] (2000)/05. 乾杯2000.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0006] 高速音楽隊シャープネル - ENDLESS SUMMER [C58] (2000)/06. VIP.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0006] 高速音楽隊シャープネル - ENDLESS SUMMER [C58] (2000)/07. ANTIPURUTITIC.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0006] 高速音楽隊シャープネル - ENDLESS SUMMER [C58] (2000)/08. V.D.KISS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0006] 高速音楽隊シャープネル - ENDLESS SUMMER [C58] (2000)/09. NAINAI 69.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0006] 高速音楽隊シャープネル - ENDLESS SUMMER [C58] (2000)/10. W@REZ(DJ CHUCHY REMIX).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0006] 高速音楽隊シャープネル - ENDLESS SUMMER [C58] (2000)/11. DARK VOICE.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0006] 高速音楽隊シャープネル - ENDLESS SUMMER [C58] (2000)/12. DDD.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0006] 高速音楽隊シャープネル - ENDLESS SUMMER [C58] (2000)/13. DDD.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0006] 高速音楽隊シャープネル - ENDLESS SUMMER [C58] (2000)/14. Untitled.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0007] 新世紀ガヴァンゲリオン - GENESIS：0 [C59] (2000)/01. NO ONE CAN LIVE ALONE.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0007] 新世紀ガヴァンゲリオン - GENESIS：0 [C59] (2000)/02. REBIRTH.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0007] 新世紀ガヴァンゲリオン - GENESIS：0 [C59] (2000)/03. UNTITLED.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0007] 新世紀ガヴァンゲリオン - GENESIS：0 [C59] (2000)/04. ZOMBIE1.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0007] 新世紀ガヴァンゲリオン - GENESIS：0 [C59] (2000)/05. POWERPUFF GABBERZ.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0007] 新世紀ガヴァンゲリオン - GENESIS：0 [C59] (2000)/06. OTAKU SPEEDVIBE.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0007] 新世紀ガヴァンゲリオン - GENESIS：0 [C59] (2000)/07. BLUE NOAH.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0009] DJ SHARPNEL & V.A - p2p. ピアッツーピアッ！[C61] (2001)/01. Intro.. Peer 2 Peer.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0009] DJ SHARPNEL & V.A - p2p. ピアッツーピアッ！[C61] (2001)/02. CO・CO・RO.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0009] DJ SHARPNEL & V.A - p2p. ピアッツーピアッ！[C61] (2001)/03. (((( ;ﾟДﾟ)))ｶﾞｸｶﾞｸﾌﾞﾙﾌﾞﾙ(放課後編).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0009] DJ SHARPNEL & V.A - p2p. ピアッツーピアッ！[C61] (2001)/04. Hattenカーニバル!.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0009] DJ SHARPNEL & V.A - p2p. ピアッツーピアッ！[C61] (2001)/05. (((( ;ﾟДﾟ)))ｶﾞｸｶﾞｸﾌﾞﾙﾌﾞﾙ(アメリカ編).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0009] DJ SHARPNEL & V.A - p2p. ピアッツーピアッ！[C61] (2001)/06. 風の中のすばる 〜表現者たち〜.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0009] DJ SHARPNEL & V.A - p2p. ピアッツーピアッ！[C61] (2001)/07. DTうさちゃん血祭り.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0009] DJ SHARPNEL & V.A - p2p. ピアッツーピアッ！[C61] (2001)/08. minimoni ふxxくゆー.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0009] DJ SHARPNEL & V.A - p2p. ピアッツーピアッ！[C61] (2001)/09. (((( ;ﾟДﾟ)))ｶﾞｸｶﾞｸﾌﾞﾙﾌﾞﾙ(ニュース編).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0009] DJ SHARPNEL & V.A - p2p. ピアッツーピアッ！[C61] (2001)/10. 川の流れのやうに(カラテクノ マス大山の正拳一撃REMIX).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0009] DJ SHARPNEL & V.A - p2p. ピアッツーピアッ！[C61] (2001)/11. EMIRU MANIAX 2002 (えみるMANIAX m1dy REMIX).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0009] DJ SHARPNEL & V.A - p2p. ピアッツーピアッ！[C61] (2001)/12. Go!Go!ブロードアピール.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0009] DJ SHARPNEL & V.A - p2p. ピアッツーピアッ！[C61] (2001)/13. SilentWind(Edit).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0009] DJ SHARPNEL & V.A - p2p. ピアッツーピアッ！[C61] (2001)/14. (((( ;ﾟДﾟ)))ｶﾞｸｶﾞｸﾌﾞﾙﾌﾞﾙ(ダー編).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0009] DJ SHARPNEL & V.A - p2p. ピアッツーピアッ！[C61] (2001)/15. DA☆MANCO (DJ CHUCKY REMIX).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0009] DJ SHARPNEL & V.A - p2p. ピアッツーピアッ！[C61] (2001)/16. ばいばい….mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0008] DJ SHARPNEL - S.E.X. ~Sound of EXtreme~ [C60] (2001)/01. 4 - 12 + 1.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0008] DJ SHARPNEL - S.E.X. ~Sound of EXtreme~ [C60] (2001)/02. ドクデンパ.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0008] DJ SHARPNEL - S.E.X. ~Sound of EXtreme~ [C60] (2001)/03. Kill 'em All (Long ver).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0008] DJ SHARPNEL - S.E.X. ~Sound of EXtreme~ [C60] (2001)/04. TGTMN.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0008] DJ SHARPNEL - S.E.X. ~Sound of EXtreme~ [C60] (2001)/05. ON THE BEACH.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0008] DJ SHARPNEL - S.E.X. ~Sound of EXtreme~ [C60] (2001)/06. ワタシはメイド [洗脳調教 MIX].mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0008] DJ SHARPNEL - S.E.X. ~Sound of EXtreme~ [C60] (2001)/07. ○○.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0008] DJ SHARPNEL - S.E.X. ~Sound of EXtreme~ [C60] (2001)/08. NOIRIST.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0008] DJ SHARPNEL - S.E.X. ~Sound of EXtreme~ [C60] (2001)/09. Word Selectorz.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0008] DJ SHARPNEL - S.E.X. ~Sound of EXtreme~ [C60] (2001)/10. 鳥の詩 (Luftinfektion mix).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-000X] 別名おにぎりトラックス (2001)/01. FAKE TOKYO.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-000X] 別名おにぎりトラックス (2001)/02. HAMAMURACTION.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-000X] 別名おにぎりトラックス (2001)/03. LEGEND OF PAIN.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-000X] 別名おにぎりトラックス (2001)/04. P.P.G + WONDERDAYS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-000X] 別名おにぎりトラックス (2001)/05. Furifuri.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-000X] 別名おにぎりトラックス (2001)/06. ちくび.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-000X] 別名おにぎりトラックス (2001)/07. OSHOG2.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-000X] 別名おにぎりトラックス (2001)/08. ENDLESS SUMMER.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-000X] 別名おにぎりトラックス (2001)/09. Kitaguni3.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-000X] 別名おにぎりトラックス (2001)/10. EXTRA FUTURE.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-000X] 別名おにぎりトラックス (2001)/11. V.I.P (NON VOX Ver.).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-000X] 別名おにぎりトラックス (2001)/12. SNOWS (prototype 2).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-L001] THE SPEED FREAK - ALLRIGHT, BIAAATCH!!! (2002)/01. ALLRIGHT, BIAAATCH!!! (Side A).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-L001] THE SPEED FREAK - ALLRIGHT, BIAAATCH!!! (2002)/02. ALLRIGHT, BIAAATCH!!! (Side B).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0011] PROJECT GABBANGELION - EARLY STYLE OF OTAKUSPEEDVIBE 1996→1998 (2002)/01. Lol It Out.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0011] PROJECT GABBANGELION - EARLY STYLE OF OTAKUSPEEDVIBE 1996→1998 (2002)/02. Gabba Mt. Fuji.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0011] PROJECT GABBANGELION - EARLY STYLE OF OTAKUSPEEDVIBE 1996→1998 (2002)/03. Katsudon (M)egamix.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0011] PROJECT GABBANGELION - EARLY STYLE OF OTAKUSPEEDVIBE 1996→1998 (2002)/04. TOKI-MEKI GABBAREAL.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0011] PROJECT GABBANGELION - EARLY STYLE OF OTAKUSPEEDVIBE 1996→1998 (2002)/05. Evangelion Generation.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0011] PROJECT GABBANGELION - EARLY STYLE OF OTAKUSPEEDVIBE 1996→1998 (2002)/06. Stretch Power!.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0011] PROJECT GABBANGELION - EARLY STYLE OF OTAKUSPEEDVIBE 1996→1998 (2002)/07. Mr. Horizon .mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0011] PROJECT GABBANGELION - EARLY STYLE OF OTAKUSPEEDVIBE 1996→1998 (2002)/08. MOTHERFUCKER!!.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0011] PROJECT GABBANGELION - EARLY STYLE OF OTAKUSPEEDVIBE 1996→1998 (2002)/09. Do You (BPM255).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0011] PROJECT GABBANGELION - EARLY STYLE OF OTAKUSPEEDVIBE 1996→1998 (2002)/10. 祇園に来い!.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0011] PROJECT GABBANGELION - EARLY STYLE OF OTAKUSPEEDVIBE 1996→1998 (2002)/11.  楽しき農夫.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0011] PROJECT GABBANGELION - EARLY STYLE OF OTAKUSPEEDVIBE 1996→1998 (2002)/12. RHAUAU.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0011] PROJECT GABBANGELION - EARLY STYLE OF OTAKUSPEEDVIBE 1996→1998 (2002)/13. Lol It Down.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0011] PROJECT GABBANGELION - EARLY STYLE OF OTAKUSPEEDVIBE 1996→1998 (2002)/14. Lol It Out 2.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0011] PROJECT GABBANGELION - EARLY STYLE OF OTAKUSPEEDVIBE 1996→1998 (2002)/15. Untitled.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-L004] THE SPEED FREAK - GABBERDISCO MEGAMIX (2002)/01. GABBERDISCO MEGAMIX.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M001] DJ JEA - HARDSTYLE 4DA FIRSTTIME (2002)/01. HARDSTYLE 4DA FIRSTTIME.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M003] DJ TOKYO - HARDSTYLE TOKYO NIGHTCRUISING (2002)/01. HARDSTYLE TOKYO NIGHTCRUISING.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-C002] COTTON PANTIE'S - My Sweet Honey Biscuit! (2002)/01. my sweet honey biscuit!.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-C002] COTTON PANTIE'S - My Sweet Honey Biscuit! (2002)/02. Kent-ack Beact.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-C002] COTTON PANTIE'S - My Sweet Honey Biscuit! (2002)/03. the sunday afternoon.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-C002] COTTON PANTIE'S - My Sweet Honey Biscuit! (2002)/04. kioku.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-C002] COTTON PANTIE'S - My Sweet Honey Biscuit! (2002)/05. my sweet honey biscuit! (type-1promo edit).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-L003] THE SPEED FREAK - NOISECORE vol.01 a radical hardcore mix (2002)/01. NOISECORE vol.01 a radical hardcore mix.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M002] DJ CHUCKY - NOW OR NEVER (2002)/01. NOW OR NEVER.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-L002] THE SPEED FREAK - SHOCKWAVE GREATEST HITS MEGAMIX 1994-2002 (2002)/01. SHOCKWAVE GREATEST HITS MEGAMIX 1994-2002 (Side A).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-L002] THE SPEED FREAK - SHOCKWAVE GREATEST HITS MEGAMIX 1994-2002 (2002)/02. SHOCKWAVE GREATEST HITS MEGAMIX 1994-2002 (Side B).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-L005] m1dy - SPEEDCORE DANDY (2002)/01. Speedcore Dandy.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-L005] m1dy - SPEEDCORE DANDY (2002)/02. Face Is.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-L005] m1dy - SPEEDCORE DANDY (2002)/03. Reaf.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-L005] m1dy - SPEEDCORE DANDY (2002)/04. Get Up.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-L005] m1dy - SPEEDCORE DANDY (2002)/05. Crash.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-L005] m1dy - SPEEDCORE DANDY (2002)/06. Badboy.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-L005] m1dy - SPEEDCORE DANDY (2002)/07. MIDI Anarchism.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-L005] m1dy - SPEEDCORE DANDY (2002)/08. Jampin' Jap Crash.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-L005] m1dy - SPEEDCORE DANDY (2002)/09. Kumon Everybody.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-L005] m1dy - SPEEDCORE DANDY (2002)/10. HC Swindle.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-L005] m1dy - SPEEDCORE DANDY (2002)/11. TokyoStyleSpeedCore.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-L005] m1dy - SPEEDCORE DANDY (2002)/12. Destruct.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-C001] COTTON PANTIE'S - What a happy life & death! (2002)/01. License to smile.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-C001] COTTON PANTIE'S - What a happy life & death! (2002)/02. Bridge.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-C001] COTTON PANTIE'S - What a happy life & death! (2002)/03. Dancing dead heart.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-C001] COTTON PANTIE'S - What a happy life & death! (2002)/04. Bridge.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-C001] COTTON PANTIE'S - What a happy life & death! (2002)/05. What a happy life & death!.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-C001] COTTON PANTIE'S - What a happy life & death! (2002)/06. Bridge.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-C001] COTTON PANTIE'S - What a happy life & death! (2002)/07. A flower withers in rainbow colour.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0010] DJ SHARPNEL & V.A - X-RATED-クロスレートっ! [C62] (2002)/01. XRATED....mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0010] DJ SHARPNEL & V.A - X-RATED-クロスレートっ! [C62] (2002)/02. DATA DRAIN.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0010] DJ SHARPNEL & V.A - X-RATED-クロスレートっ! [C62] (2002)/03. PANTS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0010] DJ SHARPNEL & V.A - X-RATED-クロスレートっ! [C62] (2002)/04. DELUSION WONDERLAND.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0010] DJ SHARPNEL & V.A - X-RATED-クロスレートっ! [C62] (2002)/05. XRATED 侍....mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0010] DJ SHARPNEL & V.A - X-RATED-クロスレートっ! [C62] (2002)/06. SAMURAI HARDBEAT.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0010] DJ SHARPNEL & V.A - X-RATED-クロスレートっ! [C62] (2002)/07. SATURDAY MORNING.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0010] DJ SHARPNEL & V.A - X-RATED-クロスレートっ! [C62] (2002)/08. SELECT YOUR BATTLE SHIP.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0010] DJ SHARPNEL & V.A - X-RATED-クロスレートっ! [C62] (2002)/09. SPIRITS OF REBEL ARMY.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0010] DJ SHARPNEL & V.A - X-RATED-クロスレートっ! [C62] (2002)/10. OLD MEMOLIES.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0010] DJ SHARPNEL & V.A - X-RATED-クロスレートっ! [C62] (2002)/11. LOOP SKATERS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0010] DJ SHARPNEL & V.A - X-RATED-クロスレートっ! [C62] (2002)/12. THEME OF MEGA RAVE.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0010] DJ SHARPNEL & V.A - X-RATED-クロスレートっ! [C62] (2002)/13. XRATED ちぇる-C....mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0010] DJ SHARPNEL & V.A - X-RATED-クロスレートっ! [C62] (2002)/14. FOR YOU.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0010] DJ SHARPNEL & V.A - X-RATED-クロスレートっ! [C62] (2002)/15. XRATED ﾜｯｼｮｲ....mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0010] DJ SHARPNEL & V.A - X-RATED-クロスレートっ! [C62] (2002)/16. XRATED rarara....mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-H001] DJ SHARPNEL feat. DJ JEA - LIFE IS GAME [M3-11] (2003)/01. HOLD ME OUT.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-H001] DJ SHARPNEL feat. DJ JEA - LIFE IS GAME [M3-11] (2003)/02. FAREAST HARDSTYLERZ.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-H001] DJ SHARPNEL feat. DJ JEA - LIFE IS GAME [M3-11] (2003)/03. DEKAMERONATION.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-H001] DJ SHARPNEL feat. DJ JEA - LIFE IS GAME [M3-11] (2003)/04. BEAT IS GOING.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-H001] DJ SHARPNEL feat. DJ JEA - LIFE IS GAME [M3-11] (2003)/05. HARD DREAMER ver2.0.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-H001] DJ SHARPNEL feat. DJ JEA - LIFE IS GAME [M3-11] (2003)/06. BLUESKY.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-H001] DJ SHARPNEL feat. DJ JEA - LIFE IS GAME [M3-11] (2003)/07. LIFE IS GAME.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPK-0001] KillingScum - NO STYLE？ NO POLICY!？ [C65] (2003)/01. ON THE KICK KICK.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPK-0001] KillingScum - NO STYLE？ NO POLICY!？ [C65] (2003)/02. HARTMANS CLAP.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPK-0001] KillingScum - NO STYLE？ NO POLICY!？ [C65] (2003)/03. STARTTOSCREAM.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPK-0001] KillingScum - NO STYLE？ NO POLICY!？ [C65] (2003)/04. MAD INVADERZ.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPK-0001] KillingScum - NO STYLE？ NO POLICY!？ [C65] (2003)/05. kakke ecko (i love j-core forever mixxx).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPK-0001] KillingScum - NO STYLE？ NO POLICY!？ [C65] (2003)/06. FUCK DJ.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPK-0001] KillingScum - NO STYLE？ NO POLICY!？ [C65] (2003)/07. YOKOHAMA BAYSIDE NIGHT.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPK-0001] KillingScum - NO STYLE？ NO POLICY!？ [C65] (2003)/08. CALL ME TONIGHT.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPK-0001] KillingScum - NO STYLE？ NO POLICY!？ [C65] (2003)/09. WALK IN THE CITY.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPK-0001] KillingScum - NO STYLE？ NO POLICY!？ [C65] (2003)/10. Understyle [Type1.1].mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0012] DJ SHARPNEL & V.A - PPPH! -Phat, Pinky, Powerful & Hard!!- [C63] (2003)/01. LONLY LONLY.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0012] DJ SHARPNEL & V.A - PPPH! -Phat, Pinky, Powerful & Hard!!- [C63] (2003)/02. BE PRINCESS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0012] DJ SHARPNEL & V.A - PPPH! -Phat, Pinky, Powerful & Hard!!- [C63] (2003)/03. SONGS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0012] DJ SHARPNEL & V.A - PPPH! -Phat, Pinky, Powerful & Hard!!- [C63] (2003)/04. 30MIN HARDER.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0012] DJ SHARPNEL & V.A - PPPH! -Phat, Pinky, Powerful & Hard!!- [C63] (2003)/05. CASTLE IN THE SKY 2003.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0012] DJ SHARPNEL & V.A - PPPH! -Phat, Pinky, Powerful & Hard!!- [C63] (2003)/06. OVER SKILL.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0012] DJ SHARPNEL & V.A - PPPH! -Phat, Pinky, Powerful & Hard!!- [C63] (2003)/07. ZERO.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0012] DJ SHARPNEL & V.A - PPPH! -Phat, Pinky, Powerful & Hard!!- [C63] (2003)/08. PINKのCHAO! [美奈代のふの字はFACKIN' BEAT MIX].mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0012] DJ SHARPNEL & V.A - PPPH! -Phat, Pinky, Powerful & Hard!!- [C63] (2003)/09. UNDERTAKER ROLLOVER -HARDKICK MIX-.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0012] DJ SHARPNEL & V.A - PPPH! -Phat, Pinky, Powerful & Hard!!- [C63] (2003)/10. HAIBANATION.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0012] DJ SHARPNEL & V.A - PPPH! -Phat, Pinky, Powerful & Hard!!- [C63] (2003)/11. 世音.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0012] DJ SHARPNEL & V.A - PPPH! -Phat, Pinky, Powerful & Hard!!- [C63] (2003)/12. WINTER WHITE.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0013] DJ SHARPNEL & V.A - アニメガバイト ANIME GABBA IT! [C64] (2003)/01. Seapong.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0013] DJ SHARPNEL & V.A - アニメガバイト ANIME GABBA IT! [C64] (2003)/02. Understyle.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0013] DJ SHARPNEL & V.A - アニメガバイト ANIME GABBA IT! [C64] (2003)/03. Power of Mage.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0013] DJ SHARPNEL & V.A - アニメガバイト ANIME GABBA IT! [C64] (2003)/04. Ghost Ghost.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0013] DJ SHARPNEL & V.A - アニメガバイト ANIME GABBA IT! [C64] (2003)/05. Redpill.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0013] DJ SHARPNEL & V.A - アニメガバイト ANIME GABBA IT! [C64] (2003)/06. Torinouta (M-Project Remix).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0013] DJ SHARPNEL & V.A - アニメガバイト ANIME GABBA IT! [C64] (2003)/07. AIRWAVE-08.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0013] DJ SHARPNEL & V.A - アニメガバイト ANIME GABBA IT! [C64] (2003)/08. Blue Betreyal.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0013] DJ SHARPNEL & V.A - アニメガバイト ANIME GABBA IT! [C64] (2003)/09. Policy in the sky!.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0013] DJ SHARPNEL & V.A - アニメガバイト ANIME GABBA IT! [C64] (2003)/10. Morning Knifreak..mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0013] DJ SHARPNEL & V.A - アニメガバイト ANIME GABBA IT! [C64] (2003)/11. bridge.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0013] DJ SHARPNEL & V.A - アニメガバイト ANIME GABBA IT! [C64] (2003)/12. NNK CUP GRANDPRIX.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0013] DJ SHARPNEL & V.A - アニメガバイト ANIME GABBA IT! [C64] (2003)/13. Torinouta (The Speedfreak's noise rave remix).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0013] DJ SHARPNEL & V.A - アニメガバイト ANIME GABBA IT! [C64] (2003)/14. Time Shift.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0013] DJ SHARPNEL & V.A - アニメガバイト ANIME GABBA IT! [C64] (2003)/15. Flower Forever.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/bonus/tracks/01. Ken No Theme (Remix).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0015] DJ SHARPNEL & V.A - SHARPNELSOUND COLLECTION -壱- [M3-13] (2004)/01. BLUE NOAH.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0015] DJ SHARPNEL & V.A - SHARPNELSOUND COLLECTION -壱- [M3-13] (2004)/02. GO!GO!Broadapeal.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0015] DJ SHARPNEL & V.A - SHARPNELSOUND COLLECTION -壱- [M3-13] (2004)/03. POWERPUFF GABBERZ.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0015] DJ SHARPNEL & V.A - SHARPNELSOUND COLLECTION -壱- [M3-13] (2004)/04. Kill'em All.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0015] DJ SHARPNEL & V.A - SHARPNELSOUND COLLECTION -壱- [M3-13] (2004)/05. PANTS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0015] DJ SHARPNEL & V.A - SHARPNELSOUND COLLECTION -壱- [M3-13] (2004)/06. for you.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0015] DJ SHARPNEL & V.A - SHARPNELSOUND COLLECTION -壱- [M3-13] (2004)/07. DATA DRAIN.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0015] DJ SHARPNEL & V.A - SHARPNELSOUND COLLECTION -壱- [M3-13] (2004)/08. LONLY LONLY.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0015] DJ SHARPNEL & V.A - SHARPNELSOUND COLLECTION -壱- [M3-13] (2004)/09. ZENON.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0015] DJ SHARPNEL & V.A - SHARPNELSOUND COLLECTION -壱- [M3-13] (2004)/10. REDPILL.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0015] DJ SHARPNEL & V.A - SHARPNELSOUND COLLECTION -壱- [M3-13] (2004)/11. SAMURAI HARDBEAT.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0015] DJ SHARPNEL & V.A - SHARPNELSOUND COLLECTION -壱- [M3-13] (2004)/12. UNDERSTYLE.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0015] DJ SHARPNEL & V.A - SHARPNELSOUND COLLECTION -壱- [M3-13] (2004)/13. BLUE BETREYAL.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0015] DJ SHARPNEL & V.A - SHARPNELSOUND COLLECTION -壱- [M3-13] (2004)/14. MORNING KNIFREAK.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0015] DJ SHARPNEL & V.A - SHARPNELSOUND COLLECTION -壱- [M3-13] (2004)/15. FLOWER FOREVER.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0017] DJ SHARPNEL & V.A - UG☆PSYCLONE [C67] (2004)/01. DMYK.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0017] DJ SHARPNEL & V.A - UG☆PSYCLONE [C67] (2004)/02. SPEED DISCO VOL.1.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0017] DJ SHARPNEL & V.A - UG☆PSYCLONE [C67] (2004)/03. STRAWBERRY SWEETZ.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0017] DJ SHARPNEL & V.A - UG☆PSYCLONE [C67] (2004)/04. HEY HEY MONKEY.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0017] DJ SHARPNEL & V.A - UG☆PSYCLONE [C67] (2004)/05. PPPP.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0017] DJ SHARPNEL & V.A - UG☆PSYCLONE [C67] (2004)/06. SIIN.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0017] DJ SHARPNEL & V.A - UG☆PSYCLONE [C67] (2004)/07. SHIND BAD.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0017] DJ SHARPNEL & V.A - UG☆PSYCLONE [C67] (2004)/08. COUNTER ZERO.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0017] DJ SHARPNEL & V.A - UG☆PSYCLONE [C67] (2004)/09. AWESOME POWERS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0017] DJ SHARPNEL & V.A - UG☆PSYCLONE [C67] (2004)/10. STRANGEPROGRAM.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0017] DJ SHARPNEL & V.A - UG☆PSYCLONE [C67] (2004)/11. MY GIFT FOR YOU(RESPECT TO THE JAPANESE RAVERS).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0017] DJ SHARPNEL & V.A - UG☆PSYCLONE [C67] (2004)/12. TIMESHIFT2004.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0017] DJ SHARPNEL & V.A - UG☆PSYCLONE [C67] (2004)/13. SACOREEE(NATURALOIL MIX).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0017] DJ SHARPNEL & V.A - UG☆PSYCLONE [C67] (2004)/14. COLD PIZZA.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0017] DJ SHARPNEL & V.A - UG☆PSYCLONE [C67] (2004)/15. 詩片.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0016] DJ SHARPNEL & V.A - 悩殺!ハードブレイク [C66] (2004)/01. ARE YOU READY.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0016] DJ SHARPNEL & V.A - 悩殺!ハードブレイク [C66] (2004)/02. LINUKS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0016] DJ SHARPNEL & V.A - 悩殺!ハードブレイク [C66] (2004)/03. G.A.B.A..mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0016] DJ SHARPNEL & V.A - 悩殺!ハードブレイク [C66] (2004)/04. RUN AND RUN.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0016] DJ SHARPNEL & V.A - 悩殺!ハードブレイク [C66] (2004)/05. 乙π.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0016] DJ SHARPNEL & V.A - 悩殺!ハードブレイク [C66] (2004)/06. W.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0016] DJ SHARPNEL & V.A - 悩殺!ハードブレイク [C66] (2004)/07. PLANETZ.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0016] DJ SHARPNEL & V.A - 悩殺!ハードブレイク [C66] (2004)/08. MAG-BURNER.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0016] DJ SHARPNEL & V.A - 悩殺!ハードブレイク [C66] (2004)/09. Packmaniacs-sp.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0016] DJ SHARPNEL & V.A - 悩殺!ハードブレイク [C66] (2004)/10. beautiful synergy.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0016] DJ SHARPNEL & V.A - 悩殺!ハードブレイク [C66] (2004)/11. KEEPOUT L.S.X.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0016] DJ SHARPNEL & V.A - 悩殺!ハードブレイク [C66] (2004)/12. ITADAKIMASU.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0016] DJ SHARPNEL & V.A - 悩殺!ハードブレイク [C66] (2004)/13. MOONEARTH.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPK-0002] 音圧愚連隊 - 暴走歌謡大全集 [M3-13] (2004)/01. intro.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPK-0002] 音圧愚連隊 - 暴走歌謡大全集 [M3-13] (2004)/02. 紫鏡.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPK-0002] 音圧愚連隊 - 暴走歌謡大全集 [M3-13] (2004)/03. BLESS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPK-0002] 音圧愚連隊 - 暴走歌謡大全集 [M3-13] (2004)/04. 僕が君の絵を書く理由.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPK-0002] 音圧愚連隊 - 暴走歌謡大全集 [M3-13] (2004)/05. 新宿.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPK-0002] 音圧愚連隊 - 暴走歌謡大全集 [M3-13] (2004)/06. Raison di etre.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPK-0002] 音圧愚連隊 - 暴走歌謡大全集 [M3-13] (2004)/07. 美少年キラー.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPK-0002] 音圧愚連隊 - 暴走歌謡大全集 [M3-13] (2004)/08. 無限界.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPK-0002] 音圧愚連隊 - 暴走歌謡大全集 [M3-13] (2004)/09. ニュース.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPK-0002] 音圧愚連隊 - 暴走歌謡大全集 [M3-13] (2004)/10. VISION.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0019] DJ SHARPNEL & V.A - MAD BREAKS [C68] (2005)/01. GATE OF DREAMS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0019] DJ SHARPNEL & V.A - MAD BREAKS [C68] (2005)/02. HOT PEPPERZ.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0019] DJ SHARPNEL & V.A - MAD BREAKS [C68] (2005)/03. COMPLECKS BABY.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0019] DJ SHARPNEL & V.A - MAD BREAKS [C68] (2005)/04. SPEED DISCO VOL.2.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0019] DJ SHARPNEL & V.A - MAD BREAKS [C68] (2005)/05. ZETTAI REMIX.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0019] DJ SHARPNEL & V.A - MAD BREAKS [C68] (2005)/06. BOUNTY WARS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0019] DJ SHARPNEL & V.A - MAD BREAKS [C68] (2005)/07. TOGETHER AS ONE.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0019] DJ SHARPNEL & V.A - MAD BREAKS [C68] (2005)/08. YOU DONT KNOW WHA.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0019] DJ SHARPNEL & V.A - MAD BREAKS [C68] (2005)/09. 20031023.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0019] DJ SHARPNEL & V.A - MAD BREAKS [C68] (2005)/10. SF-C.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0019] DJ SHARPNEL & V.A - MAD BREAKS [C68] (2005)/11. SOLITUDE SUN.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0019] DJ SHARPNEL & V.A - MAD BREAKS [C68] (2005)/12. SF-R.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0019] DJ SHARPNEL & V.A - MAD BREAKS [C68] (2005)/13. AUDIOVISUALISM.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0019] DJ SHARPNEL & V.A - MAD BREAKS [C68] (2005)/14. BLUE ARMY.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/01. 最後の渚.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/02. SG FREAK.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/03. イントロ.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/04. To.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/05. Exciting hyper high speed star.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/06. かもねネ100%.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/07. びっちっち.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/08. ジュリ扇1999.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/09. Zの鼓動 (時の涙MIX).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/10. アイドルスピリッツ2000.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/11. V.D.KISS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/12. パラダイスガールまどりん.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/13. Welcome.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/14. バナへそ -WE OTAKU-.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/15. 乾杯2000.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/16. Party Time.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/17. 高速歌謡1999.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/18. ハイパーDDR.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/19. HYPER SEBU.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/20. W@REZ.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/21. えみるMANIAX.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/22. SG12.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/23. まきば.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/24. 左手オ○ニー.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/25. HYPERS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/26. Lolit speed.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/27. ウェディングピーク!.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/28. NAINAI 69.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/29. チェリークローン.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/30. ちくび.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/31. 放課後maniacラヴ.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/32. 寸止めサプライズ.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/33. OUT OR SAFE.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/34. METARIC-A&ぷにッシャー.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/35. いいことに気づいちゃった.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/36. ワタシはメイド.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/37. ICQ TERROR.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/38. Rebirth.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0018] DJ SHARPNEL & V.A - YONDERDOME THE MEGAMIXXX OF SHARPNELSOUND 1-7! [C68] (2005)/39. OTAKU SPEEDVIBE.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0020] DJ SHARPNEL & V.A - Brain VioLation. 感脳侵蝕 [C70] (2006)/01. FOLLOW YOU.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0020] DJ SHARPNEL & V.A - Brain VioLation. 感脳侵蝕 [C70] (2006)/02. THE TERROR OF DEATH.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0020] DJ SHARPNEL & V.A - Brain VioLation. 感脳侵蝕 [C70] (2006)/03. SIDE STORY IN THE EARLY MORNING.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0020] DJ SHARPNEL & V.A - Brain VioLation. 感脳侵蝕 [C70] (2006)/04. YAKUZATERROR.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0020] DJ SHARPNEL & V.A - Brain VioLation. 感脳侵蝕 [C70] (2006)/05. TRANCEFORMer.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0020] DJ SHARPNEL & V.A - Brain VioLation. 感脳侵蝕 [C70] (2006)/06. 日本全国ガバ音頭.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0020] DJ SHARPNEL & V.A - Brain VioLation. 感脳侵蝕 [C70] (2006)/07. SATURDAY NIGHT PARTY ROCK'N'ROLL.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0020] DJ SHARPNEL & V.A - Brain VioLation. 感脳侵蝕 [C70] (2006)/08. PRETTY GREEN ONIONS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0020] DJ SHARPNEL & V.A - Brain VioLation. 感脳侵蝕 [C70] (2006)/09. SOUND OF SOS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0020] DJ SHARPNEL & V.A - Brain VioLation. 感脳侵蝕 [C70] (2006)/10. FINAL COUNTDOWN TV.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0020] DJ SHARPNEL & V.A - Brain VioLation. 感脳侵蝕 [C70] (2006)/11. ONLY ONLY.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0020] DJ SHARPNEL & V.A - Brain VioLation. 感脳侵蝕 [C70] (2006)/12. KOKE KILLERS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0020] DJ SHARPNEL & V.A - Brain VioLation. 感脳侵蝕 [C70] (2006)/13. NEGIMANIAX.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0020] DJ SHARPNEL & V.A - Brain VioLation. 感脳侵蝕 [C70] (2006)/14. Noiseman.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0020] DJ SHARPNEL & V.A - Brain VioLation. 感脳侵蝕 [C70] (2006)/15. BLUE NOAH 2006.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M004] DJ YOUSUKE - J-CORE REVOLUTION (2006)/01. LEGEND OF PAIN.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M004] DJ YOUSUKE - J-CORE REVOLUTION (2006)/02. SAMURAI HARDBEAT.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M004] DJ YOUSUKE - J-CORE REVOLUTION (2006)/03. THEME OF MEGA RAVE.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M004] DJ YOUSUKE - J-CORE REVOLUTION (2006)/04. BLUE BETREYAL.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M004] DJ YOUSUKE - J-CORE REVOLUTION (2006)/05. POWERPUFF GABBERZ.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M004] DJ YOUSUKE - J-CORE REVOLUTION (2006)/06. BLUE NOAH.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M004] DJ YOUSUKE - J-CORE REVOLUTION (2006)/07. SONGS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M004] DJ YOUSUKE - J-CORE REVOLUTION (2006)/08. 世音.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M004] DJ YOUSUKE - J-CORE REVOLUTION (2006)/09. for you.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M004] DJ YOUSUKE - J-CORE REVOLUTION (2006)/10. AIRWAVE-08.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M004] DJ YOUSUKE - J-CORE REVOLUTION (2006)/11. SAME DREAM.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M004] DJ YOUSUKE - J-CORE REVOLUTION (2006)/12. FLOWER FOREVER.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M004] DJ YOUSUKE - J-CORE REVOLUTION (2006)/13. BLUE ARMY.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M004] DJ YOUSUKE - J-CORE REVOLUTION (2006)/14. LINUKS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M004] DJ YOUSUKE - J-CORE REVOLUTION (2006)/15. GHOST GHOST.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M004] DJ YOUSUKE - J-CORE REVOLUTION (2006)/16. NEGIMANIAX.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M004] DJ YOUSUKE - J-CORE REVOLUTION (2006)/17. UNDERSTYLE.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M004] DJ YOUSUKE - J-CORE REVOLUTION (2006)/18. Untitled.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M004] DJ YOUSUKE - J-CORE REVOLUTION (2006)/19. MAD INVADERZ.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M004] DJ YOUSUKE - J-CORE REVOLUTION (2006)/20. HAIBANATION.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M004] DJ YOUSUKE - J-CORE REVOLUTION (2006)/21. KOKE KILLERS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M004] DJ YOUSUKE - J-CORE REVOLUTION (2006)/22. ON THE KICK KICK.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M004] DJ YOUSUKE - J-CORE REVOLUTION (2006)/23. FUCK DJ.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M004] DJ YOUSUKE - J-CORE REVOLUTION (2006)/24. 詩片.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-M004] DJ YOUSUKE - J-CORE REVOLUTION (2006)/25. TOGETHER AS ONE.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0021] DJ SHARPNEL & V.A - オタクオーバークロックス21 [C71] (2006)/01. 11ELEVEN.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0021] DJ SHARPNEL & V.A - オタクオーバークロックス21 [C71] (2006)/02. PURINY SQUAD.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0021] DJ SHARPNEL & V.A - オタクオーバークロックス21 [C71] (2006)/03. BOSS ON PARADE (DJ SHARPNEL Remix).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0021] DJ SHARPNEL & V.A - オタクオーバークロックス21 [C71] (2006)/04. LET'S NYANCING.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0021] DJ SHARPNEL & V.A - オタクオーバークロックス21 [C71] (2006)/05. TAKECORE OF YOURSELF.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0021] DJ SHARPNEL & V.A - オタクオーバークロックス21 [C71] (2006)/06. ZAP YOUR CHANNEL.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0021] DJ SHARPNEL & V.A - オタクオーバークロックス21 [C71] (2006)/07. IVALTEK.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0021] DJ SHARPNEL & V.A - オタクオーバークロックス21 [C71] (2006)/08. ALL OF OILS ARE BELONGS TO ME.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0021] DJ SHARPNEL & V.A - オタクオーバークロックス21 [C71] (2006)/09. DIE NOW.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0021] DJ SHARPNEL & V.A - オタクオーバークロックス21 [C71] (2006)/10. JAPANESE SOBA NOODLE.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0022] DJ SHARPNEL - ランニング★★★オールナイトッ!! [C73] (2007)/01. QUADRA GIRLZ.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0022] DJ SHARPNEL - ランニング★★★オールナイトッ!! [C73] (2007)/02. MY TURN IS YOUR TURN.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0022] DJ SHARPNEL - ランニング★★★オールナイトッ!! [C73] (2007)/03. THE OTHERS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0022] DJ SHARPNEL - ランニング★★★オールナイトッ!! [C73] (2007)/04. SENTIENT BEINGS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0022] DJ SHARPNEL - ランニング★★★オールナイトッ!! [C73] (2007)/05. LITTLE GOD CH@NNEL.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0022] DJ SHARPNEL - ランニング★★★オールナイトッ!! [C73] (2007)/06. SHOOL KILLERZ.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0022] DJ SHARPNEL - ランニング★★★オールナイトッ!! [C73] (2007)/07. BF2014.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0022] DJ SHARPNEL - ランニング★★★オールナイトッ!! [C73] (2007)/08. PAPAVER RHOEAS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0022] DJ SHARPNEL - ランニング★★★オールナイトッ!! [C73] (2007)/09. CYBER INDUCTANCE.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0022] DJ SHARPNEL - ランニング★★★オールナイトッ!! [C73] (2007)/10. DOHC-SRP.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0022] DJ SHARPNEL - ランニング★★★オールナイトッ!! [C73] (2007)/11. YANYAN DISCO VOL.3.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0022] DJ SHARPNEL - ランニング★★★オールナイトッ!! [C73] (2007)/12. WE LUV LAMA.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0022] DJ SHARPNEL - ランニング★★★オールナイトッ!! [C73] (2007)/13. THE POWER OF UNDERGROUND.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-L007] BIOCHIP C. - BREAK IT OLDSCHOOL 100% CLASSIC BREAKBEATS [C73] (2007)/01. BREAK IT OLDSCHOOL 100% CLASSIC BREAKBEATS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-L006] THE SPEED FREAK - DEMONS TO SOME, ANGELS TO OTHERS [C73] (2007)/01. DEMONS TO SOME, ANGELS TO OTHERS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/bonus/mixes/01. LIVE at Happy Dynamite.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0023] DJ SHARPNEL - 二次元サティスファクション [C74] (2008)/01. 二次充乙.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0023] DJ SHARPNEL - 二次元サティスファクション [C74] (2008)/02. MASTER MAID.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0023] DJ SHARPNEL - 二次元サティスファクション [C74] (2008)/03. GIANIC COMMAND.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0023] DJ SHARPNEL - 二次元サティスファクション [C74] (2008)/04. HIDMARI BASSLINE 365.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0023] DJ SHARPNEL - 二次元サティスファクション [C74] (2008)/05. TOTAL FATANITY.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0023] DJ SHARPNEL - 二次元サティスファクション [C74] (2008)/06. KISS F.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0023] DJ SHARPNEL - 二次元サティスファクション [C74] (2008)/07. APETENODYTES DISCO TYPE.4.0.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0023] DJ SHARPNEL - 二次元サティスファクション [C74] (2008)/08. MEGAMIX.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0023] DJ SHARPNEL - 二次元サティスファクション [C74] (2008)/09. HUNTER'S ANTHEM.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0023] DJ SHARPNEL - 二次元サティスファクション [C74] (2008)/10. DIST SQUAD.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0023] DJ SHARPNEL - 二次元サティスファクション [C74] (2008)/11. 日本全国ハードコア音頭2008.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0023] DJ SHARPNEL - 二次元サティスファクション [C74] (2008)/12. EXTREME POLKESTA.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0023] DJ SHARPNEL - 二次元サティスファクション [C74] (2008)/13. RAVE2000008.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0023] DJ SHARPNEL - 二次元サティスファクション [C74] (2008)/14. ALL OF ME.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPE-0001] SHARPNEL.EXE - erectortion 01 キモチイイコト (2009)/01. Intro.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPE-0001] SHARPNEL.EXE - erectortion 01 キモチイイコト (2009)/02. Erectortion OP.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPE-0001] SHARPNEL.EXE - erectortion 01 キモチイイコト (2009)/03. ボイスドラマ「キモチイイコト」.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPE-0001] SHARPNEL.EXE - erectortion 01 キモチイイコト (2009)/04. スクリプトラヴ (TV-Mix).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPE-0001] SHARPNEL.EXE - erectortion 01 キモチイイコト (2009)/05. Kimochi-E-Koto (DJ SHARPNEL Schranz remix).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPE-0001] SHARPNEL.EXE - erectortion 01 キモチイイコト (2009)/06. Kimochi-E-Koto (DJ SHARPNEL Frenchcore remix).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPE-0001] SHARPNEL.EXE - erectortion 01 キモチイイコト (2009)/07. スクリプトラヴ (Full).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPE-0001] SHARPNEL.EXE - erectortion 01 キモチイイコト (2009)/08. スクリプトラヴ (Insrumental).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0025] DJ SHARPNEL -  - SHARPNELSOUND COLLECTION -弐- [C77] (2009)/01. SPEED DISCO Vol.2.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0025] DJ SHARPNEL -  - SHARPNELSOUND COLLECTION -弐- [C77] (2009)/02. MY TURN IS YOUR TURN.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0025] DJ SHARPNEL -  - SHARPNELSOUND COLLECTION -弐- [C77] (2009)/03. HOT PEPPERZ.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0025] DJ SHARPNEL -  - SHARPNELSOUND COLLECTION -弐- [C77] (2009)/04. ZAP YOUR CHANNEL.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0025] DJ SHARPNEL -  - SHARPNELSOUND COLLECTION -弐- [C77] (2009)/05. MASTER MAID.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0025] DJ SHARPNEL -  - SHARPNELSOUND COLLECTION -弐- [C77] (2009)/06. 20031023.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0025] DJ SHARPNEL -  - SHARPNELSOUND COLLECTION -弐- [C77] (2009)/07. NEGIMANIAX.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0025] DJ SHARPNEL -  - SHARPNELSOUND COLLECTION -弐- [C77] (2009)/08. SHINE!!.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0025] DJ SHARPNEL -  - SHARPNELSOUND COLLECTION -弐- [C77] (2009)/09. FAKE PROMISE.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0025] DJ SHARPNEL -  - SHARPNELSOUND COLLECTION -弐- [C77] (2009)/10. BLUE ARMY.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0025] DJ SHARPNEL -  - SHARPNELSOUND COLLECTION -弐- [C77] (2009)/11. TAKE CORE OF YOURSELF.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0025] DJ SHARPNEL -  - SHARPNELSOUND COLLECTION -弐- [C77] (2009)/12. 詩片.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0025] DJ SHARPNEL -  - SHARPNELSOUND COLLECTION -弐- [C77] (2009)/13. THE POWER OF UNDERGROUND.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0025] DJ SHARPNEL -  - SHARPNELSOUND COLLECTION -弐- [C77] (2009)/14. BLUE NOAH 2006.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0024] DJ SHARPNEL - 妄殺オタクティクス [C76] (2009)/01. FUWATANITY.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0024] DJ SHARPNEL - 妄殺オタクティクス [C76] (2009)/02. HAITEI BREAKERZ.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0024] DJ SHARPNEL - 妄殺オタクティクス [C76] (2009)/03. SENGOKU BATTLE FIELD.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0024] DJ SHARPNEL - 妄殺オタクティクス [C76] (2009)/04. NERGAL BURNING.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0024] DJ SHARPNEL - 妄殺オタクティクス [C76] (2009)/05. ANIMEGABBATTLE.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0024] DJ SHARPNEL - 妄殺オタクティクス [C76] (2009)/06. MISHIMA MECANICA.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0024] DJ SHARPNEL - 妄殺オタクティクス [C76] (2009)/07. BY UR SIDE.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0024] DJ SHARPNEL - 妄殺オタクティクス [C76] (2009)/08. HE WAS ALONE.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0024] DJ SHARPNEL - 妄殺オタクティクス [C76] (2009)/09. SEVEN.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0024] DJ SHARPNEL - 妄殺オタクティクス [C76] (2009)/10. RAVE2000009.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0024] DJ SHARPNEL - 妄殺オタクティクス [C76] (2009)/11. URAPARA CORE.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0024] DJ SHARPNEL - 妄殺オタクティクス [C76] (2009)/12. NEVER SUPPLY.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0024] DJ SHARPNEL - 妄殺オタクティクス [C76] (2009)/13. FAKE PROMISE.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0026] DJ SHARPNEL - Cyclick [C78] (2010)/01. ALERT FOR HIGH DENSITY RAVE .mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0026] DJ SHARPNEL - Cyclick [C78] (2010)/02. KTN GTR .mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0026] DJ SHARPNEL - Cyclick [C78] (2010)/03. DRRRRRRR! .mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0026] DJ SHARPNEL - Cyclick [C78] (2010)/04. GATE OPENERZ .mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0026] DJ SHARPNEL - Cyclick [C78] (2010)/05. MACAU UNDERGROUND.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0026] DJ SHARPNEL - Cyclick [C78] (2010)/06. SUNDAY EVERYDAY .mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0026] DJ SHARPNEL - Cyclick [C78] (2010)/07. DANCE DA DANCE .mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0026] DJ SHARPNEL - Cyclick [C78] (2010)/08. N.O.E.IN .mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0026] DJ SHARPNEL - Cyclick [C78] (2010)/09. HOW MANY NIGHTS FOR XMAS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0026] DJ SHARPNEL - Cyclick [C78] (2010)/10. AIM BURST .mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0026] DJ SHARPNEL - Cyclick [C78] (2010)/11. ENTANGLE NIGHT.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/01. Follow You.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/02. Data Train.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/03. TGTMN.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/04. Go!Go!ブロードアピール.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/05. Kill'em All(Long ver).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/06. Blue Betreyal.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/07. The Terror of death.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/08. Haitei Breakerz.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/09. Quadra Girlz.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/10. On The Beach.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/11. Drrrrrrr!.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/12. The Others.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/13. 世音.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/14. Entangle Night.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/15. Lonly Lonly.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/16. Understyle.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/17. Delusion Wonderland.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/18. Japanese Soba Noodle.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/19. Hot Pepperz.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/20. My Turn Is Your Turn.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/21. Strawberry Sweetz.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/22. Master Maid.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/23. Planetz.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/24. Linuks.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/25. Seapong.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/26. Hattenカーニバル!.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/27. Sprits Of Rebel Army.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/28. 20031023.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/29. Airwave-08.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/30. W.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/31. Takecore Of Yourself.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/32. Negimaniax.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/33. Complecks Baby.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/34. Marunouchi Survivor.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/35. Little God Ch@nnel.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/36. Fuwanity.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/37. Sound of SOS.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/38. Mmmmmmm.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/39. Mishima Mecanica.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/40. Speed Disco Vol.2.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/41. 11Eleven.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/42. Total Flatanity.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/43. Fake Promise.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/44. Flower Forever.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/45. Blue Army.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/46. Aim Burst.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/47. Lost Connections.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/48. 詩片.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/49. The Power Of Underground.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0028] DJ SHARPNEL - YONDERDOME Decade-10 Years of DJ SHARPNEL- [C80] (2011)/50. Blue Noah 2006.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPE-0002] DJ SHARPNEL - エレクトーション02 誘惑催眠ガール [M3-28] (2011)/01. ERECTORTION02 INTRO.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPE-0002] DJ SHARPNEL - エレクトーション02 誘惑催眠ガール [M3-28] (2011)/02. 「誘惑催眠ガール」 テーマソング　誘惑のパルス TV-Edit.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPE-0002] DJ SHARPNEL - エレクトーション02 誘惑催眠ガール [M3-28] (2011)/03. ボイスドラマ 「誘惑催眠ガール」.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPE-0002] DJ SHARPNEL - エレクトーション02 誘惑催眠ガール [M3-28] (2011)/04. 誘惑のパルス Full version.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPE-0002] DJ SHARPNEL - エレクトーション02 誘惑催眠ガール [M3-28] (2011)/05. 誘惑のパルス (DJ SHARPNEL REMIX).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPE-0002] DJ SHARPNEL - エレクトーション02 誘惑催眠ガール [M3-28] (2011)/06. 誘惑のパルス (Shingo DJ REMIX).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0027] DJ SHARPNEL - 危ないベースライン [C80] (2011)/Disc 1/01. Mmmmmmm.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0027] DJ SHARPNEL - 危ないベースライン [C80] (2011)/Disc 1/02. USAMATIX.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0027] DJ SHARPNEL - 危ないベースライン [C80] (2011)/Disc 1/03. Escape from vorkuta.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0027] DJ SHARPNEL - 危ないベースライン [C80] (2011)/Disc 1/04. Buzz steps get bass.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0027] DJ SHARPNEL - 危ないベースライン [C80] (2011)/Disc 1/05. Green D.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0027] DJ SHARPNEL - 危ないベースライン [C80] (2011)/Disc 1/06. Enjo-Gの催眠テクノ.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0027] DJ SHARPNEL - 危ないベースライン [C80] (2011)/Disc 1/07. G.M.C..mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0027] DJ SHARPNEL - 危ないベースライン [C80] (2011)/Disc 1/08. FK AWAY NOW.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0027] DJ SHARPNEL - 危ないベースライン [C80] (2011)/Disc 2/01. Marunouchi surviver.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0027] DJ SHARPNEL - 危ないベースライン [C80] (2011)/Disc 2/02. Buzz steps get rave.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0027] DJ SHARPNEL - 危ないベースライン [C80] (2011)/Disc 2/03. War in the Dance (DJ SHARPNEL REMIX).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0027] DJ SHARPNEL - 危ないベースライン [C80] (2011)/Disc 2/04. Black Chocolates.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0027] DJ SHARPNEL - 危ないベースライン [C80] (2011)/Disc 2/05. Cyberteam in Akihabara 2011.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0027] DJ SHARPNEL - 危ないベースライン [C80] (2011)/Disc 2/06. Touch the angel.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0027] DJ SHARPNEL - 危ないベースライン [C80] (2011)/Disc 2/07. Magic cycles.mp3
 /home/axc/Music/Trance/A.State.Of.Trance.Label.001-799.Discogs.MP3.WEB/401-450/[ASOT417B] Sheridan Grout - Escape (2017)/01. Sheridan Grout - Escape.mp3
 /home/axc/Music/Trance/A.State.Of.Trance.Label.001-799.Discogs.MP3.WEB/401-450/[ASOT417B] Sheridan Grout - Escape (2017)/02. Sheridan Grout - Escape (Extended Mix).mp3
 /home/axc/Music/Trance/A.State.Of.Trance.Label.001-799.Discogs.MP3.WEB/701-750/[ASOT718B] Shogun presents Neo Tokyo - Gasoline (2022)/01. Shogun presents Neo Tokyo - Gasoline.mp3
@@ -2434,3 +2962,31 @@
 /home/axc/Music/Trance/A.State.Of.Trance.Label.001-799.Discogs.MP3.WEB/101-150/[ASOT124] Zirenz vs. Saint Rush - Shine On Me (2009)/03-zirenz_vs_saint_rush-shine_on_me__ayana_instrumental_mix.mp3
 /home/axc/Music/Trance/A.State.Of.Trance.Label.001-799.Discogs.MP3.WEB/101-150/[ASOT124] Zirenz vs. Saint Rush - Shine On Me (2009)/04-zirenz_vs_saint_rush-shine_on_me__ayana_dub.mp3
 /home/axc/Music/Trance/A.State.Of.Trance.Label.001-799.Discogs.MP3.WEB/101-150/[ASOT124] Zirenz vs. Saint Rush - Shine On Me (2009)/05-zirenz_vs_saint_rush-shine_on_me__radio_edit.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0001] 高速音楽隊シャープネル - Sharpnel vs. Project Gabbangelion [C54] (1998)/01. イントロ.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0001] 高速音楽隊シャープネル - Sharpnel vs. Project Gabbangelion [C54] (1998)/02. SG12（私立萌黄女子高校mix）.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0001] 高速音楽隊シャープネル - Sharpnel vs. Project Gabbangelion [C54] (1998)/03. S.G Freak.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0001] 高速音楽隊シャープネル - Sharpnel vs. Project Gabbangelion [C54] (1998)/04. えみるManiax.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0001] 高速音楽隊シャープネル - Sharpnel vs. Project Gabbangelion [C54] (1998)/05. SJ(手編みのセーターmix）.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0001] 高速音楽隊シャープネル - Sharpnel vs. Project Gabbangelion [C54] (1998)/06. PPP.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0001] 高速音楽隊シャープネル - Sharpnel vs. Project Gabbangelion [C54] (1998)/07. LUV U.K.O..mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0001] 高速音楽隊シャープネル - Sharpnel vs. Project Gabbangelion [C54] (1998)/08. LUV U.K.O.(ラケブラータremix).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0001] 高速音楽隊シャープネル - Sharpnel vs. Project Gabbangelion [C54] (1998)/09. 最後の『渚』.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0001] 高速音楽隊シャープネル - Sharpnel vs. Project Gabbangelion [C54] (1998)/10. METALIC-A-.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0001] 高速音楽隊シャープネル - Sharpnel vs. Project Gabbangelion [C54] (1998)/11. DEAR KIRCHHOFF.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0001] 高速音楽隊シャープネル - Sharpnel vs. Project Gabbangelion [C54] (1998)/12. FURO(jea mix).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0001] 高速音楽隊シャープネル - Sharpnel vs. Project Gabbangelion [C54] (1998)/13. H.E.L.L(jea mix).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0001] 高速音楽隊シャープネル - Sharpnel vs. Project Gabbangelion [C54] (1998)/14. Untitled.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0005] 高速音楽隊シャープネル - レイヴ☆スペクター [C57] (1999)/01. Intro.exe.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0005] 高速音楽隊シャープネル - レイヴ☆スペクター [C57] (1999)/02. Welcome!!.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0005] 高速音楽隊シャープネル - レイヴ☆スペクター [C57] (1999)/03. アイドルスピリッツ2000.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0005] 高速音楽隊シャープネル - レイヴ☆スペクター [C57] (1999)/04. Exciting Hyper Highspeed Star.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0005] 高速音楽隊シャープネル - レイヴ☆スペクター [C57] (1999)/05. いいことに気づいちゃった  ハニーパンチ [シャープネル殺人MIX].mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0005] 高速音楽隊シャープネル - レイヴ☆スペクター [C57] (1999)/06. Lolit speed.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0005] 高速音楽隊シャープネル - レイヴ☆スペクター [C57] (1999)/07. パラダイスガールまどりん♥.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0005] 高速音楽隊シャープネル - レイヴ☆スペクター [C57] (1999)/08. M.A.M.A..mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0005] 高速音楽隊シャープネル - レイヴ☆スペクター [C57] (1999)/09. snows 〜そしてきせき〜.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0005] 高速音楽隊シャープネル - レイヴ☆スペクター [C57] (1999)/10. reproaches (live take).mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0005] 高速音楽隊シャープネル - レイヴ☆スペクター [C57] (1999)/11. Hyper s.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0005] 高速音楽隊シャープネル - レイヴ☆スペクター [C57] (1999)/12. ICQ Terror.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0005] 高速音楽隊シャープネル - レイヴ☆スペクター [C57] (1999)/13. ★WING★～Featuring Mr.ポーゴ～.mp3
+/home/axc/Music/Artists/Sharpnel-Discography/SHARPNELSOUND/albums/[SRPC-0005] 高速音楽隊シャープネル - レイヴ☆スペクター [C57] (1999)/14. reproaches (EP mix).mp3
