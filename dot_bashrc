@@ -133,6 +133,9 @@ alias f='fzf'
 # *** Python ***
 alias py='python'
 
+# *** Distrobox ***
+alias db='distrobox'
+
 PS1='[\u@\h \W]\$ '
 
 # Environment variables
