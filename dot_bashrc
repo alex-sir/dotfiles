@@ -140,6 +140,7 @@ PS1='[\u@\h \W]\$ '
 
 # Environment variables
 export PATH="${PATH}:~/scripts"
+export QT_QPA_PLATFORM="wayland,xcb"
 export EDITOR="nvim"
 # Override the default diff program to Neovim with diff mode enabled
 export DIFFPROG="nvim -d"
