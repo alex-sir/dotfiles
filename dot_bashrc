@@ -136,6 +136,13 @@ alias py='python'
 # *** Distrobox ***
 alias db='distrobox'
 
+# *** WireGuard ***
+alias wgu='sudo wg-quick up'   # Add and set up an interface
+alias wgd='sudo wg-quick down' # Tear down and remove an interface
+alias wgs='sudo wg show'       # Show WireGuard configuration
+# List all WireGuard VPN names located in /etc/wireguard (".conf" suffix removed)
+alias wgl='sudo ls /etc/wireguard | xargs -n 1 basename | sed 's/\.conf$//''
+
 PS1='[\u@\h \W]\$ '
 
 # Environment variables
