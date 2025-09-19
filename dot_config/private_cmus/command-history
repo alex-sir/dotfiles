@@ -1,9 +1,9 @@
 q
+update-cache
 live-filter 
 add ~/Music
 update
 quit
-update-cache
 u
 add 
 a ~/Music

@@ -1,3 +1,18 @@
+/home/axc/Music/Artists/HIROKKEY/STAR GAGNANT original sound track/HIROKKEY - breaking power (ステージ7) [20661090].mp3
+/home/axc/Music/Artists/HIROKKEY/STAR GAGNANT original sound track/HIROKKEY - burn your soul (ステージ5) [3683188332].mp3
+/home/axc/Music/Artists/HIROKKEY/STAR GAGNANT original sound track/HIROKKEY - cosmic colony (HRK remix) [2176012412].mp3
+/home/axc/Music/Artists/HIROKKEY/STAR GAGNANT original sound track/HIROKKEY - cosmic colony (ステージ2) [3152791828].mp3
+/home/axc/Music/Artists/HIROKKEY/STAR GAGNANT original sound track/HIROKKEY - fate of the earth (HRK remix) [2773965035].mp3
+/home/axc/Music/Artists/HIROKKEY/STAR GAGNANT original sound track/HIROKKEY - fate of the earth (ステージ8) [3899656778].mp3
+/home/axc/Music/Artists/HIROKKEY/STAR GAGNANT original sound track/HIROKKEY - fight with courage (ボス) [122913146].mp3
+/home/axc/Music/Artists/HIROKKEY/STAR GAGNANT original sound track/HIROKKEY - frosty white (ステージ4) [293097102].mp3
+/home/axc/Music/Artists/HIROKKEY/STAR GAGNANT original sound track/HIROKKEY - legendary story again (HRK remix) [3306322851].mp3
+/home/axc/Music/Artists/HIROKKEY/STAR GAGNANT original sound track/HIROKKEY - legendary story again (ステージ1) [189759755].mp3
+/home/axc/Music/Artists/HIROKKEY/STAR GAGNANT original sound track/HIROKKEY - meteor attack (ステージ3) [3886465772].mp3
+/home/axc/Music/Artists/HIROKKEY/STAR GAGNANT original sound track/HIROKKEY - return of the soldier (エンディング) [1218105918].mp3
+/home/axc/Music/Artists/HIROKKEY/STAR GAGNANT original sound track/HIROKKEY - speed and destruction (HRK remix) [3337034261].mp3
+/home/axc/Music/Artists/HIROKKEY/STAR GAGNANT original sound track/HIROKKEY - speed and destruction (ステージ6) [1469001882].mp3
+/home/axc/Music/Artists/HIROKKEY/STAR GAGNANT original sound track/HIROKKEY - unexpected crisis (中ボス) [3685203362].mp3
 /home/axc/Music/Dubstep/Perileyes_Mercenary Ships Jan 2013_FINAL.wav
 /home/axc/Music/Unknown/shoegaze-feels-thread.webm
 /home/axc/Music/VGM/Fortnite/slick_dance.mp3
