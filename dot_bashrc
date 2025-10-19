@@ -146,6 +146,10 @@ alias wgl='sudo ls /etc/wireguard | xargs -n 1 basename | sed 's/\.conf$//''
 # *** IPinfo (https://ipinfo.io) ***
 alias ipinfo='curl -s ipinfo.io | jq' # List IP & location info
 
+# *** systemctl ***
+alias susp='sudo systemctl suspend'
+alias fsusp='sudo systemctl suspend --force'
+
 PS1='[\u@\h \W]\$ '
 
 # Environment variables
@@ -153,18 +157,30 @@ export PATH="${PATH}:~/scripts"
 export EDITOR="nvim"
 # Override the default diff program to Neovim with diff mode enabled
 export DIFFPROG="nvim -d"
-# Run fzf with multi-select enabled (Tab), a reversed layout (top to bottom), inline finder info,
-# a border with rounded corners, a custom pointer, custom keybinds for preview page down (Ctrl+f) and up (Ctrl+b),
-# a preview window executing the following script: https://github.com/junegunn/fzf/blob/master/bin/fzf-preview.sh
-# (NOTE: Download and place the fzf-preview.sh file in a directory in your $PATH),
-# rounded corners for the preview window border, a label for the preview window, and a OneDarkPro inspired color scheme
+# Run fzf with the follow options:
+# - Multi-select enabled (Tab)
+# - Reversed layout (top to bottom)
+# - Inline finder info
+# - Border with rounded corners
+# - Custom pointer
+# - Custom raw mode gutter column
+# - Custom keybinds:
+#   - Ctrl+f: Preview page down (forward)
+#   - Ctrl+b: Preview page up (backward)
+#   - Alt+r: Toggle raw mode for displaying non-matching items
+# - Preview window executing the following script: https://github.com/junegunn/fzf/blob/master/bin/fzf-preview.sh
+#   - NOTE: Download and place the fzf-preview.sh file in a directory in your $PATH
+# - Rounded corners for the preview window border
+# - Label for the preview window
+# - OneDarkPro inspired color scheme
 fzf_options="
   -m
   --layout reverse
   --info inline
   --border rounded
   --pointer='->'
-  --bind='ctrl-f:preview-page-down,ctrl-b:preview-page-up'
+  --gutter-raw='▚'
+  --bind='ctrl-f:preview-page-down,ctrl-b:preview-page-up,alt-r:toggle-raw'
   --preview-window='border-rounded'
   --preview-label=' Preview '
   --color='
