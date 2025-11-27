@@ -285,6 +285,24 @@ b32() {
   base32 -d <<<"$1" && echo
 }
 
+# *** ufw ***
+
+# Allow port 8081 from a specific IP address. Useful for development servers (e.g., Expo Metro Bundler).
+# NOTE: If the client device (not host) is connected to a VPN, disable it.
+#       If using for development servers, make sure the client and host are connected to the same network.
+# Usage: ufw8081e [ip-address]
+ufw8081e() {
+  sudo ufw allow from "$1" to any port 8081
+}
+
+# Delete rule allowing port 8081 from a specific IP address
+# List all rules with numbers: sudo ufw status numbered
+# Delete a specific rule: sudo ufw delete [number]
+# Usage: ufw8081d [ip-address]
+ufw8081d() {
+  sudo ufw delete allow from "$1" to any port 8081
+}
+
 # Enable fzf shell integration (KEEP AT THE END OF THIS CONFIG FILE)
 # CTRL-R: Paste the selected command from history onto the command-line
 # CTRL-T: Paste the selected files and directories onto the command-line
