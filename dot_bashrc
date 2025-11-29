@@ -46,11 +46,14 @@ alias gst='git status'                   # Show the working tree status
 alias ga='git add .'                     # Add all changes to the commit
 alias gr='git remote'                    # List remote repositories
 alias gb='git branch'                    # List branches
+alias gsw='git switch'                   # Change branches
 alias grts='git restore --staged .'      # Unstage all staged files
 alias gm='git commit -m'                 # Add a commit with a message
 alias gma='git commit --amend --no-edit' # Update the most recent commit without changing the commit message
-alias gp='git push'                      # Push to remote
-alias gpf='git push -f'                  # Force push to remote
+alias gpush='git push'                   # Push to remote
+alias gpull='git pull'                   # Pull from remote
+alias gpushf='git push -f'               # Force push to remote
+alias gpullf='git push -f'               # Force pull from remote
 alias gcl='git clone'                    # Clone a repository
 
 # *** Neovim ***
@@ -220,9 +223,9 @@ gam() {
 
 # Add all changes to a commit, add a commit with a message, and push to remote
 # Usage: gamp "commit message"
-# NOTE: REQUIRES the following Git aliases that are defined above - 'ga', 'gm', and 'gp'
+# NOTE: REQUIRES the following Git aliases that are defined above - 'ga', 'gm', and 'gpush'
 gamp() {
-  gam "$@" && gp
+  gam "$@" && gpush
 }
 
 # Add all changes to a commit and update the most recent commit without changing its message
@@ -234,9 +237,9 @@ gama() {
 
 # Add all changes to a commit, update the most recent commit without changing its message, and force push to remote
 # Usage: gamap
-# NOTE: REQUIRES the following Git aliases that are defined above - 'ga', 'gma', and 'gpf'
+# NOTE: REQUIRES the following Git aliases that are defined above - 'ga', 'gma', and 'gpushf'
 gamap() {
-  gama && gpf
+  gama && gpushf
 }
 
 # *** pacman (Arch Linux) ***
