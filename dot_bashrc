@@ -74,6 +74,7 @@ alias mpkg='makepkg -sicr'
 
 # *** yt-dlp ***
 alias ytd='yt-dlp --cookies-from-browser brave'
+# Additionally download the description and thumbnail of the video
 alias ytd-dt='yt-dlp --cookies-from-browser brave --write-description --write-thumbnail'
 # Download as an audio file ONLY that contains embedded metadata and an embedded thumbnail
 alias ytd-a='yt-dlp --cookies-from-browser brave -x --embed-metadata --embed-thumbnail'
