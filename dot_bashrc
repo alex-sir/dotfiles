@@ -157,7 +157,7 @@ alias fsusp='sudo systemctl suspend --force'
 PS1='[\u@\h \W]\$ '
 
 # Environment variables
-export PATH="${PATH}:~/scripts:~/.local/bin"
+export PATH="${PATH}:~/scripts"
 export EDITOR="nvim"
 # Override the default diff program to Neovim with diff mode enabled
 export DIFFPROG="nvim -d"
