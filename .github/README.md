@@ -104,7 +104,6 @@ These are the programs which have dotfiles being tracked in this repo
 - [Bash](https://www.gnu.org/software/bash)
 - [bat](https://github.com/sharkdp/bat)
 - [Cava](https://github.com/karlstav/cava)
-- [cmus](https://github.com/cmus/cmus)
 - [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - [Git](https://git-scm.com)
 - [kitty](https://github.com/kovidgoyal/kitty)
