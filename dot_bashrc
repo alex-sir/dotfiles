@@ -5,6 +5,9 @@
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
+# Variables
+BROWSER="firefox"
+
 # Aliases
 # *** Default Linux Commands ***
 alias ls='ls --color=auto'
@@ -73,23 +76,23 @@ alias pmc="sudo pacman -Qdtq | sudo pacman -Rns -" # Remove unused packages (orp
 alias mpkg='makepkg -sicr'
 
 # *** yt-dlp ***
-alias ytd='yt-dlp --cookies-from-browser brave'
+alias ytd='yt-dlp --cookies-from-browser $BROWSER'
 # Additionally download the description and thumbnail of the video
-alias ytd-dt='yt-dlp --cookies-from-browser brave --write-description --write-thumbnail'
+alias ytd-dt='yt-dlp --cookies-from-browser $BROWSER --write-description --write-thumbnail'
 # Download as an audio file ONLY that contains embedded metadata and an embedded thumbnail
-alias ytd-a='yt-dlp --cookies-from-browser brave -x --embed-metadata --embed-thumbnail'
+alias ytd-a='yt-dlp --cookies-from-browser $BROWSER -x --embed-metadata --embed-thumbnail'
 # Same as 'ytd-a' but with the description and thumbnail also downloaded as separate files
-alias ytd-adt='yt-dlp --cookies-from-browser brave -x --embed-metadata --embed-thumbnail --write-description --write-thumbnail'
+alias ytd-adt='yt-dlp --cookies-from-browser $BROWSER -x --embed-metadata --embed-thumbnail --write-description --write-thumbnail'
 # Download in parallel using aria2
-alias ytd-a2c='yt-dlp --cookies-from-browser brave --downloader aria2c --downloader-args aria2c:'\''-c -x 16 -s 16 -k 1M'\'''
+alias ytd-a2c='yt-dlp --cookies-from-browser $BROWSER --downloader aria2c --downloader-args aria2c:'\''-c -x 16 -s 16 -k 1M'\'''
 
 # *** gallery-dl ***
 # Download to the current directory
-alias gld='gallery-dl -D . --user-agent browser --cookies-from-browser brave'
+alias gld='gallery-dl -D . --user-agent browser --cookies-from-browser $BROWSER'
 # Same as 'gld' but additionally download metadata
-alias gldm='gallery-dl -D . --write-metadata --user-agent browser --cookies-from-browser brave'
+alias gldm='gallery-dl -D . --write-metadata --user-agent browser --cookies-from-browser $BROWSER'
 # Download a Pixiv ugoira as a WebM file
-alias gldu='gallery-dl -D . --user-agent browser --cookies-from-browser brave --ugoira webm'
+alias gldu='gallery-dl -D . --user-agent browser --cookies-from-browser $BROWSER --ugoira webm'
 
 # *** kitty ***
 alias icat="kitten icat"  # Display images in the terminal

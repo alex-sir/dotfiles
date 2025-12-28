@@ -104,12 +104,15 @@ These are the programs which have dotfiles being tracked in this repo
 - [Bash](https://www.gnu.org/software/bash)
 - [bat](https://github.com/sharkdp/bat)
 - [Cava](https://github.com/karlstav/cava)
+- [Dunst](https://github.com/dunst-project/dunst)
 - [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - [Git](https://git-scm.com)
+- [Hyprland](https://github.com/hyprwm/Hyprland)
 - [kitty](https://github.com/kovidgoyal/kitty)
 - [Neovim](https://github.com/neovim/neovim)
 - [Starship](https://github.com/starship/starship)
 - [Tealdeer](https://github.com/tealdeer-rs/tealdeer)
+- [Waybar](https://github.com/Alexays/Waybar)
 - [Yazi](https://github.com/sxyazi/yazi)
 
 Some programs have their configuration only in the `.bashrc` file:
