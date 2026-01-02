@@ -1,118 +1,229 @@
-# *** Manager ***
+# theme.toml - Radiant Gore
+# Custom Yazi theme with red (#ff6685) as the primary color
+# Created for high contrast, vibrant look with dark base
+
+# *********************************************************************
+# ****************************** MANAGER ******************************
+# *********************************************************************
+# File management: Find, copy, cut, mark, & select
 [mgr]
-cwd = { fg = "#d19a66" }
-# Hovered
-hovered = { reversed = true }
-preview_hovered = { underline = true }
+cwd = { fg = "#ff8a5c" } # Current working directory displayed at the top
+
 # Find
-find_keyword = { fg = "#d19a66", bold = true, italic = true, underline = true }
-find_position = { fg = "#c678dd", bg = "reset", bold = true, italic = true }
+find_keyword = { fg = "#ff8a5c", bold = true, underline = true } # Highlighted portion in the filename
+find_position = { fg = "#d97bfe", bg = "reset", bold = true } # Current file location in all found files to the right of filename
+
 # Marker
-marker_copied = { fg = "#98c379", bg = "#98c379" }
-marker_cut = { fg = "#e06c75", bg = "#e06c75" }
-marker_marked = { fg = "#c678dd", bg = "#c678dd" }
-marker_selected = { fg = "#e5c07b", bg = "#e5c07b" }
+marker_copied = { fg = "#1fcc00", bg = "#1fcc00" } # Copied file marker
+marker_cut = { fg = "#66b2f0", bg = "#66b2f0" } # Cut file marker
+marker_marked = { fg = "#d97bfe", bg = "#d97bfe" } # Pre-selected file in visual mode marker
+marker_selected = { fg = "#dbc500", bg = "#dbc500" } # Selected file marker
+
 # Count
-count_copied = { fg = "#282c34", bg = "#98c379" }
-count_cut = { fg = "#282c34", bg = "#e06c75" }
-count_selected = { fg = "#282c34", bg = "#e5c07b" }
+count_copied = { fg = "#0a0a08", bg = "#1fcc00" } # Copied file number
+count_cut = { fg = "#0a0a08", bg = "#66b2f0" } # Cut file number
+count_selected = { fg = "#0a0a08", bg = "#dbc500" } # Selected file number
+
 # Border
 border_symbol = "│"
-border_style = { fg = "#abb2bf" }
+border_style = { fg = "#b4b4bb" }
 
-# *** Tabs ***
+
+
+# *********************************************************************
+# ***************************** INDICATOR *****************************
+# *********************************************************************
+# Visually display where you are in the file directory
+[indicator]
+parent = { underline = true } # Indicator bar in the parent pane
+current = { fg = "#0a0a08", bg = "#ff6685" } # Indicator bar in the current pane
+preview = { underline = true } # Indicator bar in the preview pane
+
+
+
+# *********************************************************************
+# ******************************* TABS ********************************
+# *********************************************************************
+# Tab management at the top of the application
 [tabs]
-active = { fg = "#282c34", bg = "#61afef", bold = true }
-inactive = { fg = "#61afef", bg = "#282c34" }
+active = { fg = "#0a0a08", bg = "#ff6685", bold = true }
+inactive = { fg = "#ff6685", bg = "#4b4b53" }
 
-# *** Mode ***
+
+
+# *********************************************************************
+# ******************************* MODE ********************************
+# *********************************************************************
+# Vim-like modes at the bottom left & bottom right of the application
 [mode]
-normal_main = { fg = "#282c34", bg = "#61afef", bold = true }
-normal_alt = { fg = "#61afef", bg = "#4f5666" }
+
+# Normal mode
+normal_main = { fg = "#0a0a08", bg = "#ff6685", bold = true }
+normal_alt = { fg = "#ff6685", bg = "#5c5c66" }
+
 # Select mode
-select_main = { fg = "#282c34", bg = "#c678dd", bold = true }
-select_alt = { fg = "#c678dd", bg = "#4f5666" }
+select_main = { fg = "#0a0a08", bg = "#d97bfe", bold = true }
+select_alt = { fg = "#d97bfe", bg = "#5c5c66" }
+
 # Unset mode
-unset_main = { fg = "#282c34", bg = "#e5c07b", bold = true }
-unset_alt = { fg = "#e5c07b", bg = "#4f5666" }
+unset_main = { fg = "#0a0a08", bg = "#dbc500", bold = true }
+unset_alt = { fg = "#dbc500", bg = "#5c5c66" }
 
-# *** Status Bar ***
+
+
+# *********************************************************************
+# ****************************** STATUS *******************************
+# *********************************************************************
+# File permissions & operation progress at the bottom right of the application
 [status]
-separator_open = ""
-separator_close = ""
-# Progress
-progress_label = { fg = "#282c34", bold = true }
-progress_normal = { fg = "#61afef", bg = "#4f5666" }
-progress_error = { fg = "#e06c75", bg = "#4f5666" }
+overall = { fg = "#b4b4bb" }
+
 # Permissions
-perm_sep = { fg = "#abb2bf" }
-perm_type = { fg = "#61afef" }
-perm_read = { fg = "#e5c07b" }
-perm_write = { fg = "#e06c75" }
-perm_exec = { fg = "#98c379" }
+perm_type = { fg = "#66b2f0" } # File type symbol (e.g., 'd' for directory, '-' for file, 'l' for symlink, etc.)
+perm_read = { fg = "#dbc500" } # Read permission symbol (r)
+perm_write = { fg = "#ff6685" } # Write permission symbol (w)
+perm_exec = { fg = "#1fcc00" } # Execute permission symbol (x)
+perm_sep = { fg = "#b4b4bb" } # Permission separator symbol (-)
 
-# *** Pick ***
-[pick]
-border = { fg = "#61afef" }
-active = { fg = "#c678dd", bold = true }
-inactive = {}
+# Progress
+progress_label = { fg = "#ff6685", bg = "#5c5c66", bold = true }
+progress_normal = { fg = "#ff6685", bg = "#5c5c66" }
+progress_error = { fg = "#66b2f0", bg = "#5c5c66" }
 
-# *** Input ***
-[input]
-border = { fg = "#61afef" }
-title = {}
-value = {}
-selected = { reversed = true }
 
-# *** Completion ***
-[completion]
-border = { fg = "#61afef" }
 
-# *** Tasks ***
-[tasks]
-border = { fg = "#61afef" }
-title = {}
-hovered = { fg = "#c678dd", underline = true }
-
-# *** Which ***
+# *********************************************************************
+# ****************************** WHICH ********************************
+# *********************************************************************
+# Modal containing keybind information located at the bottom of the application
+# Activated with ',', 'g', etc.
 [which]
-mask = { bg = "#3b4048" }
-cand = { fg = "#d19a66", bold = true }
-rest = { fg = "#3b4048" }
-desc = { fg = "#61afef" }
+cols = 3 # Number of columns
+mask = { bg = "#4b4b53" } # Background of the box
+cand = { fg = "#ff8a5c", bold = true } # Keybind
+rest = { fg = "#4b4b53" }
+desc = { fg = "#ff6685" } # Description of the keybind
 separator = "  "
-separator_style = { fg = "#abb2bf" }
+separator_style = { fg = "#b4b4bb" }
 
-# *** Help ***
-[help]
-on = { fg = "#d19a66" }
-run = { fg = "#a6e3a1" }
-hovered = { reversed = true, bold = true }
-footer = { fg = "#61afef", bg = "#4f5666", bold = true }
 
-# *** Notify ***
+
+# *********************************************************************
+# ***************************** CONFIRM *******************************
+# *********************************************************************
+# Modal asking for confirmation from the user located at the center of the application
+# Activated with actions such as deleting a file
+[confirm]
+border = { fg = "#ff6685" }
+title = { fg = "#b4b4bb" }
+body = { fg = "#b4b4bb" }
+list = { fg = "#b4b4bb" } # List items below the content
+btn_yes = { fg = "#b4b4bb" } # "Yes" button
+btn_no = { fg = "#b4b4bb" } # "No" button
+
+
+
+# *********************************************************************
+# ******************************* SPOT ********************************
+# *********************************************************************
+# Modal detailing file information located at the center of the application
+# Activated with the Tab key
+[spot]
+border = { fg = "#ff6685" }
+title = { fg = "#b4b4bb" }
+tbl_col = { fg = "#ff6685" } # Selected column in the table
+tbl_cell = { fg = "#0a0a08", bg = "#ff8a5c" } # Selected cell in the table
+
+
+
+# *********************************************************************
+# ****************************** NOTIFY *******************************
+# *********************************************************************
+# Notification box displayed at the top right of the application
 [notify]
-title_info = { fg = "#a6e3a1" }
-title_warn = { fg = "#e5c07b" }
-title_error = { fg = "#e06c75" }
+title_info = { fg = "#ff6685" }
+title_warn = { fg = "#dbc500" }
+title_error = { fg = "#66b2f0" }
 
-# *** File-Specific Styles ***
+
+
+# *********************************************************************
+# ******************************* PICK ********************************
+# *********************************************************************
+# Picker for choosing a method to open a file
+# Activated with "SHIFT + o"
+[pick]
+border = { fg = "#ff6685" }
+active = { fg = "#d97bfe", bold = true }
+inactive = { fg = "#b4b4bb" }
+
+
+
+# *********************************************************************
+# ******************************* INPUT *******************************
+# *********************************************************************
+# Input box when performing actions such as renaming a file
+[input]
+border = { fg = "#ff6685" }
+title = { fg = "#b4b4bb" }
+value = { fg = "#b4b4bb" }
+selected = { fg = "#0a0a08", bg = "#b4b4bb" } # Text that is selected
+
+
+
+# *********************************************************************
+# ************************** AUTO-COMPLETION **************************
+# *********************************************************************
+# Provide suggestions for file names, paths, etc.
+# Activated with "g + SPACE" (path completion), etc.
+[cmp]
+border = { fg = "#ff6685" }
+active = { fg = "#0a0a08", bg = "#b4b4bb" }
+inactive = { fg = "#b4b4bb" }
+
+
+
+# *********************************************************************
+# ******************************* TASKS *******************************
+# *********************************************************************
+# Show current running tasks
+# Activated with 'w'
+[tasks]
+border = { fg = "#ff6685" }
+title = { fg = "#b4b4bb" }
+hovered = { fg = "#d97bfe" }
+
+
+
+# *********************************************************************
+# ******************************** HELP *******************************
+# *********************************************************************
+# Menu displaying help information, which includes key bindings & their descriptions
+# Activated with '~'
+[help]
+on = { fg = "#ff8a5c" } # 1st column: Keybind
+run = { fg = "#ff6685" } # 2nd column: Command
+desc = { fg = "#b4b4bb" } # 3rd column: Description
+hovered = { reversed = true, bold = true }
+footer = { fg = "#0a0a08", bg = "#ff6685", bold = true }
+
+
+
+# *********************************************************************
+# ****************************** FILETYPE *****************************
+# *********************************************************************
+# Styles for specific file types. Can match by name & mime-type.
 [filetype]
 rules = [
-  # Images
-  { mime = "image/*", fg = "#98c379" },
-
-  # Media
-  { mime = "{audio,video}/*", fg = "#c678dd" },
-
-  # Archives
-  { mime = "application/*zip", fg = "#e06c75" },
-  { mime = "application/x-{tar,bzip*,7z-compressed,xz,rar}", fg = "#e06c75" },
-
-  # Documents
-  { mime = "application/{pdf,doc,rtf}", fg = "#56b6c2" },
-
-  # Fallback
-  { name = "*", fg = "#abb2bf" },
-  { name = "*/", fg = "#61afef" },
+	# Image
+	{ mime = "image/*", fg = "#1fcc00" },
+	# Media
+	{ mime = "{audio,video}/*", fg = "#d97bfe" },
+	# Archive
+	{ mime = "application/{zip,rar,7z*,tar,gzip,xz,zstd,bzip*,lzma,compress,archive,cpio,arj,xar,ms-cab*}", fg = "#66b2f0" },
+	# Document
+	{ mime = "application/{pdf,doc,rtf}", fg = "#dbc500" },
+	# Fallback. "*" matches all files. "*/" matches all directories.
+	{ url = "*", fg = "#b4b4bb" },
+	{ url = "*/", fg = "#ff6685" },
 ]

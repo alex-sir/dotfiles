@@ -1,5 +1,9 @@
 [mgr]
 linemode = "size"
 
+[preview]
+max_width = 3000
+max_height = 4500
+
 [opener]
 play = [{ run = 'mpv --force-window "$@"', orphan = true, for = "linux" }]

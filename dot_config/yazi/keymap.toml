@@ -36,12 +36,12 @@ desc = "Go /"
 
 [[mgr.prepend_keymap]]
 on = ["g", "w"]
-run = "cd ~/College/WSU/'2026 Spring Semester'"
+run = "cd ~/college/WSU/'2026 Spring Semester'"
 desc = "Go WSU"
 
 [[mgr.prepend_keymap]]
 on = ["g", "p"]
-run = "cd ~/dev/sda1/6042"
+run = "cd ~/storage/sda1/6042"
 desc = "Go 6042"
 
 # *** Plugins ***
@@ -50,3 +50,14 @@ desc = "Go 6042"
 on = "T"
 run = "plugin toggle-pane max-preview"
 desc = "Maximize or restore the preview pane"
+
+# zoom (https://github.com/yazi-rs/plugins/tree/main/zoom.yazi)
+[[mgr.prepend_keymap]]
+on = "+"
+run = "plugin zoom 1"
+desc = "Zoom in hovered file"
+
+[[mgr.prepend_keymap]]
+on = "-"
+run = "plugin zoom -1"
+desc = "Zoom out hovered file"
