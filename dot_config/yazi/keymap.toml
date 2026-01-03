@@ -41,7 +41,7 @@ desc = "Go WSU"
 
 [[mgr.prepend_keymap]]
 on = ["g", "p"]
-run = "cd ~/storage/sda1/6042"
+run = "cd ~/storage/sda1recrypt/6042"
 desc = "Go 6042"
 
 # *** Plugins ***

@@ -10,7 +10,7 @@
 cwd = { fg = "#ff8a5c" } # Current working directory displayed at the top
 
 # Find
-find_keyword = { fg = "#ff8a5c", bold = true, underline = true } # Highlighted portion in the filename
+find_keyword = { fg = "#0a0a08", bg = "#ff8a5c", bold = true, underline = true } # Highlighted portion in the filename
 find_position = { fg = "#d97bfe", bg = "reset", bold = true } # Current file location in all found files to the right of filename
 
 # Marker

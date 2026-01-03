@@ -182,7 +182,7 @@ export DIFFPROG="nvim -d"
 #   - NOTE: Download and place the fzf-preview.sh file in a directory in your $PATH
 # - Rounded corners for the preview window border
 # - Label for the preview window
-# - OneDarkPro inspired color scheme
+# - Radiant Gore color scheme
 fzf_options="
   -m
   --layout reverse
@@ -194,16 +194,15 @@ fzf_options="
   --preview-window='border-rounded'
   --preview-label=' Preview '
   --color='
-    fg:#abb2bf fg+:#61afef
-    bg:#282c34 bg+:#4f5666
-    hl:#d19a66 hl+:#d19a66
-    pointer:#e5c07b marker:#61afef
-    header:#98c379
-    spinner:#c678dd info:#c678dd separator:#98c379
-    prompt:#98c379 query:#abb2bf
-    border:#abb2bf preview-border:#61afef
-    preview-label:#abb2bf
-    scrollbar:#abb2bf preview-scrollbar:#abb2bf
+    fg:#b4b4bb fg+:#ff6685
+    bg+:#4b4b53
+    hl:#ff8a5c hl+:#ff8a5c
+    pointer:#ff6685 marker:#ff6685
+    spinner:#ff8a5c info:#ff8a5c separator:#ff6685
+    prompt:#ff6685 query:#b4b4bb
+    border:#b4b4bb preview-border:#ff6685
+    preview-label:#b4b4bb
+    scrollbar:#b4b4bb preview-scrollbar:#b4b4bb
   '
 "
 export FZF_DEFAULT_OPTS="$fzf_options --preview='fzf-preview.sh {}'"
