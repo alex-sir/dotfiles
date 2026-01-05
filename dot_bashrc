@@ -194,15 +194,15 @@ fzf_options="
   --preview-window='border-rounded'
   --preview-label=' Preview '
   --color='
-    fg:#b4b4bb fg+:#ff6685
+    fg:#cacace fg+:#ff6685
     bg+:#4b4b53
-    hl:#ff8a5c hl+:#ff8a5c
+    hl:#ff8a5c hl+:#66b2f0
     pointer:#ff6685 marker:#ff6685
     spinner:#ff8a5c info:#ff8a5c separator:#ff6685
-    prompt:#ff6685 query:#b4b4bb
-    border:#b4b4bb preview-border:#ff6685
-    preview-label:#b4b4bb
-    scrollbar:#b4b4bb preview-scrollbar:#b4b4bb
+    prompt:#ff6685 query:#cacace
+    border:#cacace preview-border:#ff6685
+    preview-label:#cacace
+    scrollbar:#cacace preview-scrollbar:#cacace
   '
 "
 export FZF_DEFAULT_OPTS="$fzf_options --preview='fzf-preview.sh {}'"

@@ -113,6 +113,8 @@ These are the programs which have dotfiles being tracked in this repo
 - [Starship](https://github.com/starship/starship)
 - [Tealdeer](https://github.com/tealdeer-rs/tealdeer)
 - [Waybar](https://github.com/Alexays/Waybar)
+- [xdg-desktop-portal](https://github.com/flatpak/xdg-desktop-portal)
+- [xdg-desktop-portal-termfilechooser](https://github.com/GermainZ/xdg-desktop-portal-termfilechooser)
 - [Yazi](https://github.com/sxyazi/yazi)
 
 Some programs have their configuration only in the `.bashrc` file:

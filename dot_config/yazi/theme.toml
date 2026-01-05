@@ -10,8 +10,8 @@
 cwd = { fg = "#ff8a5c" } # Current working directory displayed at the top
 
 # Find
-find_keyword = { fg = "#0a0a08", bg = "#ff8a5c", bold = true, underline = true } # Highlighted portion in the filename
-find_position = { fg = "#d97bfe", bg = "reset", bold = true } # Current file location in all found files to the right of filename
+find_keyword = { fg = "#0a0a08", bg = "#cacace", bold = true, underline = true } # Highlighted portion in the filename
+find_position = { fg = "#0a0a08", bg = "#cacace", bold = true } # Current file location in all found files to the right of filename
 
 # Marker
 marker_copied = { fg = "#1fcc00", bg = "#1fcc00" } # Copied file marker
@@ -26,7 +26,7 @@ count_selected = { fg = "#0a0a08", bg = "#dbc500" } # Selected file number
 
 # Border
 border_symbol = "│"
-border_style = { fg = "#b4b4bb" }
+border_style = { fg = "#cacace" }
 
 
 
@@ -59,15 +59,15 @@ inactive = { fg = "#ff6685", bg = "#4b4b53" }
 
 # Normal mode
 normal_main = { fg = "#0a0a08", bg = "#ff6685", bold = true }
-normal_alt = { fg = "#ff6685", bg = "#5c5c66" }
+normal_alt = { fg = "#ff6685", bg = "#4b4b53" }
 
 # Select mode
 select_main = { fg = "#0a0a08", bg = "#d97bfe", bold = true }
-select_alt = { fg = "#d97bfe", bg = "#5c5c66" }
+select_alt = { fg = "#d97bfe", bg = "#4b4b53" }
 
 # Unset mode
 unset_main = { fg = "#0a0a08", bg = "#dbc500", bold = true }
-unset_alt = { fg = "#dbc500", bg = "#5c5c66" }
+unset_alt = { fg = "#dbc500", bg = "#4b4b53" }
 
 
 
@@ -76,19 +76,19 @@ unset_alt = { fg = "#dbc500", bg = "#5c5c66" }
 # *********************************************************************
 # File permissions & operation progress at the bottom right of the application
 [status]
-overall = { fg = "#b4b4bb" }
+overall = { fg = "#cacace" }
 
 # Permissions
 perm_type = { fg = "#66b2f0" } # File type symbol (e.g., 'd' for directory, '-' for file, 'l' for symlink, etc.)
 perm_read = { fg = "#dbc500" } # Read permission symbol (r)
 perm_write = { fg = "#ff6685" } # Write permission symbol (w)
 perm_exec = { fg = "#1fcc00" } # Execute permission symbol (x)
-perm_sep = { fg = "#b4b4bb" } # Permission separator symbol (-)
+perm_sep = { fg = "#cacace" } # Permission separator symbol (-)
 
 # Progress
-progress_label = { fg = "#ff6685", bg = "#5c5c66", bold = true }
-progress_normal = { fg = "#ff6685", bg = "#5c5c66" }
-progress_error = { fg = "#66b2f0", bg = "#5c5c66" }
+progress_label = { fg = "#ff6685", bg = "#4b4b53", bold = true }
+progress_normal = { fg = "#ff6685", bg = "#4b4b53" }
+progress_error = { fg = "#66b2f0", bg = "#4b4b53" }
 
 
 
@@ -104,7 +104,7 @@ cand = { fg = "#ff8a5c", bold = true } # Keybind
 rest = { fg = "#4b4b53" }
 desc = { fg = "#ff6685" } # Description of the keybind
 separator = "  "
-separator_style = { fg = "#b4b4bb" }
+separator_style = { fg = "#cacace" }
 
 
 
@@ -115,11 +115,11 @@ separator_style = { fg = "#b4b4bb" }
 # Activated with actions such as deleting a file
 [confirm]
 border = { fg = "#ff6685" }
-title = { fg = "#b4b4bb" }
-body = { fg = "#b4b4bb" }
-list = { fg = "#b4b4bb" } # List items below the content
-btn_yes = { fg = "#b4b4bb" } # "Yes" button
-btn_no = { fg = "#b4b4bb" } # "No" button
+title = { fg = "#cacace" }
+body = { fg = "#cacace" }
+list = { fg = "#cacace" } # List items below the content
+btn_yes = { fg = "#cacace" } # "Yes" button
+btn_no = { fg = "#cacace" } # "No" button
 
 
 
@@ -130,7 +130,7 @@ btn_no = { fg = "#b4b4bb" } # "No" button
 # Activated with the Tab key
 [spot]
 border = { fg = "#ff6685" }
-title = { fg = "#b4b4bb" }
+title = { fg = "#cacace" }
 tbl_col = { fg = "#ff6685" } # Selected column in the table
 tbl_cell = { fg = "#0a0a08", bg = "#ff8a5c" } # Selected cell in the table
 
@@ -155,7 +155,7 @@ title_error = { fg = "#66b2f0" }
 [pick]
 border = { fg = "#ff6685" }
 active = { fg = "#d97bfe", bold = true }
-inactive = { fg = "#b4b4bb" }
+inactive = { fg = "#cacace" }
 
 
 
@@ -165,9 +165,9 @@ inactive = { fg = "#b4b4bb" }
 # Input box when performing actions such as renaming a file
 [input]
 border = { fg = "#ff6685" }
-title = { fg = "#b4b4bb" }
-value = { fg = "#b4b4bb" }
-selected = { fg = "#0a0a08", bg = "#b4b4bb" } # Text that is selected
+title = { fg = "#cacace" }
+value = { fg = "#cacace" }
+selected = { fg = "#0a0a08", bg = "#cacace" } # Text that is selected
 
 
 
@@ -178,8 +178,8 @@ selected = { fg = "#0a0a08", bg = "#b4b4bb" } # Text that is selected
 # Activated with "g + SPACE" (path completion), etc.
 [cmp]
 border = { fg = "#ff6685" }
-active = { fg = "#0a0a08", bg = "#b4b4bb" }
-inactive = { fg = "#b4b4bb" }
+active = { fg = "#0a0a08", bg = "#cacace" }
+inactive = { fg = "#cacace" }
 
 
 
@@ -190,7 +190,7 @@ inactive = { fg = "#b4b4bb" }
 # Activated with 'w'
 [tasks]
 border = { fg = "#ff6685" }
-title = { fg = "#b4b4bb" }
+title = { fg = "#cacace" }
 hovered = { fg = "#d97bfe" }
 
 
@@ -203,7 +203,7 @@ hovered = { fg = "#d97bfe" }
 [help]
 on = { fg = "#ff8a5c" } # 1st column: Keybind
 run = { fg = "#ff6685" } # 2nd column: Command
-desc = { fg = "#b4b4bb" } # 3rd column: Description
+desc = { fg = "#cacace" } # 3rd column: Description
 hovered = { reversed = true, bold = true }
 footer = { fg = "#0a0a08", bg = "#ff6685", bold = true }
 
@@ -224,6 +224,6 @@ rules = [
 	# Document
 	{ mime = "application/{pdf,doc,rtf}", fg = "#dbc500" },
 	# Fallback. "*" matches all files. "*/" matches all directories.
-	{ url = "*", fg = "#b4b4bb" },
+	{ url = "*", fg = "#cacace" },
 	{ url = "*/", fg = "#ff6685" },
 ]
