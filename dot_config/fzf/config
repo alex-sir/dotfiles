@@ -1,0 +1,38 @@
+# Run fzf with the follow options:
+# - Multi-select enabled (Tab)
+# - A given height of 50%
+# - Reversed layout (top to bottom)
+# - Inline finder info
+# - Border with rounded corners
+# - Custom pointer
+# - Custom raw mode gutter column
+# - Custom keybinds:
+#   - Ctrl+f: Preview page down (forward)
+#   - Ctrl+b: Preview page up (backward)
+#   - Alt+r: Toggle raw mode for displaying non-matching items
+# - Preview window executing the following script: https://github.com/junegunn/fzf/blob/master/bin/fzf-preview.sh
+#   - NOTE: Download and place the fzf-preview.sh file in a directory in your $PATH
+# - Rounded corners for the preview window border
+# - Radiant Gore color scheme
+
+-m
+--height 50%
+--layout reverse
+--info inline
+--border rounded
+--pointer='->'
+--gutter-raw='▚'
+--bind='ctrl-f:preview-page-down,ctrl-b:preview-page-up,alt-r:toggle-raw'
+--preview='fzf-preview.sh {}'
+--preview-window='border-rounded'
+--color='
+  fg:#cacace fg+:#ff6685
+  bg+:#4b4b53
+  hl:#66b2f0 hl+:#66b2f0
+  pointer:#ff6685 marker:#ff6685
+  spinner:#ff8a5c info:#ff8a5c separator:#ff6685
+  prompt:#ff6685 query:#cacace
+  border:#cacace preview-border:#ff6685
+  preview-label:#cacace
+  scrollbar:#cacace preview-scrollbar:#cacace
+'

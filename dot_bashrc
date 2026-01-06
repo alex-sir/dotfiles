@@ -107,11 +107,11 @@ alias ouchd='ouch decompress' # Decompress files (ouchd <compressed file>)
 alias ouchl='ouch list -t'    # List contents of an archive in tree format (ouchl <compressed file>)
 
 # *** chezmoi ***
-alias chc='z ~/.local/share/chezmoi' # Move to the source directory (uses zoxide)
-alias cha='chezmoi add'              # Add a file, directory, or symlink to the source state
-alias chr='chezmoi re-add'           # Re-add modified files
-alias chd='chezmoi diff'             # Print diff between the target and destination state
-alias chu='chezmoi update'           # Pull and apply any changes
+alias chc='z $HOME/.local/share/chezmoi' # Move to the source directory (uses zoxide)
+alias cha='chezmoi add'                  # Add a file, directory, or symlink to the source state
+alias chr='chezmoi re-add'               # Re-add modified files
+alias chd='chezmoi diff'                 # Print diff between the target and destination state
+alias chu='chezmoi update'               # Pull and apply any changes
 
 # *** trash-cli ***
 alias trp='trash-put'     # Trash files and directories
@@ -163,51 +163,11 @@ alias sudoe='sudo -s -E' # Launch a root shell while preserving user environment
 PS1='[\u@\h \W]\$ '
 
 # Environment variables
-export PATH="${PATH}:~/scripts"
+export PATH="${PATH}:$HOME/scripts"
 export EDITOR="nvim"
 # Override the default diff program to Neovim with diff mode enabled
 export DIFFPROG="nvim -d"
-# Run fzf with the follow options:
-# - Multi-select enabled (Tab)
-# - Reversed layout (top to bottom)
-# - Inline finder info
-# - Border with rounded corners
-# - Custom pointer
-# - Custom raw mode gutter column
-# - Custom keybinds:
-#   - Ctrl+f: Preview page down (forward)
-#   - Ctrl+b: Preview page up (backward)
-#   - Alt+r: Toggle raw mode for displaying non-matching items
-# - Preview window executing the following script: https://github.com/junegunn/fzf/blob/master/bin/fzf-preview.sh
-#   - NOTE: Download and place the fzf-preview.sh file in a directory in your $PATH
-# - Rounded corners for the preview window border
-# - Label for the preview window
-# - Radiant Gore color scheme
-fzf_options="
-  -m
-  --layout reverse
-  --info inline
-  --border rounded
-  --pointer='->'
-  --gutter-raw='▚'
-  --bind='ctrl-f:preview-page-down,ctrl-b:preview-page-up,alt-r:toggle-raw'
-  --preview-window='border-rounded'
-  --preview-label=' Preview '
-  --color='
-    fg:#cacace fg+:#ff6685
-    bg+:#4b4b53
-    hl:#ff8a5c hl+:#66b2f0
-    pointer:#ff6685 marker:#ff6685
-    spinner:#ff8a5c info:#ff8a5c separator:#ff6685
-    prompt:#ff6685 query:#cacace
-    border:#cacace preview-border:#ff6685
-    preview-label:#cacace
-    scrollbar:#cacace preview-scrollbar:#cacace
-  '
-"
-export FZF_DEFAULT_OPTS="$fzf_options --preview='fzf-preview.sh {}'"
-# zoxide uses a different, heavily simplified version of the preview script for interactive selection (zi)
-export _ZO_FZF_OPTS="$fzf_options --preview-window='bottom,30%' --preview='fzf-preview-zi.sh {}'"
+export FZF_DEFAULT_OPTS_FILE="$HOME/.config/fzf/config"
 
 # Yazi shell wrapper to change the cwd when exiting yazi (use y instead of yazi to start)
 function y() {

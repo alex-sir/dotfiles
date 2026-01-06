@@ -10,8 +10,8 @@
 cwd = { fg = "#ff8a5c" } # Current working directory displayed at the top
 
 # Find
-find_keyword = { fg = "#0a0a08", bg = "#cacace", bold = true, underline = true } # Highlighted portion in the filename
-find_position = { fg = "#0a0a08", bg = "#cacace", bold = true } # Current file location in all found files to the right of filename
+find_keyword = { fg = "#0a0a08", bg = "#66b2f0", bold = true, underline = true } # Highlighted portion in the filename
+find_position = { fg = "#0a0a08", bg = "#66b2f0", bold = true } # Current file location in all found files to the right of filename
 
 # Marker
 marker_copied = { fg = "#1fcc00", bg = "#1fcc00" } # Copied file marker
@@ -220,7 +220,7 @@ rules = [
 	# Media
 	{ mime = "{audio,video}/*", fg = "#d97bfe" },
 	# Archive
-	{ mime = "application/{zip,rar,7z*,tar,gzip,xz,zstd,bzip*,lzma,compress,archive,cpio,arj,xar,ms-cab*}", fg = "#66b2f0" },
+	{ mime = "application/{zip,rar,7z*,tar,gzip,xz,zstd,bzip*,lzma,compress,archive,cpio,arj,xar,ms-cab*}", fg = "#00ccf0" },
 	# Document
 	{ mime = "application/{pdf,doc,rtf}", fg = "#dbc500" },
 	# Fallback. "*" matches all files. "*/" matches all directories.
