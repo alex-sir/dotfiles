@@ -106,6 +106,7 @@ These are the programs which have dotfiles being tracked in this repo
 - [Cava](https://github.com/karlstav/cava)
 - [Dunst](https://github.com/dunst-project/dunst)
 - [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
+- [fzf](https://github.com/junegunn/fzf)
 - [Git](https://git-scm.com)
 - [Hyprland](https://github.com/hyprwm/Hyprland)
 - [kitty](https://github.com/kovidgoyal/kitty)
@@ -116,7 +117,3 @@ These are the programs which have dotfiles being tracked in this repo
 - [xdg-desktop-portal](https://github.com/flatpak/xdg-desktop-portal)
 - [xdg-desktop-portal-termfilechooser](https://github.com/GermainZ/xdg-desktop-portal-termfilechooser)
 - [Yazi](https://github.com/sxyazi/yazi)
-
-Some programs have their configuration only in the `.bashrc` file:
-
-- [fzf](https://github.com/junegunn/fzf)

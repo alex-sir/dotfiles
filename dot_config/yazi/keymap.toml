@@ -1,4 +1,5 @@
 # *** Base Yazi ***
+# Forcefully exit Yazi by opening a shell at the current location
 [[mgr.prepend_keymap]]
 on = "!"
 run = 'shell "$SHELL" --block --confirm'
@@ -15,11 +16,6 @@ run = "arrow -5"
 desc = "Move cursor up 5"
 
 [[mgr.prepend_keymap]]
-on = "r"
-run = ["rename --cursor=start", "input:escape"]
-desc = "Rename selected file(s)"
-
-[[mgr.prepend_keymap]]
 on = "z"
 run = "plugin zoxide"
 desc = "Jump to a directory via zoxide"
@@ -28,6 +24,11 @@ desc = "Jump to a directory via zoxide"
 on = "Z"
 run = "plugin fzf"
 desc = "Jump to a file/directory via fzf"
+
+# Disable the default keybinding g => d for going to ~/Downloads
+[[mgr.prepend_keymap]]
+on = ["g", "d"]
+run = "noop"
 
 [[mgr.prepend_keymap]]
 on = ["g", "r"]
