@@ -5,5 +5,23 @@ linemode = "size"
 max_width = 3000
 max_height = 4500
 
+[open]
+prepend_rules = [
+  # Custom rule for viewing image files
+  { mime = "image/*", use = [ "loupe", "icat" ] }
+]
+
 [opener]
-play = [{ run = 'mpv --force-window "$@"', orphan = true, for = "linux" }]
+# Use the mpv media player for playing
+play = [
+  { run = 'mpv %s', desc = "mpv", orphan = true, for = "linux" }
+]
+# Image viewer 1: Loupe
+loupe = [
+  { run = 'loupe %s', desc = "Loupe", orphan = true, for = "linux"}
+]
+# Image viewer 2: icat
+# "clear" ensures the image is not displayed when displaying subsequent images or when exiting Yazi
+icat = [
+  { run = 'kitten icat --hold --fit both %s && clear', desc = "icat", block = true, for = "linux"}
+]

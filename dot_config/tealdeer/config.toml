@@ -3,23 +3,23 @@ compact = true
 
 [style.description]
 # gray
-foreground = { rgb = { r = 171, g = 178, b = 191 } }
+foreground = { rgb = { r = 202, g = 202, b = 206 } }
 
 [style.command_name]
 # orange
-foreground = { rgb = { r = 209, g = 154, b = 102 } }
+foreground = { rgb = { r = 255, g = 138, b = 92 } }
 
 [style.example_text]
-# purple
-foreground = { rgb = { r = 198, g = 120, b = 221 } }
+# red
+foreground = { rgb = { r = 255, g = 102, b = 133 } }
 
 [style.example_code]
 # blue
-foreground = { rgb = { r = 97, g = 175, b = 239 } }
+foreground = { rgb = { r = 102, g = 178, b = 240 } }
 
 [style.example_variable]
 # green
-foreground = { rgb = { r = 152, g = 195, b = 121 } }
+foreground = { rgb = { r = 31, g = 204, b = 0 } }
 underline = true
 
 [updates]

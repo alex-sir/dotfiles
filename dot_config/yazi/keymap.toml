@@ -2,8 +2,9 @@
 # Forcefully exit Yazi by opening a shell at the current location
 [[mgr.prepend_keymap]]
 on = "!"
-run = 'shell "$SHELL" --block --confirm'
-desc = "Open shell here"
+for = "unix"
+run = 'shell "$SHELL" --block'
+desc = "Open $SHELL here"
 
 [[mgr.prepend_keymap]]
 on = "J"

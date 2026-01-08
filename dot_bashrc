@@ -95,7 +95,6 @@ alias gldm='gallery-dl -D . --write-metadata --user-agent browser --cookies-from
 alias gldu='gallery-dl -D . --user-agent browser --cookies-from-browser $BROWSER --ugoira webm'
 
 # *** kitty ***
-alias icat="kitten icat"  # Display images in the terminal
 alias kdiff="kitten diff" # Fast side-by-side diff tool w/ syntax highlighting & images
 
 # *** fastfetch ***
@@ -270,6 +269,15 @@ ufw8081e() {
 # Usage: ufw8081d [ip-address]
 ufw8081d() {
   sudo ufw delete allow from "$1" to any port 8081
+}
+
+# *** kitty ***
+
+# Display images in the terminal
+# Usage: icat [image]
+icat() {
+  kitten icat --hold --fit both "$1"
+  clear
 }
 
 # Enable fzf shell integration (KEEP AT THE END OF THIS CONFIG FILE)
