@@ -1,0 +1,129 @@
+# *********************************************************************
+# *********************** CUSTOM (USER DEFINED) ***********************
+# *********************************************************************
+
+# Open new tab in current working directory
+map ctrl+shift+t launch --cwd=current --type=tab
+# Open new window in current working directory
+map ctrl+shift+enter launch --cwd=current --type=window
+
+# Move windows around
+map shift+up move_window up
+map shift+right move_window right
+map shift+down move_window down
+map shift+left move_window left
+
+# Move tab into a new OS window
+map f5 detach_tab ask
+# Move window into a new OS window
+map f6 detach_window ask
+# Move window into a new tab
+map f7 detach_window new-tab
+# In a tab, close all windows other than the currently active window
+map f8 close_other_windows_in_tab
+
+# Cursor trail animation
+cursor_trail 3
+cursor_trail_decay 0.1 0.4
+cursor_trail_start_threshold 2
+
+
+
+# *********************************************************************
+# ******************************* THEME *******************************
+# *********************************************************************
+
+# OneDark-Pro
+include current-theme.conf
+
+
+
+# *********************************************************************
+# ******************************* FONTS *******************************
+# *********************************************************************
+font_family      family="MartianMono Nerd Font"
+bold_font        auto
+italic_font      auto
+bold_italic_font auto
+
+# Font size (in pts)
+font_size 12.0
+
+
+
+# *********************************************************************
+# **************************** SCROLLBACK *****************************
+# *********************************************************************
+
+# Control when the scrollbar is displayed
+scrollbar scrolled
+
+# Opacity of the scrollbar track, 0 being fully transparent and 1 being full opaque
+scrollbar_track_opacity 0.1
+
+
+
+# *********************************************************************
+# *************************** WINDOW LAYOUT ***************************
+# *********************************************************************
+
+# remember_window_size  yes
+
+# Desktop
+# initial_window_width  185c
+# initial_window_height 45c
+
+# Laptop
+# initial_window_width  120c
+# initial_window_height 33c
+
+# Hide the title-bar and window borders
+hide_window_decorations yes
+
+
+
+# *********************************************************************
+# ****************************** TAB BAR ******************************
+# *********************************************************************
+
+# Tab bar style can be one of: fade, slant, separator, poweline, custom, hidden
+tab_bar_style powerline
+
+# Template to render the tab title. Formatting is done by Python's string formatting machinery.
+tab_title_template "{fmt.fg.red}{bell_symbol}{activity_symbol}{fmt.fg.tab}{title[title.rfind('/')+1:]}{sup.index}"
+
+active_tab_font_style bold
+
+
+
+# *********************************************************************
+# **************************** COLOR SCHEME ***************************
+# *********************************************************************
+
+# Number between 0-1. 1 is opaque & 0 is fully transparent.
+background_opacity 0.5
+
+
+
+# *********************************************************************
+# ****************************** ADVANCED *****************************
+# *********************************************************************
+
+shell_integration no-cursor
+
+
+
+# *********************************************************************
+# *************************** TAB MANAGEMENT **************************
+# *********************************************************************
+
+# Keyboard shortcuts to go to specific numbered tabs
+map ctrl+alt+1 goto_tab 1
+map ctrl+alt+2 goto_tab 2
+map ctrl+alt+3 goto_tab 3
+map ctrl+alt+4 goto_tab 4
+map ctrl+alt+5 goto_tab 5
+map ctrl+alt+6 goto_tab 6
+map ctrl+alt+7 goto_tab 7
+map ctrl+alt+8 goto_tab 8
+map ctrl+alt+9 goto_tab 9
