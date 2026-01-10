@@ -13,8 +13,9 @@ prepend_rules = [
 
 [opener]
 # Use the mpv media player for playing
+# "--force-window" ensures a video output window is displayed when playing media files not containing video
 play = [
-  { run = 'mpv %s', desc = "mpv", orphan = true, for = "linux" }
+  { run = 'mpv --force-window %s', desc = "mpv", orphan = true, for = "linux" }
 ]
 # Image viewer 1: Loupe
 loupe = [

@@ -8,7 +8,7 @@ CURRENT_TIME=$(date +%H)
 
 hyprctl dispatch dpms on
 # Reapply hyprsunset, as a current BUG resets the blue light filter when hypridle activates
-if [[ ${CURRENT_TIME#0} -ge 1 && ${CURRENT_TIME#0} -le 11 ]]; then
+if [[ ${CURRENT_TIME#0} -ge 20 || ${CURRENT_TIME#0} -le 6 ]]; then
   hyprctl hyprsunset temperature 3400
 else
   hyprctl hyprsunset temperature 6500 # Reset the value of temperature to normal

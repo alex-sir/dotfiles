@@ -283,9 +283,18 @@ icat() {
 # *** mpv ***
 
 # Play online videos in the background using mpv
-# Usage: mpvonl [online-video-link]
-mpvonl() {
-  nohup mpv "$1" >/dev/null 2>&1 &
+# Usage: mpvo [online-video-link]
+mpvo() {
+  (nohup mpv "$1" >/dev/null 2>&1 &)
+}
+
+# *** Hyprland ***
+
+# Restart a Hyprland process by killing the process and executing it again
+# Usage: hyprrst [process]
+hyprrst() {
+  pkill "$1"
+  hyprctl dispatch exec "$1"
 }
 
 # Enable fzf shell integration (KEEP AT THE END OF THIS CONFIG FILE)
