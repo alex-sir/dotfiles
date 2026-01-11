@@ -26,10 +26,11 @@ on = "Z"
 run = "plugin fzf"
 desc = "Jump to a file/directory via fzf"
 
-# Disable the default keybinding g => d for going to ~/Downloads
+# Slightly modify the default keymap for going to the downloads directory
 [[mgr.prepend_keymap]]
 on = ["g", "d"]
-run = "noop"
+run = "cd ~/downloads"
+desc = "Go ~/downloads"
 
 [[mgr.prepend_keymap]]
 on = ["g", "r"]
@@ -45,6 +46,11 @@ desc = "Go WSU"
 on = ["g", "p"]
 run = "cd ~/storage/sda1recrypt/6042"
 desc = "Go 6042"
+
+[[mgr.prepend_keymap]]
+on = ["g", "s"]
+run = "cd ~/pictures/screenshots"
+desc = "Go screenshots"
 
 # *** Plugins ***
 # toggle-pane (https://github.com/yazi-rs/plugins/tree/main/toggle-pane.yazi)
