@@ -107,6 +107,7 @@ alias ouchl='ouch list -t'    # List contents of an archive in tree format (ouch
 
 # *** chezmoi ***
 alias chc='z $HOME/.local/share/chezmoi' # Move to the source directory (uses zoxide)
+alias che='chezmoi edit --watch'         # Edit a file & apply changes when the file is saved
 alias cha='chezmoi add'                  # Add a file, directory, or symlink to the source state
 alias chr='chezmoi re-add'               # Re-add modified files
 alias chd='chezmoi diff'                 # Print diff between the target and destination state
