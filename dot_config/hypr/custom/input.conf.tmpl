@@ -8,7 +8,12 @@ input {
   kb_layout = us
 
   # Mouse
-  sensitivity = 0 # -1.0 - 1.0, 0 means no modification.
+  # sensitivity: Range is [-1.0, 1.0], 0 means no modification.
+  {{- if eq .chezmoi.hostname "gored" }}
+  sensitivity = 0
+  {{- else if eq .chezmoi.hostname "gorel" }}
+  sensitivity = 0.5
+  {{- end }}
   accel_profile = flat
   follow_mouse = 1
 
@@ -16,6 +21,7 @@ input {
   scroll_method = 2fg
   touchpad {
     natural_scroll = true
+    scroll_factor = 0.5
   }
 }
 

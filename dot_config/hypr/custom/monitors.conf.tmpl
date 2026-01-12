@@ -7,7 +7,7 @@
 monitor = DP-2, 2560x1440@144, 0x0, 1 # First monitor in the middle
 monitor = DP-3, 2560x1440@144, -2560x0, 1 # Second monitor to the left of the first
 {{- else if eq .chezmoi.hostname "gorel" }}
-monitor = eDP-1, 3000x2000@60, 0x0, 1
+monitor = eDP-1, 3000x2000@60, 0x0, 2
 {{- end }}
 
 monitor = , preferred, auto, 1 # Place any monitor w/o an explicit rule to the right

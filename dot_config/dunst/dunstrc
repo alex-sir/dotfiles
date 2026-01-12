@@ -428,6 +428,12 @@
   timeout = 3
   format = "<b>%s</b>: %b"
 
+[brightness]
+  stack_tag = change_brightness
+  history_ignore = yes
+  timeout = 3
+  format = "<b>%s</b>: %b"
+
 # SCRIPTING
 # You can specify a script that gets run when the rule matches by
 # setting the "script" option.
