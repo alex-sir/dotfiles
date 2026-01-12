@@ -160,6 +160,9 @@ alias fsusp='sudo systemctl suspend --force' # Forcibly suspend the system
 # *** sudo ***
 alias sudoe='sudo -s -E' # Launch a root shell while preserving user environment variables
 
+# *** power-profiles-daemon ***
+alias ppc='powerprofilesctl' # Command line utility to control Power Profiles Daemon
+
 PS1='[\u@\h \W]\$ '
 
 # Environment variables

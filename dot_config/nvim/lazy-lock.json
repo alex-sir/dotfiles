@@ -24,7 +24,7 @@
   "mini.hipatterns": { "branch": "main", "commit": "add8d8abad602787377ec5d81f6b248605828e0f" },
   "mini.icons": { "branch": "main", "commit": "efc85e42262cd0c9e1fdbf806c25cb0be6de115c" },
   "mini.pairs": { "branch": "main", "commit": "d5a29b6254dad07757832db505ea5aeab9aad43a" },
-  "neo-tree.nvim": { "branch": "main", "commit": "b07acce2f2b66384fbe052240a3fb9ee67db1a96" },
+  "neo-tree.nvim": { "branch": "main", "commit": "93a867a28838d78700f6c382b46d82112134a220" },
   "noice.nvim": { "branch": "main", "commit": "7bfd942445fb63089b59f97ca487d605e715f155" },
   "nui.nvim": { "branch": "main", "commit": "de740991c12411b663994b2860f1a4fd0937c130" },
   "nvim-dap": { "branch": "master", "commit": "cdfd55a133f63228c55f91378f12908cb2a78ded" },
@@ -47,9 +47,9 @@
   "trouble.nvim": { "branch": "main", "commit": "bd67efe408d4816e25e8491cc5ad4088e708a69a" },
   "ts-comments.nvim": { "branch": "main", "commit": "123a9fb12e7229342f807ec9e6de478b1102b041" },
   "typr": { "branch": "main", "commit": "584e4ef34dea25a4035627794322f315b22d1253" },
-  "venv-selector.nvim": { "branch": "main", "commit": "58bae72c84b9f7f864c879ec1896e384296f9ffb" },
+  "venv-selector.nvim": { "branch": "main", "commit": "dacdc044ed5730f01c1ba86158f2b240c8d035ea" },
   "vim-illuminate": { "branch": "master", "commit": "0d1e93684da00ab7c057410fecfc24f434698898" },
   "volt": { "branch": "main", "commit": "620de1321f275ec9d80028c68d1b88b409c0c8b1" },
   "which-key.nvim": { "branch": "main", "commit": "3aab2147e74890957785941f0c1ad87d0a44c15a" },
-  "yazi.nvim": { "branch": "main", "commit": "4a8bd3284708e11e48bcd865892902a46abdcce0" }
+  "yazi.nvim": { "branch": "main", "commit": "513406b09bdc59e9f85a1bbdf24a1b573588a36d" }
 }
