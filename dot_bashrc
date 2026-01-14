@@ -163,6 +163,11 @@ alias sudoe='sudo -s -E' # Launch a root shell while preserving user environment
 # *** power-profiles-daemon ***
 alias ppc='powerprofilesctl' # Command line utility to control Power Profiles Daemon
 
+# *** LibreOffice ***
+# Convert a file into pdf format (e.g., pptx -> pdf)
+# To convert all files of a certain type in a directory, do something like "topdf *.pptx"
+alias topdf='libreoffice --headless --convert-to pdf'
+
 PS1='[\u@\h \W]\$ '
 
 # Environment variables
