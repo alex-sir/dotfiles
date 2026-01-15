@@ -51,7 +51,11 @@ background {
 # https://wiki.hypr.land/Hypr-Ecosystem/hyprlock/#input-field
 input-field {
   monitor =
+  {{- if eq .chezmoi.hostname "gored" }}
   size = 24%, 4%
+  {{- else if eq .chezmoi.hostname "gorel" }}
+  size = 29%, 4%
+  {{- end }}
   outline_thickness = 2
   fade_on_empty = false # Fade the input when it's empty
   placeholder_text = <i>Password</i> # Text rendered in the input box when it's empty
@@ -77,7 +81,11 @@ input-field {
   font_family = $FONT
 
   # Positioning
+  {{- if eq .chezmoi.hostname "gored" }}
   position = 0, -5%
+  {{- else if eq .chezmoi.hostname "gorel" }}
+  position = 0, -5%
+  {{- end }}
   halign = center # Horizontal alignment
   valign = center # Vertical alignment
 }
@@ -91,11 +99,19 @@ label {
   color = rgb(cacace)
 
   # Font
+  {{- if eq .chezmoi.hostname "gored" }}
   font_size = 110
+  {{- else if eq .chezmoi.hostname "gorel" }}
+  font_size = 150
+  {{- end }}
   font_family = $FONT
 
   # Positioning
+  {{- if eq .chezmoi.hostname "gored" }}
   position = 0, -20%
+  {{- else if eq .chezmoi.hostname "gorel" }}
+  position = 0, -25%
+  {{- end }}
   halign = center
   valign = top
 }
@@ -107,11 +123,19 @@ label {
   color = rgb(cacace)
 
   # Font
+  {{- if eq .chezmoi.hostname "gored" }}
   font_size = 25
+  {{- else if eq .chezmoi.hostname "gorel" }}
+  font_size = 34
+  {{- end }}
   font_family = $FONT
 
   # Positioning
+  {{- if eq .chezmoi.hostname "gored" }}
   position = 0, -33%
+  {{- else if eq .chezmoi.hostname "gorel" }}
+  position = 0, -38%
+  {{- end }}
   halign = center
   valign = top
 }
@@ -123,11 +147,19 @@ label {
   color = rgb(cacace)
 
   # Font
+  {{- if eq .chezmoi.hostname "gored" }}
   font_size = 20
+  {{- else if eq .chezmoi.hostname "gorel" }}
+  font_size = 27
+  {{- end }}
   font_family = $FONT
 
   # Positioning
+  {{- if eq .chezmoi.hostname "gored" }}
   position = 0, -49%
+  {{- else if eq .chezmoi.hostname "gorel" }}
+  position = 0, -49.5%
+  {{- end }}
   halign = center
   valign = top
 }
