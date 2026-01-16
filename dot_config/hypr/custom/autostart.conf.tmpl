@@ -13,3 +13,6 @@ exec-once = hypridle # Idle management daemon
 exec-once = hyprsunset # Blue light filter
 exec-once = waybar # Status bar
 exec-once = mega-cmd-server # MEGAcmd access to MEGA services
+{{- if eq .chezmoi.hostname "gored" }}
+exec-once = openrgb --server # Start the OpenRGB SDK server on the default port 6742
+{{- end }}
