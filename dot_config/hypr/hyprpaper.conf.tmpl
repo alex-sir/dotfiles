@@ -3,13 +3,13 @@
 # *********************************************************************
 # https://wiki.hypr.land/Hypr-Ecosystem/hyprpaper
 
-$CURRENT_WALLPAPER = ~/wallpapers/sylvia-ritter/101480382_Rippling Ribbons _04.png
+$CURRENT_WALLPAPER = ~/wallpapers/monster/red-sun-rises.png
 
 {{- if eq .chezmoi.hostname "gored" }}
 wallpaper {
-    monitor = DP-2
-    path = $CURRENT_WALLPAPER
-    fit_mode = cover
+  monitor = DP-2
+  path = $CURRENT_WALLPAPER
+  fit_mode = cover
 }
 
 wallpaper {
@@ -19,17 +19,17 @@ wallpaper {
 }
 {{- else if eq .chezmoi.hostname "gorel" }}
 wallpaper {
-    monitor = eDP-1
-    path = $CURRENT_WALLPAPER
-    fit_mode = cover
+  monitor = eDP-1
+  path = $CURRENT_WALLPAPER
+  fit_mode = cover
 }
 {{- end }}
 
 # Fallback wallpaper
 wallpaper {
-    monitor =
-    path = $CURRENT_WALLPAPER
-    fit_mode = cover
+  monitor =
+  path = $CURRENT_WALLPAPER
+  fit_mode = cover
 }
 
 # Misc options

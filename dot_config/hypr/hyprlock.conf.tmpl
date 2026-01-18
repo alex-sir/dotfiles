@@ -38,9 +38,9 @@ background {
   # Left empty for "all monitors"
   monitor =
   # Can be an image path, "screenshot", or empty to fill with "color"
-  path = ~/wallpapers/sylvia-ritter/101480382_Rippling Ribbons _04.png
+  path = ~/wallpapers/monster/red-sun-rises.png
   color = rgb(0a0a08) # Fallback background color
-  blur_passes = 2 # 0 disables blurring
+  blur_passes = 1 # 0 disables blurring
   blur_size = 6
   noise = 0.01
   contrast = 1.0
@@ -52,9 +52,9 @@ background {
 input-field {
   monitor =
   {{- if eq .chezmoi.hostname "gored" }}
-  size = 24%, 4%
+  size = 19%, 4%
   {{- else if eq .chezmoi.hostname "gorel" }}
-  size = 29%, 4%
+  size = 24%, 4%
   {{- end }}
   outline_thickness = 2
   fade_on_empty = false # Fade the input when it's empty
@@ -64,7 +64,7 @@ input-field {
   fail_text = $PAMFAIL
 
   # Dots displayed when typing in the password
-  dots_size = 0.30 # Size of the dots [0.2, 0.8]
+  dots_size = 0.25 # Size of the dots [0.2, 0.8]
   dots_spacing = 0.5 # Spacing between dots [1.0, 1.0]
 
   # Colors
@@ -81,7 +81,7 @@ input-field {
   font_family = $FONT
 
   # Positioning
-  position = 0, -5%
+  position = 0, -0%
   halign = center # Horizontal alignment
   valign = center # Vertical alignment
 }
@@ -96,18 +96,14 @@ label {
 
   # Font
   {{- if eq .chezmoi.hostname "gored" }}
-  font_size = 110
+  font_size = 75
   {{- else if eq .chezmoi.hostname "gorel" }}
-  font_size = 150
+  font_size = 100
   {{- end }}
   font_family = $FONT
 
   # Positioning
-  {{- if eq .chezmoi.hostname "gored" }}
-  position = 0, -20%
-  {{- else if eq .chezmoi.hostname "gorel" }}
   position = 0, -25%
-  {{- end }}
   halign = center
   valign = top
 }
@@ -120,15 +116,15 @@ label {
 
   # Font
   {{- if eq .chezmoi.hostname "gored" }}
-  font_size = 25
+  font_size = 20
   {{- else if eq .chezmoi.hostname "gorel" }}
-  font_size = 34
+  font_size = 26
   {{- end }}
   font_family = $FONT
 
   # Positioning
   {{- if eq .chezmoi.hostname "gored" }}
-  position = 0, -33%
+  position = 0, -34%
   {{- else if eq .chezmoi.hostname "gorel" }}
   position = 0, -38%
   {{- end }}
@@ -139,19 +135,19 @@ label {
 # User
 label {
   monitor =
-  text = Welcome <u>$USER</u>
+  text = $USER
   color = rgb(cacace)
 
   # Font
   {{- if eq .chezmoi.hostname "gored" }}
-  font_size = 20
+  font_size = 18
   {{- else if eq .chezmoi.hostname "gorel" }}
   font_size = 27
   {{- end }}
   font_family = $FONT
 
   # Positioning
-  position = 0, -49.5%
+  position = 0, -45%
   halign = center
   valign = top
 }

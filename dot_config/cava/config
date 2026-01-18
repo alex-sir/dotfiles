@@ -248,23 +248,23 @@ orientation = horizontal
 # background must also be defined in hex or remain commented out. 1 = on, 0 = off.
 # You can define as many as 8 different colors. They range from bottom to top of screen
 ; gradient = 1
-; gradient_color_1 = '#c678dd' # Purple
-; gradient_color_2 = '#61afef' # Blue
-; gradient_color_3 = '#98c379' # Green
-; gradient_color_4 = '#e5c07b' # Yellow
-; gradient_color_5 = '#d19a66' # Orange
-; gradient_color_6 = '#e06c75' # Red
+; gradient_color_1 = '#66b2f0' # Blue
+; gradient_color_2 = '#d97bfe' # Purple
+; gradient_color_3 = '#ff6685' # Red
+; gradient_color_4 = '#ff8a5c' # Orange
+; gradient_color_5 = '#dbc500' # Yellow
+; gradient_color_6 = '#1fcc00' # Green
 
 
 # Horizontal is only supported on noncurses output.
 # Only one color will be calculated per bar.
 horizontal_gradient = 1
-horizontal_gradient_color_1 = '#c678dd' # Purple
-horizontal_gradient_color_2 = '#61afef' # Blue
-horizontal_gradient_color_3 = '#98c379' # Green
-horizontal_gradient_color_4 = '#e5c07b' # Yellow
-horizontal_gradient_color_5 = '#d19a66' # Orange
-horizontal_gradient_color_6 = '#e06c75' # Red
+horizontal_gradient_color_1 = '#66b2f0' # Blue
+horizontal_gradient_color_2 = '#d97bfe' # Purple
+horizontal_gradient_color_3 = '#ff6685' # Red
+horizontal_gradient_color_4 = '#ff8a5c' # Orange
+horizontal_gradient_color_5 = '#dbc500' # Yellow
+horizontal_gradient_color_6 = '#1fcc00' # Green
 
 
 # If both vertical and horizontal gradient is enabled, vertical will be blended in this direction.
