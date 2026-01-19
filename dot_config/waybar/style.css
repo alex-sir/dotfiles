@@ -33,6 +33,15 @@ window#waybar {
   padding-right: 5px;
 }
 
+#custom-power,
+menuitem,
+#clock,
+#idle_inhibitor,
+#bluetooth,
+#pulseaudio {
+  transition: background-color 0.2s ease-in-out;
+}
+
 #custom-power:hover,
 menuitem:hover,
 #clock:hover,
@@ -40,6 +49,7 @@ menuitem:hover,
 #bluetooth:hover,
 #pulseaudio:hover {
   background-color: rgba(50, 50, 37, 0.9);
+  transition: background-color 0.2s ease-in-out;
 }
 
 /*********************************************************************/
@@ -69,15 +79,17 @@ menuitem {
   padding: 0 5px;
   color: #cacace;
   margin: 0px 6px;
+  border: 1.5px solid transparent;
+  transition: border-color 0.2s ease-in-out;
 }
 
 #workspaces button.active {
-  border: 1.5px solid #cacace;
+  border-color: #cacace;
 }
 
 #workspaces button:hover {
   background: transparent;
-  border: 1.5px solid #cacace;
+  border-color: #cacace;
   font-weight: bold;
 }
 
