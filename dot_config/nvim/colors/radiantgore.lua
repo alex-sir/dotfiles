@@ -11,7 +11,6 @@ local yellow = "#dbc500"
 local blue = "#66b2f0"
 local purple = "#d97bfe"
 local orange = "#ff8a5c"
-local cyan = "#00ccf0"
 
 local palette = {
 	-- Backgrounds & accents
@@ -24,7 +23,7 @@ local palette = {
 	-- Foregrounds & accents
 	base05 = red, -- Main foreground, variables, operators, NORMAL mode
 	base06 = orange, -- Secondary foreground (keywords, active elements, focused items)
-	base07 = cyan, -- Miscellaneous highlights
+	base07 = white, -- Miscellaneous highlights
 	base08 = blue, -- Errors, exceptions, delete diffs, alerts
 
 	-- Code & notifications
