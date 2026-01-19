@@ -154,8 +154,8 @@ alias wgl='sudo ls /etc/wireguard | xargs -n 1 basename | sed 's/\.conf$//''
 alias ipinfo='curl -s ipinfo.io | jq' # List IP & location info
 
 # *** systemctl ***
-alias susp='sudo systemctl suspend'          # Suspend the system
-alias fsusp='sudo systemctl suspend --force' # Forcibly suspend the system
+alias susp='systemctl suspend'          # Suspend the system
+alias fsusp='systemctl suspend --force' # Forcibly suspend the system
 
 # *** sudo ***
 alias sudoe='sudo -s -E' # Launch a root shell while preserving user environment variables
