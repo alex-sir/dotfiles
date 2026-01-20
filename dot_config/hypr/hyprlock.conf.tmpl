@@ -123,11 +123,7 @@ label {
   font_family = $FONT
 
   # Positioning
-  {{- if eq .chezmoi.hostname "gored" }}
   position = 0, -34%
-  {{- else if eq .chezmoi.hostname "gorel" }}
-  position = 0, -38%
-  {{- end }}
   halign = center
   valign = top
 }

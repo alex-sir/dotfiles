@@ -1,6 +1,10 @@
 * {
   font-family: Noto Sans;
+  {{- if eq .chezmoi.hostname "gored" }}
   font-size: 16px;
+  {{- else if eq .chezmoi.hostname "gorel" }}
+  font-size: 14px;
+  {{- end }}
 }
 
 window#waybar {
@@ -27,17 +31,39 @@ window#waybar {
   border: 2px solid #ff2450;
   border-radius: 15px;
   font-weight: bold;
+  {{- if eq .chezmoi.hostname "gored" }}
   padding: 2px 14px;
   margin: 8px;
+  {{- else if eq .chezmoi.hostname "gorel" }}
+  padding: 2px 8px;
+  margin: 8px 2px;
+  {{- end }}
 }
+
+{{- if eq .chezmoi.hostname "gorel" }}
+#custom-power {
+  margin: 8px 2px 8px 8px;
+}
+#battery {
+  margin: 8px 8px 8px 2px;
+}
+{{- end }}
 
 #custom-power,
 #power-profiles-daemon.power-saver {
+  {{- if eq .chezmoi.hostname "gored" }}
   padding-right: 5px;
+  {{- else if eq .chezmoi.hostname "gorel" }}
+  padding-right: 1px;
+  {{- end }}
 }
 
 #power-profiles-daemon.balanced {
+  {{- if eq .chezmoi.hostname "gored" }}
   padding-right: 9px;
+  {{- else if eq .chezmoi.hostname "gorel" }}
+  padding-right: 4px;
+  {{- end }}
 }
 
 #custom-power,
