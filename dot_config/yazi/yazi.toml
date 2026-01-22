@@ -8,12 +8,31 @@ max_height = 4500
 [open]
 prepend_rules = [
   # Custom rule for viewing image files
-  { mime = "image/*", use = [ "image" ] },
+  { mime = "image/jpeg", use = [ "image" ] },
+  { mime = "image/png", use = [ "image" ] },
+  { mime = "image/gif", use = [ "image" ] },
+  { mime = "image/webp", use = [ "image" ] },
+  { mime = "image/tiff", use = [ "image" ] },
+  { mime = "image/x-tga", use = [ "image" ] },
+  { mime = "image/vnd-ms.dds", use = [ "image" ] },
+  { mime = "image/x-dds", use = [ "image" ] },
+  { mime = "image/bmp", use = [ "image" ] },
+  { mime = "image/vnd.microsoft.icon", use = [ "image" ] },
+  { mime = "image/vnd.radiance", use = [ "image" ] },
+  { mime = "image/x-exr", use = [ "image" ] },
+  { mime = "image/x-portable-bitmap", use = [ "image" ] },
+  { mime = "image/x-portable-graymap", use = [ "image" ] },
+  { mime = "image/x-portable-pixmap", use = [ "image" ] },
+  { mime = "image/x-portable-anymap", use = [ "image" ] },
+  { mime = "image/x-qoi", use = [ "image" ] },
+  { mime = "image/qoi", use = [ "image" ] },
+  { mime = "image/svg+xml", use = [ "image" ] },
+  { mime = "image/svg+xml-compressed", use = [ "image" ] },
+  { mime = "image/avif", use = [ "image" ] },
+  { mime = "image/heic", use = [ "image" ] },
+  { mime = "image/jxl", use = [ "image" ] },
   # Custom rule for viewing PDF files
-  { mime = "application/pdf", use = [ "pdf-djvu" ] },
-  # Custom rule for viewing DjVu files
-  { mime = "*.djvu", use = [ "pdf-djvu" ] },
-  { mime = "*.djv", use = [ "pdf-djvu" ] }
+  { mime = "application/pdf", use = [ "pdf" ] },
 ]
 
 [opener]
@@ -30,14 +49,14 @@ play = [
 image = [
   { run = 'loupe %s', desc = "Loupe", orphan = true, for = "linux"},
   { run = 'kitten icat --hold --fit both %s && clear', desc = "icat", block = true, for = "linux"},
-  { run = 'exiftool -k %s && clear', desc = "exiftool", block = true, for = "linux"}
+  { run = 'exiftool -k %s && clear', desc = "Show EXIF", block = true, for = "linux"}
 ]
-# PDF/DjVu viewer 1: Zathura
-# PDF/DjVu viewer 2: Firefox
-# PDF/DJVu viewer 3: exiftool
-# Doesn't view the PDF/DjVu file, just prints the metadata
-pdf-djvu = [
-  { run = "zathura %s", desc = "Zathura", for = "linux" },
+# PDF viewer 1: zathura
+# PDF viewer 2: Firefox
+# PDF viewer 3: exiftool
+# Doesn't view the PDF file, just prints the metadata
+pdf = [
+  { run = "zathura %s", desc = "zathura", orphan = true, for = "linux" },
   { run = "firefox %s", desc = "Firefox", for = "linux" },
-  { run = 'exiftool -k %s && clear', desc = "exiftool", block = true, for = "linux"}
+  { run = 'exiftool -k %s && clear', desc = "Show EXIF", block = true, for = "linux"}
 ]
