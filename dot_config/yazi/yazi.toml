@@ -8,7 +8,12 @@ max_height = 4500
 [open]
 prepend_rules = [
   # Custom rule for viewing image files
-  { mime = "image/*", use = [ "loupe", "icat" ] }
+  { mime = "image/*", use = [ "image" ] },
+  # Custom rule for viewing PDF files
+  { mime = "application/pdf", use = [ "pdf-djvu" ] },
+  # Custom rule for viewing DjVu files
+  { mime = "*.djvu", use = [ "pdf-djvu" ] },
+  { mime = "*.djv", use = [ "pdf-djvu" ] }
 ]
 
 [opener]
@@ -18,11 +23,21 @@ play = [
   { run = 'mpv --force-window %s', desc = "mpv", orphan = true, for = "linux" }
 ]
 # Image viewer 1: Loupe
-loupe = [
-  { run = 'loupe %s', desc = "Loupe", orphan = true, for = "linux"}
-]
 # Image viewer 2: icat
 # "clear" ensures the image is not displayed when displaying subsequent images or when exiting Yazi
-icat = [
-  { run = 'kitten icat --hold --fit both %s && clear', desc = "icat", block = true, for = "linux"}
+# Image viewer 3: exiftool
+# Doesn't view the image, just prints the metadata
+image = [
+  { run = 'loupe %s', desc = "Loupe", orphan = true, for = "linux"},
+  { run = 'kitten icat --hold --fit both %s && clear', desc = "icat", block = true, for = "linux"},
+  { run = 'exiftool -k %s && clear', desc = "exiftool", block = true, for = "linux"}
+]
+# PDF/DjVu viewer 1: Zathura
+# PDF/DjVu viewer 2: Firefox
+# PDF/DJVu viewer 3: exiftool
+# Doesn't view the PDF/DjVu file, just prints the metadata
+pdf-djvu = [
+  { run = "zathura %s", desc = "Zathura", for = "linux" },
+  { run = "firefox %s", desc = "Firefox", for = "linux" },
+  { run = 'exiftool -k %s && clear', desc = "exiftool", block = true, for = "linux"}
 ]
