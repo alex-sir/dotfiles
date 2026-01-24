@@ -34,7 +34,7 @@ windowrule {
     float = yes
 }
 
-# Yazi termfilechooser: float + center
+# termfilechooser: Float + center
 windowrule {
   name = float-termfilechooser
   match:class = kitty
@@ -48,4 +48,13 @@ windowrule {
   {{- else if eq .chezmoi.hostname "gorel" }}
   size = 1758 1250
   {{- end }}
+}
+
+# Steam games: Fullscreen and inhibit idling
+windowrule {
+  name = fullscreen-steam-game
+  match:class = steam_app_(.*)
+
+  fullscreen = yes
+  idle_inhibit = always
 }
