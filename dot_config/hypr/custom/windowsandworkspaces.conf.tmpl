@@ -33,3 +33,19 @@ windowrule {
     move = 20 monitor_h-120
     float = yes
 }
+
+# Yazi termfilechooser: float + center
+windowrule {
+  name = float-termfilechooser
+  match:class = kitty
+  match:title = termfilechooser
+
+  float = yes
+  center = yes
+  # Size of the window should be 58.6% of screen width & 62.5% of screen height
+  {{- if eq .chezmoi.hostname "gored" }}
+  size = 1500 900
+  {{- else if eq .chezmoi.hostname "gorel" }}
+  size = 1758 1250
+  {{- end }}
+}
