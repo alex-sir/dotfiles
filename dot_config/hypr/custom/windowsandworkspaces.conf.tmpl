@@ -42,11 +42,10 @@ windowrule {
 
   float = yes
   center = yes
-  # Size of the window should be 58.6% of screen width & 62.5% of screen height
   {{- if eq .chezmoi.hostname "gored" }}
   size = 1500 900
   {{- else if eq .chezmoi.hostname "gorel" }}
-  size = 1758 1250
+  size = 1200 700
   {{- end }}
 }
 
