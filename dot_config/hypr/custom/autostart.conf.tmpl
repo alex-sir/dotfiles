@@ -17,3 +17,6 @@ exec-once = mega-cmd-server # MEGAcmd access to MEGA services
 exec-once = openrgb --server # Start the OpenRGB SDK server on the default port 6742
 {{- end }}
 exec-once = mpd # Music Player Daemon
+# GNOME Keyring
+exec-once = dbus-update-activation-environment --all
+exec-once = gnome-keyring-daemon --start --components=secrets
