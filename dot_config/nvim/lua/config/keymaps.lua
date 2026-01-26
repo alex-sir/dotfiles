@@ -16,3 +16,6 @@ map("n", "<leader>cy", "<cmd>Yazi cwd<cr>", { desc = "Yazi cwd" })
 map("n", "<leader>t", "", { desc = "typr" })
 map("n", "<leader>tt", "<cmd>Typr<cr>", { desc = "Typr" })
 map("n", "<leader>ts", "<cmd>TyprStats<cr>", { desc = "TyprStats" })
+
+-- live-server.nvim (https://github.com/barrettruth/live-server.nvim)
+map("n", "<leader>ci", "<cmd>LiveServerToggle<cr>", { desc = "Toggle Live Server" })
