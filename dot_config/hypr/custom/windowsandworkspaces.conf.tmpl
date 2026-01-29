@@ -57,3 +57,15 @@ windowrule {
   fullscreen = yes
   idle_inhibit = always
 }
+
+# Firefox picture-in-picture (PiP): Floating and pinned
+windowrule {
+  name = firefox-pip
+  match:class = firefox
+  match:title = ^(Picture-in-Picture)$
+
+  float = yes
+  pin = yes
+  size = 550 310
+  move = 2008 1128
+}
