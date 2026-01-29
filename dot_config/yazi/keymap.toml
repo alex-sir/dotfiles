@@ -52,6 +52,11 @@ on = ["g", "s"]
 run = "cd ~/pictures/screenshots"
 desc = "Go screenshots"
 
+[[mgr.prepend_keymap]]
+on = ["g", "o"]
+run = "cd ~/code"
+desc = "Go code"
+
 # *** Plugins ***
 # toggle-pane (https://github.com/yazi-rs/plugins/tree/main/toggle-pane.yazi)
 [[mgr.prepend_keymap]]

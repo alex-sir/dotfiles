@@ -66,6 +66,11 @@ windowrule {
 
   float = yes
   pin = yes
+  {{- if eq .chezmoi.hostname "gored" }}
   size = 550 310
   move = 2008 1128
+  {{- else if eq .chezmoi.hostname "gorel" }}
+  size = 455 258
+  move = 1043 740
+  {{- end }}
 }

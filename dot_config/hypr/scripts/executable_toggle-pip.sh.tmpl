@@ -3,6 +3,11 @@
 # Resizes the window to a small size, moves it to the bottom right, & pins it
 
 hyprctl dispatch togglefloating
+{{- if eq .chezmoi.hostname "gored" }}
 hyprctl dispatch resizeactive exact 550 310
 hyprctl dispatch movewindowpixel exact -552 1128, activewindow
+{{- else if eq .chezmoi.hostname "gorel" }}
+hyprctl dispatch resizeactive exact 455 258
+hyprctl dispatch movewindowpixel exact 1043 740, activewindow
+{{- end }}
 hyprctl dispatch pin
