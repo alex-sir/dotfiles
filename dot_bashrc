@@ -168,6 +168,10 @@ alias ppc='powerprofilesctl' # Command line utility to control Power Profiles Da
 # To convert all files of a certain type in a directory, do something like "topdf *.pptx"
 alias topdf='libreoffice --headless --convert-to pdf'
 
+# *** 7z ***
+# Add a file or directory to a zip archive (7z-zip <archive name> <file or directory>)
+alias 7z-zip='7z a -tzip'
+
 PS1='[\u@\h \W]\$ '
 
 # Environment variables
