@@ -428,8 +428,16 @@
   timeout = 3
   format = "<b>%s</b>: %b"
 
+# Notification for when display brightness is changed
 [brightness]
   stack_tag = change_brightness
+  history_ignore = yes
+  timeout = 3
+  format = "<b>%s</b>: %b"
+
+# Notification for when microphone mute status is changed
+[micmute]
+  stack_tag = change_mic_mute
   history_ignore = yes
   timeout = 3
   format = "<b>%s</b>: %b"
