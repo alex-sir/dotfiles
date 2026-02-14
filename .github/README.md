@@ -155,6 +155,8 @@ These are the programs which have dotfiles being tracked in this repo
 - [Hyprland](https://github.com/hyprwm/Hyprland)
 - [kitty](https://github.com/kovidgoyal/kitty)
 - [MPD](https://github.com/MusicPlayerDaemon/MPD)
+- [mpv](https://github.com/mpv-player/mpv): Uses
+  [uosc](https://github.com/tomasklaen/uosc) & [thumbfast](https://github.com/po5/thumbfast)
 - [Neovim](https://github.com/neovim/neovim)
 - [rmpc](https://github.com/mierak/rmpc)
 - [Starship](https://github.com/starship/starship)
