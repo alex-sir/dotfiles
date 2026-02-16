@@ -1,5 +1,5 @@
 #!/bin/bash
-# Change the microphone mute status & send a dunst notification indicating the change
+# Toggle the microphone mute status & send a dunst notification indicating the change
 # Dependencies:
 # - WirePlumber: https://pipewire.pages.freedesktop.org/wireplumber
 # - ripgrep: https://github.com/BurntSushi/ripgrep
@@ -16,10 +16,10 @@ if [[ "$MUTE_STATUS" == "MUTED" ]]; then
   dunstify -r 1 \
     -i "/usr/share/icons/Papirus/16x16/panel/discord-tray-muted.svg" \
     "Microphone" "Muted" \
-    -h string:x-dunst-stack-tag:change_mic_mute
+    -h string:x-dunst-stack-tag:toggle_mic_mute
 elif [[ "$MUTE_STATUS" == "UNMUTED" ]]; then
   dunstify -r 1 \
     -i "/usr/share/icons/Papirus-Dark/16x16/devices/audio-input-microphone.svg" \
     "Microphone" "Unmuted" \
-    -h string:x-dunst-stack-tag:change_mic_mute
+    -h string:x-dunst-stack-tag:toggle_mic_mute
 fi

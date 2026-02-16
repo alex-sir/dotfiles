@@ -441,9 +441,16 @@
   timeout = 3
   format = "<b>%s</b>: %b"
 
-# Notification for when microphone mute status is changed
+# Notification for when microphone mute status is toggled
 [micmute]
-  stack_tag = change_mic_mute
+  stack_tag = toggle_mic_mute
+  history_ignore = yes
+  timeout = 3
+  format = "<b>%s</b>: %b"
+
+# Notification for when currently active window mute status is toggled
+[windowmute]
+  stack_tag = toggle_window_mute
   history_ignore = yes
   timeout = 3
   format = "<b>%s</b>: %b"
