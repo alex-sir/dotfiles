@@ -448,9 +448,9 @@
   timeout = 3
   format = "<b>%s</b>: %b"
 
-# Notification for when currently active window mute status is toggled
+# Notification for when active window mute status is changed
 [windowmute]
-  stack_tag = toggle_window_mute
+  stack_tag = change_window_mute
   history_ignore = yes
   timeout = 3
   format = "<b>%s</b>: %b"
