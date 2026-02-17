@@ -268,20 +268,20 @@ b32() {
 
 # *** ufw ***
 
-# Allow port 8081 from a specific IP address. Useful for development servers (e.g., Expo Metro Bundler).
+# Allow port 8081 from all IP addresses. Useful for development servers (e.g., Expo Metro Bundler).
 # NOTE: If the client device (not host) is connected to a VPN, disable it.
 #       If using for development servers, make sure the client and host are connected to the same network.
-# Usage: ufw8081e [ip-address]
+# Usage: ufw8081e
 ufw8081e() {
-  sudo ufw allow from "$1" to any port 8081
+  sudo ufw allow 8081
 }
 
-# Delete rule allowing port 8081 from a specific IP address
+# Delete rule allowing port 8081 from all IP addresses
 # List all rules with numbers: sudo ufw status numbered
 # Delete a specific rule: sudo ufw delete [number]
-# Usage: ufw8081d [ip-address]
+# Usage: ufw8081d
 ufw8081d() {
-  sudo ufw delete allow from "$1" to any port 8081
+  sudo ufw delete allow 8081
 }
 
 # *** kitty ***
