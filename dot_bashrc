@@ -49,6 +49,7 @@ alias gst='git status'                   # Show the working tree status
 alias ga='git add .'                     # Add all changes to the commit
 alias gr='git remote'                    # List remote repositories
 alias gb='git branch'                    # List branches
+alias gch='git checkout'                 # Checkout a branch
 alias gsw='git switch'                   # Change branches
 alias grts='git restore --staged .'      # Unstage all staged files
 alias gm='git commit -m'                 # Add a commit with a message
