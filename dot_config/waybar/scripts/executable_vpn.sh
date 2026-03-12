@@ -10,7 +10,7 @@
 if nmcli c show --active | rg -q wireguard; then
   NAME=$(nmcli c show --active | rg wireguard | awk '{print $1}') # Name of the VPN
   IPV4=$(ip -br -4 addr show "$NAME" | awk '{print $3}')          # IPv4 address of the VPN
-  echo '{"text": "   '"$NAME"'", "tooltip": "'"$IPV4"'"}'
+  printf '{"text": "   %s", "tooltip": "%s (%s)"}\n' "$NAME" "$NAME" "$IPV4"
 else
   echo '{"text": "   VPN"}'
 fi
