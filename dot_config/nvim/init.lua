@@ -1,6 +1,7 @@
 -- bootstrap lazy.nvim, LazyVim and your plugins
 require("config.lazy")
-require("live-server").setup()
+require("filetypes")
+vim.g.live_server = {}
 vim.cmd("colorscheme radiantgore") -- load the 'radiantgore' theme (colors/radiantgore.lua)
 -- Customize the window separator
 vim.api.nvim_set_hl(0, "WinSeparator", {
