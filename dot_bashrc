@@ -140,6 +140,8 @@ alias f='fzf'
 
 # *** Python ***
 alias py='python'
+alias pyve='source .venv/bin/activate' # Activate a Python virtual environment
+alias pyvd='deactivate'                # Deactivate a Python virtual environment
 
 # *** Distrobox ***
 alias db='distrobox'
@@ -181,6 +183,8 @@ export EDITOR="nvim"
 # Override the default diff program to Neovim with diff mode enabled
 export DIFFPROG="nvim -d"
 export FZF_DEFAULT_OPTS_FILE="$HOME/.config/fzf/config"
+export ANDROID_HOME="$HOME/Android/Sdk"
+export JAVA_HOME="/usr/lib/jvm/default"
 
 # Yazi shell wrapper to change the cwd when exiting yazi (use y instead of yazi to start)
 function y() {
