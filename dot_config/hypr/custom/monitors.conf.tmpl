@@ -10,4 +10,9 @@ monitor = DP-3, 2560x1440@144, -2560x0, 1 # Second monitor to the left of the fi
 monitor = eDP-1, 3000x2000@60, 0x0, 2
 {{- end }}
 
+{{- if eq .chezmoi.hostname "gored" }}
 monitor = , preferred, auto, 1 # Place any monitor w/o an explicit rule to the right
+{{- else if eq .chezmoi.hostname "gorel" }}
+# Mirror any monitor w/o an explicit rule to eDP-1
+monitor = , preferred, auto, 1, mirror, eDP-1
+{{- end }}
