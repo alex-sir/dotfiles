@@ -61,7 +61,7 @@ input-field {
   placeholder_text = <i>Password</i> # Text rendered in the input box when it's empty
   hide_input = false # Do not show password length
   rounding = 15 # -1 = complete rounding (circle/oval)
-  fail_text = $PAMFAIL
+  fail_text = <i>$FAIL <b>($ATTEMPTS)</b></i> # Text rendered when authentication fails
 
   # Dots displayed when typing in the password
   dots_size = 0.25 # Size of the dots [0.2, 0.8]
