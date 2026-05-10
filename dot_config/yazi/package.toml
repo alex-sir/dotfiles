@@ -1,17 +1,17 @@
 [[plugin.deps]]
-use = "yazi-rs/plugins:full-border"
-rev = "63f9650"
-hash = "3996fc74044bc44144b323686f887e1"
-
-[[plugin.deps]]
 use = "yazi-rs/plugins:toggle-pane"
-rev = "63f9650"
-hash = "d5d4f3527592da5fbe77fd6f51815f80"
+rev = "1db18bb"
+hash = "9c7987da2d2a2120dac33abb64132004"
 
 [[plugin.deps]]
 use = "yazi-rs/plugins:zoom"
-rev = "398796d"
-hash = "a638db397a5a41d3f3a08a7427ccead1"
+rev = "1db18bb"
+hash = "fa268cb59989a87780605fdcfb8d99a9"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:full-border"
+rev = "1db18bb"
+hash = "eff8ff12fa4e5f035a10d8aeeb4c258d"
 
 [flavor]
 deps = []
