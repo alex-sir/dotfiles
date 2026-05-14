@@ -39,8 +39,8 @@ desc = "Go /"
 
 [[mgr.prepend_keymap]]
 on = ["g", "w"]
-run = "cd ~/college/WSU/'2026 Spring Semester'"
-desc = "Go WSU"
+run = "cd ~/college"
+desc = "Go college"
 
 [[mgr.prepend_keymap]]
 on = ["g", "p"]

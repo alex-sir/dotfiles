@@ -175,6 +175,12 @@ alias topdf='libreoffice --headless --convert-to pdf'
 # Add a file or directory to a zip archive (7z-zip <archive name> <file or directory>)
 alias 7z-zip='7z a -tzip'
 
+# *** Hyprland ***
+# Reboot gracefully
+alias hyprrb="hyprshutdown -t 'Restarting...' --post-cmd 'reboot'"
+# Shutdown gracefully
+alias hyprsd="hyprshutdown -t 'Shutting down...' --post-cmd 'shutdown -P 0'"
+
 PS1='[\u@\h \W]\$ '
 
 # Environment variables
@@ -185,6 +191,10 @@ export DIFFPROG="nvim -d"
 export FZF_DEFAULT_OPTS_FILE="$HOME/.config/fzf/config"
 export ANDROID_HOME="$HOME/Android/Sdk"
 export JAVA_HOME="/usr/lib/jvm/default"
+# lesspipe: https://lesspipe.org
+LESSOPEN="|lesspipe.sh %s"
+export LESSOPEN
+export LESS="-R" # Switch on colored less output
 
 # Yazi shell wrapper to change the cwd when exiting yazi (use y instead of yazi to start)
 function y() {
