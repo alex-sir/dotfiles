@@ -1,0 +1,82 @@
+-- *********************************************************************
+-- ********************** WINDOWS AND WORKSPACES ***********************
+-- *********************************************************************
+-- https://wiki.hypr.land/Configuring/Basics/Window-Rules
+-- https://wiki.hypr.land/Configuring/Basics/Workspace-Rules
+
+-- Ignore maximize requests from all apps
+hl.window_rule({
+  name = "suppress-maximize-events",
+  match = {
+    class = ".*"
+  },
+  suppress_event = "maximize",
+})
+
+-- Fix some dragging issues with XWayland
+hl.window_rule({
+  name = "fix-xwayland-drags",
+  match = {
+    class = "^$",
+    title = "^$",
+    xwayland = true,
+    float = true,
+    fullscreen = false,
+    pin = false,
+  },
+  no_focus = true,
+})
+
+-- Hyprland-run windowrule
+hl.window_rule({
+  name = "move-hyprland-run",
+  match = {
+    class = "hyprland-run"
+  },
+  move = "20 monitor_h-120",
+  float = true,
+})
+
+-- termfilechooser: Float + center
+hl.window_rule({
+  name = "float-termfilechooser",
+  match = {
+    class = "kitty",
+    title = "termfilechooser"
+  },
+  float = true,
+  center = true,
+  {{- if eq .chezmoi.hostname "gored" }}
+  size = "1500 900",
+  {{- else if eq .chezmoi.hostname "gorel" }}
+  size = "1200 700",
+  {{- end }}
+})
+
+-- Steam games: Fullscreen and inhibit idling
+hl.window_rule({
+  name = "fullscreen-steam-game",
+  match = {
+    class = "steam_app_(.*)"
+  },
+  fullscreen = true,
+  idle_inhibit = "always",
+})
+
+-- Firefox picture-in-picture (PiP): Floating and pinned
+hl.window_rule({
+  name = "firefox-pip",
+  match = {
+    class = "firefox",
+    title = "^(Picture-in-Picture)$"
+  },
+  float = true,
+  pin = true,
+  {{- if eq .chezmoi.hostname "gored" }}
+  size = "550 310",
+  move = "2008 1128",
+  {{- else if eq .chezmoi.hostname "gorel" }}
+  size = "455 258",
+  move = "1043 740",
+  {{- end }}
+})

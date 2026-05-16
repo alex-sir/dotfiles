@@ -1,0 +1,50 @@
+-- *********************************************************************
+-- ******************************* INPUT *******************************
+-- *********************************************************************
+-- https://wiki.hypr.land/Configuring/Basics/Variables/#input
+
+hl.config({
+  input = {
+    -- Keyboard
+    kb_layout = "us",
+
+    -- Mouse
+    -- sensitivity: Range is [-1.0, 1.0], 0 means no modification.
+    {{- if eq .chezmoi.hostname "gored" }}
+    sensitivity = 0,
+    {{- else if eq .chezmoi.hostname "gorel" }}
+    sensitivity = 0.4,
+    {{- end }}
+    accel_profile = "flat",
+    follow_mouse = 1,
+
+    -- Laptop
+    scroll_method = "2fg",
+    touchpad = {
+      natural_scroll = true,
+      scroll_factor = 0.5,
+    },
+  }
+
+})
+
+-- https://wiki.hypr.land/Configuring/Advanced-and-Cool/Gestures
+-- Swipe horizontally 3 fingers: Switch workspaces
+hl.gesture({
+  fingers = 3,
+  direction = "horizontal",
+  action = "workspace",
+})
+-- Swipe up 3 fingers: Open app launcher
+hl.gesture({
+  fingers = 3,
+  direction = "up",
+  action = function() hl.exec_cmd(Menu) end
+})
+-- Swipe down 3 fingers: Fullscreen active window
+hl.gesture({
+  fingers = 3,
+  direction = "down",
+  action = "fullscreen",
+  mode = "maximize",
+})

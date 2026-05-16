@@ -1,0 +1,22 @@
+-- *********************************************************************
+-- *********************** ENVIRONMENT VARIABLES ***********************
+-- *********************************************************************
+-- https://wiki.hypr.land/Configuring/Advanced-and-Cool/Environment-variables
+
+-- Cursor
+hl.env("XCURSOR_SIZE", "24")
+hl.env("HYPRCURSOR_SIZE", "24")
+-- Support for NVIDIA GPUs
+hl.env("LIBVA_DRIVER_NAME", "nvidia") -- Hardware acceleration
+hl.env("__GLX_VENDOR_LIBRARY_NAME", "nvidia") -- Force GBM as backend
+-- slurp: Display dimensions of selection (-d), background color (-b),
+--        border + dimensions text color (-c), color for the highlight
+--        of predefined rectangles (-B), and border weight (-w)
+hl.env("SLURP_ARGS", "-d -b 0a0a0866 -c ff2450 -B cacace4d -w 0")
+-- Make all Qt apps respect qt6ct settings
+-- To configure the theme, run "qt6ct" from within a Hyprland session
+hl.env("QT_QPA_PLATFORMTHEME", "qt6ct")
+{{- if eq .chezmoi.hostname "gorel" }}
+-- Qt scaling
+hl.env("QT_SCALE_FACTOR", "1.2")
+{{- end }}

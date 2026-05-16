@@ -1,0 +1,47 @@
+-- *********************************************************************
+-- ****************************** MONITORS *****************************
+-- *********************************************************************
+-- https://wiki.hypr.land/Configuring/Monitors
+
+{{- if eq .chezmoi.hostname "gored" }}
+-- First monitor in the middle
+hl.monitor({
+  output = "DP-2",
+  mode = "2560x1440@144",
+  position = "0x0",
+  scale = "1",
+})
+-- Second monitor to the left of the first
+hl.monitor({
+  output = "DP-3",
+  mode = "2560x1440@144",
+  position = "-2560x0",
+  scale = "1",
+})
+{{- else if eq .chezmoi.hostname "gorel" }}
+hl.monitor({
+  output = "eDP-1",
+  mode = "3000x2000@60",
+  position = "0x0",
+  scale = "2",
+})
+{{- end }}
+
+{{- if eq .chezmoi.hostname "gored" }}
+-- Place any monitor w/o an explicit rule to the right
+hl.monitor({
+  output = "",
+  mode = "preferred",
+  position = "auto",
+  scale = "1",
+})
+{{- else if eq .chezmoi.hostname "gorel" }}
+-- Mirror any monitor w/o an explicit rule to eDP-1
+hl.monitor({
+  output = "",
+  mode = "preferred",
+  position = "auto",
+  scale = "1",
+  mirror = "eDP-1"
+})
+{{- end }}

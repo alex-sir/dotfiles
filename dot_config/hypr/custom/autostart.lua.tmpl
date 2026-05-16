@@ -1,0 +1,24 @@
+-- *********************************************************************
+-- ***************************** AUTOSTART *****************************
+-- *********************************************************************
+
+-- Autostart necessary processes & favorite apps at launch
+hl.on("hyprland.start", function ()
+  hl.exec_cmd(Terminal)
+  hl.exec_cmd(Browser)
+  hl.exec_cmd("systemctl --user start hyprpolkitagent") -- Enable polit authentication
+  hl.exec_cmd("dunst") -- Notification daemon
+  hl.exec_cmd("hyprpaper") -- Wallpaper utility
+  hl.exec_cmd("hyprlauncher -d") -- Launcher/picker. Spawn daemon without opening a window.
+  hl.exec_cmd("hypridle") -- Idle management daemon
+  hl.exec_cmd("hyprsunset") -- Blue light filter
+  hl.exec_cmd("waybar") -- Status bar
+  hl.exec_cmd("mega-cmd-server") -- MEGAcmd access to MEGA services
+{{- if eq .chezmoi.hostname "gored" }}
+  hl.exec_cmd("openrgb --server") -- Start the OpenRGB SDK server on the default port 6742
+{{- end }}
+  hl.exec_cmd("mpd") -- Music Player Daemon
+  -- GNOME Keyring
+  hl.exec_cmd("dbus-update-activation-environment --all")
+  hl.exec_cmd("gnome-keyring-daemon --start --components=secrets")
+end)
