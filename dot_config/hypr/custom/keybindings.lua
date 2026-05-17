@@ -27,8 +27,8 @@ hl.bind(MainMod .. " + V", hl.dsp.window.float({ action = "toggle" })) -- Toggle
 hl.bind(MainMod .. " + P", hl.dsp.window.pseudo({ action = "toggle" })) -- dwindle; Toggle pseudo mode of the current window
 hl.bind(MainMod .. " + T", hl.dsp.layout("togglesplit")) -- dwindle: Toggle split (top/side) of the current window
 -- Set the focused window to fullscreen mode
-hl.bind(MainMod .. " + F", hl.dsp.window.fullscreen({ mode = "fullscreen", action = "toggle" })) -- KEEP GAPS & BARS
-hl.bind(MainMod .. " + CTRL + F", hl.dsp.window.fullscreen({ mode = "maximized", action = "toggle" })) -- TAKE ENTIRE SCREEN
+hl.bind(MainMod .. " + F", hl.dsp.window.fullscreen({ mode = "maximized", action = "toggle" })) -- KEEP GAPS & BARS
+hl.bind(MainMod .. " + CTRL + F", hl.dsp.window.fullscreen({ mode = "fullscreen", action = "toggle" })) -- TAKE ENTIRE SCREEN
 hl.bind(MainMod .. " + P", hl.dsp.window.pin()) -- FLOATING ONLY: Pin a window (show on all workspaces)
 -- If a window is swallowed by the focused window, unswallow it. Execute again to swallow it back.
 hl.bind(MainMod .. " + S", hl.dsp.window.toggle_swallow())
@@ -79,8 +79,8 @@ hl.bind(MainMod .. " + CTRL + S", hl.dsp.workspace.toggle_special("scratch"))
 hl.bind(MainMod .. " + SHIFT + S", hl.dsp.window.move({ workspace = "special:scratch" }))
 
 -- Scroll through existing workspaces with mainMod + scroll
-hl.bind(MainMod .. " + mouse_down", hl.dsp.focus({ workspace = "e+1" }))
-hl.bind(MainMod .. " + mouse_up", hl.dsp.focus({ workspace = "e-1" }))
+hl.bind(MainMod .. " + mouse_down", hl.dsp.focus({ workspace = "e-1" }))
+hl.bind(MainMod .. " + mouse_up", hl.dsp.focus({ workspace = "e+1" }))
 
 -- Move/resize windows with mainMod + LMB/RMB and dragging: https://wiki.hypr.land/Configuring/Basics/Binds/#mouse-binds
 hl.bind(MainMod .. " + mouse:272", hl.dsp.window.drag(), { mouse = true })
@@ -169,7 +169,7 @@ hl.bind(MainMod .. " + CTRL + 6", hl.dsp.layout("splitratio 1.5 exact"))
 hl.bind(MainMod .. " + CTRL + 7", hl.dsp.layout("splitratio 1.6 exact"))
 
 -- Groups
--- NOTE: Use "hyprctl dispatch --instance 0 'hl.dsp.submap("reset")'" to reset a submap if you get stuck
+-- NOTE: Use "hyprctl dispatch --instance 0 "hl.dsp.submap('reset')"" to reset a submap if you get stuck
 hl.bind(MainMod .. " + G", hl.dsp.submap("group")) -- Switch to a submap called "group"
 -- Start a submap called "group"
 hl.define_submap("group", function()
@@ -188,9 +188,8 @@ hl.define_submap("group", function()
 	hl.bind(MainMod .. " + j", hl.dsp.window.move({ into_group = "down" }))
 	-- Reset the submap "group"
 	hl.bind("escape", hl.dsp.submap("reset"))
-	hl.bind(MainMod .. " + G", hl.dsp.submap("reset"))
+	hl.bind("CTRL + bracketleft", hl.dsp.submap("reset"))
 end)
-hl.dsp.submap("reset")
 -- Switch to the next window in a group
 hl.bind(MainMod .. " + u", hl.dsp.group.prev())
 hl.bind(MainMod .. " + o", hl.dsp.group.next())
@@ -200,13 +199,13 @@ hl.bind(MainMod .. " + SHIFT + o", hl.dsp.group.move_window({ forward = true }))
 
 -- Switch between dwindle, master, scrolling, & monocole layouts
 -- https://wiki.hypr.land/Configuring/Layouts/Dwindle-Layout
-hl.bind(MainMod .. " + D", hl.dsp.exec_cmd("hyprctl keyword general:layout dwindle"))
+hl.bind(MainMod .. " + D", hl.dsp.exec_cmd("hyprctl eval \"hl.config({ general = { layout = 'dwindle' } })\""))
 -- https://wiki.hypr.land/Configuring/Layouts/Master-Layout
-hl.bind(MainMod .. " + SHIFT + D", hl.dsp.exec_cmd("hyprctl keyword general:layout master"))
+hl.bind(MainMod .. " + SHIFT + D", hl.dsp.exec_cmd("hyprctl eval \"hl.config({ general = { layout = 'master' } })\""))
 -- https://wiki.hypr.land/Configuring/Layouts/Scrolling-Layout
-hl.bind(MainMod .. " + Z", hl.dsp.exec_cmd("hyprctl keyword general:layout scrolling"))
+hl.bind(MainMod .. " + Z", hl.dsp.exec_cmd("hyprctl eval \"hl.config({ general = { layout = 'scrolling' } })\""))
 -- https://wiki.hypr.land/Configuring/Layouts/Monocle-Layout
-hl.bind(MainMod .. " + X", hl.dsp.exec_cmd("hyprctl keyword general:layout monocle"))
+hl.bind(MainMod .. " + X", hl.dsp.exec_cmd("hyprctl eval \"hl.config({ general = { layout = 'monocle' } })\""))
 
 -- SCROLLING LAYOUT ONLY
 hl.bind(MainMod .. " + comma", hl.dsp.layout("move -col")) -- Move the layout horizontally to the previous column
@@ -217,15 +216,14 @@ hl.bind(MainMod .. " + SHIFT + period", hl.dsp.layout("swapcol r")) -- Swap the 
 -- MONOCLE LAYOUT SUBMAP
 hl.bind(MainMod .. " + SHIFT + X", hl.dsp.submap("monocle")) -- Switch to a submap called "monocle"
 -- Start a submap called "monocle"
-hl.define_submap("group", function()
+hl.define_submap("monocle", function()
 	-- Binds for the "monocle" submap
 	hl.bind("u", hl.dsp.layout("cycleprev")) -- Cycle to the previous window
 	hl.bind("o", hl.dsp.layout("cyclenext")) -- Cycle to the next window
 	-- Reset the submap "monocle"
 	hl.bind("escape", hl.dsp.submap("reset"))
-	hl.bind(MainMod .. " + SHIFT + X", hl.dsp.submap("reset"))
+	hl.bind("CTRL + bracketleft", hl.dsp.submap("reset"))
 end)
-hl.dsp.submap("reset")
 
 -- Multimedia keys for volume and LCD brightness: https://wiki.hypr.land/Configuring/Basics/Binds/#media
 hl.bind(
@@ -293,6 +291,16 @@ hl.bind(
 )
 
 -- Restore laptop to native 3:2 (3000x2000) for standalone use
-hl.bind(MainMod .. " + SHIFT + F9", hl.dsp.exec_cmd("hyprctl keyword monitor eDP-1,3000x2000@60,0x0,2"))
+hl.bind(
+	MainMod .. " + SHIFT + F9",
+	hl.dsp.exec_cmd(
+		'hyprctl eval \'hl.monitor({ output = "eDP-1", mode = "3000x2000@60", position = "0x0", scale = 2, })\''
+	)
+)
 -- Switch laptop to 16:9 (1080p) for external mirroring
-hl.bind(MainMod .. " + SHIFT + F10", hl.dsp.exec_cmd("hyprctl keyword monitor eDP-1,1920x1080@60,0x0,1"))
+hl.bind(
+	MainMod .. " + SHIFT + F10",
+	hl.dsp.exec_cmd(
+		'hyprctl eval \'hl.monitor({ output = "eDP-1", mode = "1920x1080@60", position = "0x0", scale = 1, })\''
+	)
+)

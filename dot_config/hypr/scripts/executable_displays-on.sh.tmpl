@@ -4,7 +4,7 @@
 
 CURRENT_TIME=$(date +%H)
 
-hyprctl dispatch dpms on
+hyprctl dispatch "hl.dsp.dpms({ action = 'on' })"
 
 # Reapply hyprsunset, as a current BUG resets the blue light filter when hypridle activates
 if [[ ${CURRENT_TIME#0} -ge 23 || ${CURRENT_TIME#0} -le 9 ]]; then
@@ -19,6 +19,6 @@ fi
 # The issue occurs when the monitor is turned back on after being turned off while the system is on. Happens after "dpms off" turns off the screens on lock screen or suspend.
 # Really stupid NVIDIA bug that is never fixed
 sleep 2
-hyprctl keyword monitor "DP-3, 2560x1440@60, -2560x0, 1"
-hyprctl keyword monitor "DP-3, 2560x1440@144, -2560x0, 1"
+hyprctl eval "hl.monitor({ output = 'DP-3', mode = '2560x1440@60', position = '-2560x0', scale = 1, })"
+hyprctl eval "hl.monitor({ output = 'DP-3', mode = '2560x1440@144', position = '-2560x0', scale = 1, })"
 {{- end }}

@@ -322,7 +322,7 @@ mpvo() {
 # Usage: hyprrst [process]
 hyprrst() {
   pkill "$1"
-  hyprctl dispatch exec "$1"
+  hyprctl dispatch "hl.dsp.exec_cmd(\"$1\")"
 }
 
 # Enable fzf shell integration (KEEP AT THE END OF THIS CONFIG FILE)

@@ -1,17 +1,16 @@
 -- *********************************************************************
 -- *************************** LOOK AND FEEL ***************************
 -- *********************************************************************
--- https://wiki.hypr.land/Configuring/Variables
 
 hl.config({
-	-- https://wiki.hypr.land/Configuring/Variables/#general
+	-- https://wiki.hypr.land/Configuring/Basics/Variables
 	general = {
 		border_size = 2, -- Size of the border around windows
 
 		gaps_in = 7, -- Gaps between windows
-		gaps_out = { 1, GAPS_OUT, GAPS_OUT, GAPS_OUT }, -- Gaps between windows & monitor edges
+		gaps_out = { top = 1, left = GAPS_OUT, right = GAPS_OUT, bottom = GAPS_OUT }, -- Gaps between windows & monitor edges
 
-		-- Info about colors: https://wiki.hypr.land/Configuring/Variables/#variable-types
+		-- Info about colors: https://wiki.hypr.land/Configuring/Basics/Variables/#variable-types
 		col = {
 			inactive_border = GRAY, -- Border color for inactive windows
 			active_border = DARK_RED, -- Border color for active window
@@ -21,11 +20,11 @@ hl.config({
 
 		resize_on_border = false, -- Enables resizing windows by clicking & dragging borders & gaps
 
-		-- https://wiki.hypr.land/Configuring/Tearing
+		-- https://wiki.hypr.land/Configuring/Advanced-and-Cool/Tearing
 		allow_tearing = false, -- Allow for tearing. Reduces input lag but potentially introduces split images.
 	},
 
-	-- https://wiki.hypr.land/Configuring/Variables/#decoration
+	-- https://wiki.hypr.land/Configuring/Basics/Variables/#decoration
 	decoration = {
 		rounding = 15, -- Rounded corners' radius
 		rounding_power = 2.0, -- Curve used for rounding corners, larger is smoother
@@ -34,7 +33,7 @@ hl.config({
 		active_opacity = 1.0,
 		inactive_opacity = 1.0,
 
-		-- https://wiki.hypr.land/Configuring/Variables/#blur
+		-- https://wiki.hypr.land/Configuring/Basics/Variables/#blur
 		blur = {
 			enabled = true, -- Enable kawase window background blur
 
@@ -51,7 +50,7 @@ hl.config({
 			vibrancy = 0.1696, -- Saturation of blurred colors
 		},
 
-		-- https://wiki.hypr.land/Configuring/Variables/#shadow
+		-- https://wiki.hypr.land/Configuring/Basics/Variables/#shadow
 		shadow = {
 			enabled = true, -- Enable drop shadows on windows
 			range = 5,
@@ -60,7 +59,7 @@ hl.config({
 		},
 	},
 
-	-- https://wiki.hypr.land/Configuring/Variables/#group
+	-- https://wiki.hypr.land/Configuring/Basics/Variables/#group
 	group = {
 		col = {
 			border_active = DARK_ORANGE, -- Active group border color
@@ -93,12 +92,12 @@ hl.config({
 		enabled = true,
 	},
 
-	-- https://wiki.hypr.land/Configuring/Dwindle-Layout
+	-- https://wiki.hypr.land/Configuring/Layouts/Dwindle-Layout
 	dwindle = {
 		preserve_split = true, -- Split (side/top) will not change
 	},
 
-	-- https://wiki.hypr.land/Configuring/Master-Layout
+	-- https://wiki.hypr.land/Configuring/Layouts/Master-Layout
 	master = {
 		-- master: new window becomes master
 		-- slave: new windows are added to slave stack
@@ -106,13 +105,13 @@ hl.config({
 		new_status = "slave",
 	},
 
-	-- https://wiki.hypr.land/Configuring/Scrolling-Layout
+	-- https://wiki.hypr.land/Configuring/Layouts/Scrolling-Layout
 	scrolling = {
 		fullscreen_on_one_column = true, -- Single column on a workspace will span the entire screen
 		column_width = 0.5, -- Default width of a column
 	},
 
-	-- https://wiki.hypr.land/Configuring/Variables/#misc
+	-- https://wiki.hypr.land/Configuring/Basics/Variables/#misc
 	misc = {
 		font_family = FONT, -- Global default font to render text, including config error messages
 		disable_hyprland_logo = false, -- Disable the random Hyprland logo/anime girl background
@@ -122,8 +121,7 @@ hl.config({
 	},
 })
 
--- Animations: https://wiki.hypr.land/Configuring/Variables/#animations
--- Curves: https://wiki.hypr.land/Configuring/Animations/#curves
+-- Curves: https://wiki.hypr.land/Configuring/Advanced-and-Cool/Animations/#curves
 -- Easing functions: https://easings.net
 hl.curve("easeOutQuint", { type = "bezier", points = { { 0.23, 1 }, { 0.32, 1 } } })
 hl.curve("easeInOutCubic", { type = "bezier", points = { { 0.65, 0.05 }, { 0.36, 1 } } })
@@ -133,7 +131,7 @@ hl.curve("linear", { type = "bezier", points = { { 0, 0 }, { 1, 1 } } })
 hl.curve("almostLinear", { type = "bezier", points = { { 0.5, 0.5 }, { 0.75, 1 } } })
 hl.curve("quick", { type = "bezier", points = { { 0.15, 0 }, { 0.1, 1 } } })
 
--- Animations: https://wiki.hypr.land/Configuring/Animations
+-- Animations: https://wiki.hypr.land/Configuring/Advanced-and-Cool/Animations
 hl.animation({ leaf = "global", enabled = true, speed = 10, bezier = "default" })
 -- Windows
 hl.animation({ leaf = "windows", enabled = true, speed = 3.25, bezier = "easeInOutQuart" })
@@ -190,11 +188,11 @@ hl.animation({
 -- Screen zoom
 hl.animation({ leaf = "zoomFactor", enabled = true, speed = 7, bezier = "quick" })
 
--- https://wiki.hypr.land/Configuring/Workspace-Rules
+-- wiki.hypr.land/Configuring/Basics/Workspace-Rules
 -- w[tv1]: Reduce gaps when there is a single (1) tiled (t) & visible (v) window
-hl.workspace_rule({ workspace = "w[tv1]", gaps_in = 0, gaps_out = 1 }) -- Window (w) counts on the workspace
+hl.workspace_rule({ workspace = "w[tv1]", gaps_in = 0, gaps_out = 0 }) -- Window (w) counts on the workspace
 -- f[1]: Reduce gaps when there is a maximized window
-hl.workspace_rule({ workspace = "f[1]", gaps_in = 0, gaps_out = 1 }) -- Fullscreen (f) state of the workspace
+hl.workspace_rule({ workspace = "f[1]", gaps_in = 0, gaps_out = 0 }) -- Fullscreen (f) state of the workspace
 -- Completely remove the border highlight and rounded corners for w[tv1]
 hl.window_rule({
 	name = "no-gaps-wtv1",

@@ -3,7 +3,7 @@
 -- *********************************************************************
 
 -- Autostart necessary processes & favorite apps at launch
-hl.on("hyprland.start", function ()
+hl.on("hyprland.start", function()
   hl.exec_cmd(Terminal)
   hl.exec_cmd(Browser)
   hl.exec_cmd("systemctl --user start hyprpolkitagent") -- Enable polit authentication
