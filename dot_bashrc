@@ -184,7 +184,7 @@ alias hyprsd="hyprshutdown -t 'Shutting down...' --post-cmd 'shutdown -P 0'"
 PS1='[\u@\h \W]\$ '
 
 # Environment variables
-export PATH="${PATH}:$HOME/scripts"
+export PATH="${PATH}:$HOME/scripts:$HOME/.local/bin"
 export EDITOR="nvim"
 # Override the default diff program to Neovim with diff mode enabled
 export DIFFPROG="nvim -d"
