@@ -21,11 +21,6 @@ alias tart='tar -tzf'                 # List the contents of a .tar.gz or .tgz f
 alias cl='clear'                      # Clear the terminal
 alias PATH='echo $PATH | tr ":" "\n"' # Display $PATH as one directory per line
 
-# *** SSH Logins ***
-alias elec='ssh alexander.carbajal@elec.tricity.wsu.edu'
-alias pleiades='ssh alexander.carbajal@pleiades.tricity.wsu.edu'
-alias vcluster='ssh alexander.carbajal@vcluster.tricities.wsu.edu'
-
 # *** eza: All of the aliases display icons automatically, list directories before other files, and display entries
 # as hyperlinks, making them clickable.
 # Long views show the Git status for files and directories and a custom time style (mm-dd-yy hh:mm) (24-hour clock). ***
@@ -120,16 +115,6 @@ alias tre='trash-empty'   # Empty the trashcan(s)
 alias trl='trash-list'    # List trashed files
 alias trr='trash-restore' # Restore a trashed file
 alias trrm='trash-rm'     # Remove individual files from the trashcan
-
-# *** MPI ***
-# Compile a C MPI file w/ debugging information, all warnings on, and a specified
-# executable filename
-alias mpic='mpicc -g -Wall -o' # mpic <executable> <source file>
-
-# *** OpenMP ***
-# Compile a C OpenMP file w/ debugging information, all warnings on, and a specified
-# executable filename
-alias opmp='gcc -g -Wall -fopenmp -o' # openmp <executable> <source file>
 
 # *** Make ***
 alias makec='make clean'      # Remove *.o files, but leave executable
