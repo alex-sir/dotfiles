@@ -1,0 +1,17 @@
+#!/usr/bin/env lua
+-- Toggle picture-in-picture (PiP) for a Hyprland window
+-- Resizes the window to a small size, moves it to the bottom right, & pins it
+
+os.execute("hyprctl dispatch \"hl.dsp.window.float({ action = 'toggle' })\"")
+--[[
+  "relative = false" ensures that the window is resized & moved to those exact values,
+  completely ignoring its current size & position.
+]]
+{{- if eq .chezmoi.hostname "gored" }}
+os.execute("hyprctl dispatch \"hl.dsp.window.resize({ x = 550, y = 310, relative = false })\"")
+os.execute("hyprctl dispatch \"hl.dsp.window.move({ x = -552, y = 1128, relative = false })\"")
+{{- else if eq .chezmoi.hostname "gorel" }}
+os.execute("hyprctl dispatch \"hl.dsp.window.resize({ x = 455, y = 258, relative = false })\"")
+os.execute("hyprctl dispatch \"hl.dsp.window.move({ x = 1043, y = 740, relative = false })\"")
+{{- end }}
+os.execute("hyprctl dispatch \"hl.dsp.window.pin()\"")

@@ -42,7 +42,7 @@ hl.bind(MainMod .. " + F8", hl.dsp.exec_cmd("grimblast -n -e 5000 -f copysave ar
 hl.bind("CTRL + Print", hl.dsp.exec_cmd("hyprpicker -a -l"))
 hl.bind(MainMod .. " + CTRL + F8", hl.dsp.exec_cmd("hyprpicker -a -l"))
 -- Toggle PiP for a Hyprland window (floating)
-hl.bind(MainMod .. " + SHIFT + P", hl.dsp.exec_cmd("~/.config/hypr/scripts/toggle-pip.sh"))
+hl.bind(MainMod .. " + SHIFT + P", hl.dsp.exec_cmd("lua ~/.config/hypr/scripts/toggle-pip.lua"))
 
 -- Move focus with mainMod + arrow keys
 hl.bind(MainMod .. " + left", hl.dsp.focus({ direction = "left" }))
@@ -55,12 +55,12 @@ hl.bind(MainMod .. " + l", hl.dsp.focus({ direction = "right" }))
 hl.bind(MainMod .. " + k", hl.dsp.focus({ direction = "up" }))
 hl.bind(MainMod .. " + j", hl.dsp.focus({ direction = "down" }))
 
--- Swap windows with mainMod + SHIFT + arrow keys
+-- Swap windows w/ mainMod + SHIFT + arrow keys
 hl.bind(MainMod .. " + SHIFT + left", hl.dsp.window.move({ direction = "left" }))
 hl.bind(MainMod .. " + SHIFT + right", hl.dsp.window.move({ direction = "right" }))
 hl.bind(MainMod .. " + SHIFT + up", hl.dsp.window.move({ direction = "up" }))
 hl.bind(MainMod .. " + SHIFT + down", hl.dsp.window.move({ direction = "down" }))
--- Swap windows with mainMod + SHIFT + Vim keys
+-- Swap windows w/ mainMod + SHIFT + Vim keys
 hl.bind(MainMod .. " + SHIFT + h", hl.dsp.window.move({ direction = "left" }))
 hl.bind(MainMod .. " + SHIFT + l", hl.dsp.window.move({ direction = "right" }))
 hl.bind(MainMod .. " + SHIFT + k", hl.dsp.window.move({ direction = "up" }))
@@ -228,53 +228,37 @@ end)
 -- Multimedia keys for volume and LCD brightness: https://wiki.hypr.land/Configuring/Basics/Binds/#media
 hl.bind(
 	"XF86AudioRaiseVolume",
-	hl.dsp.exec_cmd("~/.config/hypr/scripts/change-volume.sh 'raise'"),
+	hl.dsp.exec_cmd("lua ~/.config/hypr/scripts/change-volume.lua 'raise'"),
 	{ repeating = true, locked = true }
 )
 hl.bind(
 	"XF86AudioLowerVolume",
-	hl.dsp.exec_cmd("~/.config/hypr/scripts/change-volume.sh 'lower'"),
+	hl.dsp.exec_cmd("lua ~/.config/hypr/scripts/change-volume.lua 'lower'"),
 	{ repeating = true, locked = true }
 )
-hl.bind(
-	"XF86AudioMute",
-	hl.dsp.exec_cmd("~/.config/hypr/scripts/change-volume.sh 'mute'"),
-	{ repeating = true, locked = true }
-)
-hl.bind(
-	MainMod .. " + F9",
-	hl.dsp.exec_cmd("~/.config/hypr/scripts/change-volume.sh 'mute'"),
-	{ repeating = true, locked = true }
-)
-hl.bind(
-	"XF86AudioMicMute",
-	hl.dsp.exec_cmd("~/.config/hypr/scripts/toggle-mic-mute.sh"),
-	{ repeating = true, locked = true }
-)
-hl.bind(
-	MainMod .. " + F10",
-	hl.dsp.exec_cmd("~/.config/hypr/scripts/toggle-mic-mute.sh"),
-	{ repeating = true, locked = true }
-)
+hl.bind("XF86AudioMute", hl.dsp.exec_cmd("lua ~/.config/hypr/scripts/change-volume.lua 'mute'"), { locked = true })
+hl.bind(MainMod .. " + F9", hl.dsp.exec_cmd("lua ~/.config/hypr/scripts/change-volume.lua 'mute'"), { locked = true })
+hl.bind("XF86AudioMicMute", hl.dsp.exec_cmd("lua ~/.config/hypr/scripts/toggle-mic-mute.lua"), { locked = true })
+hl.bind(MainMod .. " + F10", hl.dsp.exec_cmd("lua ~/.config/hypr/scripts/toggle-mic-mute.lua"), { locked = true })
 -- Requires brightnessctl
 hl.bind(
 	"XF86MonBrightnessUp",
-	hl.dsp.exec_cmd("~/.config/hypr/scripts/change-brightness.sh 'raise'"),
+	hl.dsp.exec_cmd("lua ~/.config/hypr/scripts/change-brightness.lua 'raise'"),
 	{ repeating = true, locked = true }
 )
 hl.bind(
 	"XF86MonBrightnessDown",
-	hl.dsp.exec_cmd("~/.config/hypr/scripts/change-brightness.sh 'lower'"),
+	hl.dsp.exec_cmd("lua ~/.config/hypr/scripts/change-brightness.lua 'lower'"),
 	{ repeating = true, locked = true }
 )
 hl.bind(
 	MainMod .. " + F2",
-	hl.dsp.exec_cmd("~/.config/hypr/scripts/change-brightness.sh 'raise'"),
+	hl.dsp.exec_cmd("lua ~/.config/hypr/scripts/change-brightness.lua 'raise'"),
 	{ repeating = true, locked = true }
 )
 hl.bind(
 	MainMod .. " + F1",
-	hl.dsp.exec_cmd("~/.config/hypr/scripts/change-brightness.sh 'lower'"),
+	hl.dsp.exec_cmd("lua ~/.config/hypr/scripts/change-brightness.lua 'lower'"),
 	{ repeating = true, locked = true }
 )
 -- Requires playerctl
@@ -283,10 +267,14 @@ hl.bind("XF86AudioPause", hl.dsp.exec_cmd("playerctl play-pause"), { locked = tr
 hl.bind("XF86AudioPlay", hl.dsp.exec_cmd("playerctl play-pause"), { locked = true })
 hl.bind("XF86AudioPrev", hl.dsp.exec_cmd("playerctl previous"), { locked = true })
 -- Mute/unmute the currently active window
-hl.bind(MainMod .. " + M", hl.dsp.exec_cmd("~/.config/hypr/scripts/change-window-mute.sh 'mute'"), { locked = true })
+hl.bind(
+	MainMod .. " + M",
+	hl.dsp.exec_cmd("lua ~/.config/hypr/scripts/change-window-mute.lua 'mute'"),
+	{ locked = true }
+)
 hl.bind(
 	MainMod .. " + SHIFT + M",
-	hl.dsp.exec_cmd("~/.config/hypr/scripts/change-window-mute.sh 'unmute'"),
+	hl.dsp.exec_cmd("lua ~/.config/hypr/scripts/change-window-mute.lua 'unmute'"),
 	{ locked = true }
 )
 
