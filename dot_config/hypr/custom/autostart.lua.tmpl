@@ -6,7 +6,7 @@
 hl.on("hyprland.start", function()
   hl.exec_cmd(Terminal)
   hl.exec_cmd(Browser)
-  hl.exec_cmd("systemctl --user start hyprpolkitagent") -- Enable polit authentication
+  hl.exec_cmd("systemctl --user start hyprpolkitagent") -- Enable polkit authentication
   hl.exec_cmd("dunst") -- Notification daemon
   hl.exec_cmd("hyprpaper") -- Wallpaper utility
   hl.exec_cmd("hyprlauncher -d") -- Launcher/picker. Spawn daemon without opening a window.

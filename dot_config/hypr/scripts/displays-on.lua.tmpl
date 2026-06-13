@@ -7,7 +7,7 @@ local hour = os.date("*t").hour
 os.execute("hyprctl dispatch \"hl.dsp.dpms({ action = 'on' })\"")
 
 -- Reapply hyprsunset, as a current BUG resets the blue light filter when hypridle activates
-if hour >= 23 or hour <= 9 then
+if hour >= 19 or hour < 5 then
 	os.execute("hyprctl hyprsunset temperature 3400")
 else
 	os.execute("hyprctl hyprsunset identity true") -- Value of temperature is ignored, but brightness still affected by gamma
