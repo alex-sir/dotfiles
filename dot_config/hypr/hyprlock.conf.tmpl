@@ -9,6 +9,7 @@
 # Shortcuts to clear password buffer: ESC, Ctrl+U, Ctrl+Backspace
 
 $FONT = Noto Sans
+$POWER_Y = -12.5%
 
 # https://wiki.hypr.land/Hypr-Ecosystem/hyprlock/#general
 general {
@@ -146,4 +147,80 @@ label {
   position = 0, -45%
   halign = center
   valign = top
+}
+
+# Suspend
+label {
+  monitor =
+  text = <br/><span font_size="15pt">Suspend</span>
+  text_align = center
+  color = rgb(cacace)
+
+  # Font
+  font_size = 30
+  font_family = $FONT
+
+  # Positioning
+  position = -200, $POWER_Y
+  halign = center
+  valign = center
+
+  onclick = systemctl suspend
+}
+
+# Reboot
+label {
+  monitor =
+  text = <br/><span font_size="15pt">Reboot</span>
+  text_align = center
+  color = rgb(cacace)
+
+  # Font
+  font_size = 30
+  font_family = $FONT
+
+  # Positioning
+  position = -66.5, $POWER_Y
+  halign = center
+  valign = center
+
+  onclick = hyprshutdown -t 'Restarting...' --post-cmd 'reboot'
+}
+
+# Shutdown
+label {
+  monitor =
+  text = <br/><span font_size="15pt">Shutdown</span>
+  text_align = center
+  color = rgb(cacace)
+
+  # Font
+  font_size = 30
+  font_family = $FONT
+
+  # Positioning
+  position = 66.5, $POWER_Y
+  halign = center
+  valign = center
+
+  onclick = hyprshutdown -t 'Shutting down...' --post-cmd 'shutdown -P 0'
+}
+
+# Logout
+label {
+  monitor =
+  text = 󰗽<br/><span font_size="15pt">Logout</span>
+  text_align = center
+  color = rgb(cacace)
+
+  # Font
+  font_size = 30
+  font_family = $FONT
+
+  # Positioning
+  position = 200, $POWER_Y
+  halign = center
+  valign = center
+
+  onclick = hyprshutdown
 }
