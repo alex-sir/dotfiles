@@ -80,3 +80,14 @@ hl.window_rule({
   move = "1043 740",
   {{- end }}
 })
+
+-- Float all Zoom windows
+--[[
+hl.window_rule({
+  name = "float-zoom",
+  match = {
+    initial_class = "zoom"
+  },
+  float = true
+})
+]]

@@ -69,6 +69,7 @@ hl.config({
 		-- Bar at the top of a group showing the different windows
 		groupbar = {
 			font_family = FONT,
+			disable_when_only = true,
 			font_size = 14,
 			font_weight_active = "bold", -- Font weight of active groupbar title
 			height = 15, -- Height of the groupbar

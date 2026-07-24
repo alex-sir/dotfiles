@@ -33,6 +33,8 @@ prepend_rules = [
   { mime = "image/jxl", use = [ "image" ] },
   # Custom rule for viewing PDF files
   { mime = "application/pdf", use = [ "pdf" ] },
+  # Custom rule for opening CSV files with LibreOffice Calc
+  { mime = "text/csv", use = [ "libreoffice_calc", "edit", "reveal" ] },
 ]
 
 [opener]
@@ -59,4 +61,7 @@ pdf = [
   { run = "zathura %s", desc = "zathura", orphan = true, for = "linux" },
   { run = "firefox %s", desc = "Firefox", for = "linux" },
   { run = 'exiftool -k %s && clear', desc = "Show EXIF", block = true, for = "linux"}
+]
+libreoffice_calc = [
+  { run = 'libreoffice --calc %s', desc = "LibreOffice Calc", orphan = true, for = "linux" }
 ]
