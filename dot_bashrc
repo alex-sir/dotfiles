@@ -166,6 +166,9 @@ alias hyprrb="hyprshutdown -t 'Restarting...' --post-cmd 'reboot'"
 # Shutdown gracefully
 alias hyprsd="hyprshutdown -t 'Shutting down...' --post-cmd 'shutdown -P 0'"
 
+# *** OSG ***
+alias osg="ssh alexander.carbajal@ap40.uw.osg-htc.org"
+
 PS1='[\u@\h \W]\$ '
 
 # Environment variables
